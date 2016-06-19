@@ -2,11 +2,10 @@ var submitButtonRight = document.querySelector('#submit-right');
 
 function addMessageToBoardRight() {
   var messageInputElemRight = document.querySelector('#message-input-right');
-  var boardElemRight = document.querySelector('.content-right');
   var msgRight = messageInputElemRight.value;
   messageInputElemRight.value = '';
-  boardElemRight.innerHTML = boardElemRight.innerHTML + '<p>' + msgRight +
-    '</p>';
+  addMessageToBoard(msgRight, "content-right")
+
 }
 
 submitButtonRight.addEventListener('click', addMessageToBoardRight);
@@ -15,10 +14,16 @@ var submitButtonLeft = document.querySelector('#submit-left');
 
 function addMessageToBoardLeft() {
   var messageInputElemLeft = document.querySelector('#message-input-left');
-  var boardElemLeft = document.querySelector('.content-left');
   var msgLeft = messageInputElemLeft.value;
   messageInputElemLeft.value = '';
-  boardElemLeft.innerHTML = boardElemLeft.innerHTML + '<p>' + msgLeft + '</p>';
+  addMessageToBoard(msgLeft, "content-left")
 }
 
 submitButtonLeft.addEventListener('click', addMessageToBoardLeft);
+
+function addMessageToBoard(msg, className) {
+  var boardElem = document.querySelector('.message-board');
+  boardElem.innerHTML = boardElem.innerHTML + '<p class="' + className + ' message" >' +
+    msg + '</p>';
+
+}

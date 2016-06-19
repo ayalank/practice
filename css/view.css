@@ -5,25 +5,21 @@ body {
 
 .bordered-box {
   width: 50%;
-  right: 20px;
   border: 1px solid rgb(28, 40, 99);
   padding: 10px;
-  margin: 10px;
+  margin: auto;
+}
+
+.message-board {
+  height: 85vh;
+
 }
 
 .content-right {
-  margin: auto;
-  width: 50%;
-  height: 85vh;
-  padding-top: 10px;
   text-align: right;
 }
 
-.contant-left {
-  margin: auto;
-  width: 50%;
-  height: 85vh;
-  padding-top: 10px;
+.content-left {
   text-align: left;
 }
 
@@ -35,4 +31,9 @@ body {
  border: none;
  margin: 10px;
  padding: 0px;
+}
+
+.message {
+  padding-top: 10px;
+  font-family: Verdana, sans-serif;
 }
