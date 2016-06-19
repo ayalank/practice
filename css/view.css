@@ -1,19 +1,38 @@
-body { text-align: center; }
+body {
+  text-align: center;
+  margin: 10px;
+}
 
-#content {
+.bordered-box {
+  width: 50%;
+  right: 20px;
+  border: 1px solid rgb(28, 40, 99);
+  padding: 10px;
+  margin: 10px;
+}
+
+.content-right {
   margin: auto;
   width: 50%;
-  height: 150px;
-  border: 3px solid #73AD21;
-  padding: 10px;
+  height: 85vh;
+  padding-top: 10px;
+  text-align: right;
+}
+
+.contant-left {
+  margin: auto;
+  width: 50%;
+  height: 85vh;
+  padding-top: 10px;
+  text-align: left;
 }
 
 #submit {
  color: #73AD21;
  font-size: 100%;
- width: 70px;
+ width: 50px;
  height: 30px;
  border: none;
- margin: 0;
- padding: 0;
+ margin: 10px;
+ padding: 0px;
 }
