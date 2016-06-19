@@ -1,27 +1,38 @@
 body {
   text-align: center;
-  margin: 0;
+  margin: 10px;
 }
 
 .bordered-box {
-  width: 100%;
+  width: 50%;
+  right: 20px;
   border: 1px solid rgb(28, 40, 99);
   padding: 10px;
+  margin: 10px;
 }
 
-.content {
+.content-right {
   margin: auto;
-  width: 100%;
+  width: 50%;
   height: 85vh;
-  padding-top: 50px;
+  padding-top: 10px;
+  text-align: right;
+}
+
+.contant-left {
+  margin: auto;
+  width: 50%;
+  height: 85vh;
+  padding-top: 10px;
+  text-align: left;
 }
 
 #submit {
  color: #73AD21;
  font-size: 100%;
- width: 70px;
- height: 30px;1
+ width: 50px;
+ height: 30px;
  border: none;
- margin: 0;
- padding: 0;
+ margin: 10px;
+ padding: 0px;
 }
