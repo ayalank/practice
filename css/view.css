@@ -1,6 +1,7 @@
 body {
   text-align: center;
   margin: 10px;
+  background-color: darkgray;
 }
 
 .bordered-box {
@@ -12,15 +13,17 @@ body {
 
 .message-board {
   height: 85vh;
-
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/79/5c/ab/795cabc4647f73b365e2e6eabd0f34dc.jpg);
 }
 
 .content-right {
   text-align: right;
+  background-color: white;
 }
 
 .content-left {
   text-align: left;
+  background-color: rgb(124, 171, 124);
 }
 
 #submit {
@@ -36,4 +39,8 @@ body {
 .message {
   padding-top: 10px;
   font-family: Verdana, sans-serif;
+  padding: 8px;
+  box-shadow: 0 0 11px 5px rgba(128, 128, 128, 0.32);
+  border-radius: 9px;
+
 }
