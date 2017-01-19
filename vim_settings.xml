@@ -366,7 +366,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -405,13 +405,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">bm1hcCA8Qy0nPiBjaSc=</entry>
         <entry>actionlist other</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
