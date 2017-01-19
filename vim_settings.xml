@@ -1,0 +1,387 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map.tsx" timestamp="1483531273233">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1484121168822">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484126174457">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/MEGA/fullstack/jb-mocha/tests/users.spec.js" timestamp="1484386085536">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="60" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1484858808074">
+        <mark key="[" line="110" column="65" />
+        <mark key="]" line="110" column="75" />
+        <mark key="." line="110" column="75" />
+        <mark key="^" line="110" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1483535498311">
+        <mark key="'" line="94" column="3" />
+        <mark key="[" line="122" column="33" />
+        <mark key="]" line="122" column="33" />
+        <mark key="^" line="122" column="33" />
+        <mark key="." line="122" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/schema.js" timestamp="1484409974081">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/customer.js" timestamp="1484405336686">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" timestamp="1484398734870">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-info-window.tsx" timestamp="1484126977660">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1484734543775">
+        <mark key="'" line="64" column="17" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/MEGA/fullstack/mocha/package.json" timestamp="1484137301696">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1484736029168">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/realazon-server.ts" timestamp="1483535299784">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dude.js" timestamp="1484409099585">
+        <mark key="'" line="16" column="70" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/maps/maps.ts" timestamp="1483531753274">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/setup-mongoose.js" timestamp="1484403035637">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/index.js" timestamp="1484400642914">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1484743624232">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/scroll-element.tsx" timestamp="1484859868920">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="70" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1484859840411">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/config/mongoose.json" timestamp="1484395812443">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" timestamp="1484856130160">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/middlewares/index.ts" timestamp="1483518384390">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1484732034424">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1484123867344">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1483516933624">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/containers/asset-map.tsx" timestamp="1483526287475">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="184" column="43" />
+        <mark key="^" line="184" column="43" />
+        <mark key="." line="184" column="43" />
+      </file>
+      <file name="$USER_HOME$/.WebStorm2017.1/webstorm64.vmoptions" timestamp="1484121145942">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484125476258">
+        <mark key="[" line="26" column="79" />
+        <mark key="]" line="26" column="86" />
+        <mark key="." line="26" column="86" />
+        <mark key="^" line="26" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dish.js" timestamp="1484413255369">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1484136187467">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="37" filename="$USER_HOME$/projects/sputnik/app.tsx" />
+      <jump line="94" column="3" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/app.tsx" />
+      <jump line="10" column="6" filename="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" />
+      <jump line="9" column="34" filename="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" />
+      <jump line="12" column="5" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
+      <jump line="729" column="65" filename="$USER_HOME$/projects/sputnik/src/pages/playground.tsx" />
+      <jump line="18" column="20" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
+      <jump line="15" column="78" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
+      <jump line="10" column="45" filename="$USER_HOME$/projects/sputnik/src/components/asset-list.tsx" />
+      <jump line="608" column="53" filename="$USER_HOME$/projects/sputnik/src/pages/playground.tsx" />
+      <jump line="609" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/playground.tsx" />
+      <jump line="9" column="52" filename="$USER_HOME$/projects/sputnik/src/components/asset-list.tsx" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" />
+      <jump line="10" column="42" filename="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" />
+      <jump line="6" column="14" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" />
+      <jump line="8" column="22" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/customer.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" />
+      <jump line="4" column="26" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
+      <jump line="16" column="70" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/dude.js" />
+      <jump line="17" column="7" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="103" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="56" column="21" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
+      <jump line="17" column="47" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="6" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="59" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="45" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="64" column="17" filename="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" />
+      <jump line="42" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
+      <jump line="20" column="26" filename="$USER_HOME$/projects/sputnik/src/components/scroll-element.tsx" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHtzY3JvbGxUb3B9ID0gZG9jdW1lbnQuYm9keTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>scrollTop</text>
+      </register>
+      <register name="/" type="4">
+        <text>col-2</text>
+      </register>
+      <register name="0" type="4">
+        <text>sm-bg-hide</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHtzY3JvbGxUb3B9ID0gZG9jdW1lbnQuYm9keTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUucGFnZVkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHtzY3JvbGxUb3B9ID0gZG9jdW1lbnQuYm9keTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action GotoDeclaration</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>col-2</last-search>
+      <last-offset />
+      <last-pattern>col-2</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>react-router</entry>
+        <entry>.map</entry>
+        <entry>trim</entry>
+        <entry>passport</entry>
+        <entry>top</entry>
+        <entry>Top</entry>
+        <entry>loading</entry>
+        <entry>isLoading</entry>
+        <entry>col-2</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionlist createpaste</entry>
+        <entry encoding="base64">dm1hcCBwIDphY3Rpb24gdWx0aW1hdGVwYXN0ZWJpbi5jcmVhdGVQYXN0ZTxDUj4=</entry>
+        <entry encoding="base64">dm1hcCA7IDphY3Rpb24gdWx0aW1hdGVwYXN0ZWJpbi5jcmVhdGVQYXN0ZTxDUj4=</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>actionlist split</entry>
+        <entry>actionlist gotodecl</entry>
+        <entry encoding="base64">bm1hcCBaIDphY3Rpb24gR290b0RlY2xhcmF0aW9uPENSPg==</entry>
+        <entry>nmap z vi{</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gdWx0aW1hdGVwYXN0ZWJpbi5jcmVhdGVQYXN0ZQ==</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry>action EditorDown</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

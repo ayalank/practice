@@ -1,0 +1,10 @@
+<templateSet group="express">
+  <template name="rr" value="(req, res$more$) =&gt; $END$" description="(req, res) =&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="more" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>

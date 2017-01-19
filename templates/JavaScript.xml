@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="ri" value="const $name$ = require('$package$')$END$" description="require" toReformat="false" toShortenFQNames="true">
+    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="fileNameWithoutExtension()" defaultValue="package" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
