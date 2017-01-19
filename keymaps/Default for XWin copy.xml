@@ -8,6 +8,7 @@
   </action>
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
   <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItemCompleteStatement">
@@ -38,6 +39,7 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
@@ -113,7 +115,11 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ultimatepastebin.createPaste">
     <keyboard-shortcut first-keystroke="alt v" />
     <keyboard-shortcut first-keystroke="alt p" />
