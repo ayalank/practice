@@ -36,11 +36,11 @@
         <mark key="." line="46" column="87" />
         <mark key="^" line="46" column="87" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1484862029124">
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="64" />
-        <mark key="^" line="43" column="64" />
-        <mark key="." line="43" column="64" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1484869580243">
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="42" column="73" />
+        <mark key="." line="42" column="73" />
+        <mark key="^" line="42" column="73" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1484864084037">
         <mark key="'" line="55" column="0" />
@@ -327,7 +327,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>nextProps</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
@@ -342,31 +342,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzLCBuZXh0U3RhdGUpIHsKICAgIHJldHVybiB0aGlzLmp1c3RJbml0aWF0ZWRNYXAobmV4dFN0YXRlLm1hcCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMsCiAgICBtZXRhZGF0YSwKICAgIG9uUGFnZUNoYW5nZWQsCiAgICBvblNvcnQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMsCiAgICBtZXRhZGF0YSwKICAgIG9uUGFnZUNoYW5nZWQsCiAgICBvblNvcnQsCiAgICBvbkJveE1vdXNlRW50ZXIgPSBfLm5vb3AsCiAgICBvbkJveE1vdXNlTGVhdmUgPSBfLm5vb3AK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gV0VCUEFDSyBGT09URVIgLy8KLy8gLi9+L3RzbGludC1sb2FkZXIhLi9zcmMvY29udGFpbmVycy9hc3NldC1tYXAudHN4Cg==</text>
+        <text encoding="base64">ICAgIG9uQm94TW91c2VMZWF2ZSA9IF8ubm9vcAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>properties,
+    metadata,
+    onPageChanged,
+    onSort,
+    onBoxMouseEnter = _.noop,
+    onBoxMouseLeave = _.noop</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib3JkZXIgMAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXIgMAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzLCBuZXh0U3RhdGUpIHsKICAgIHJldHVybiB0aGlzLmp1c3RJbml0aWF0ZWRNYXAobmV4dFN0YXRlLm1hcCk7CiAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -407,11 +412,11 @@
         <entry>actionlist other</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action GotoFile</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
