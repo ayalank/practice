@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CheckinProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
@@ -45,6 +48,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="context_menu" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
