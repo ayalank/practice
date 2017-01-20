@@ -68,11 +68,12 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1484863746537">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="46" column="14" />
-        <mark key="." line="46" column="14" />
-        <mark key="^" line="46" column="14" />
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1484950140154">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
@@ -135,6 +136,13 @@
         <mark key="]" line="52" column="72" />
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" timestamp="1484950696239">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1484862512951">
         <mark key="[" line="56" column="18" />
@@ -243,11 +251,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484930474102">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="41" column="34" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484951327865">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="60" />
+        <mark key="^" line="15" column="60" />
+        <mark key="." line="15" column="60" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dish.js" timestamp="1484413255369">
         <mark key="[" line="11" column="0" />
@@ -260,6 +268,12 @@
         <mark key="]" line="11" column="37" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/slick.styl" timestamp="1484950825964">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -309,13 +323,15 @@
       <jump line="54" column="0" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="13" column="24" filename="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" />
       <jump line="27" column="16" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
@@ -327,34 +343,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtpbWFnZXNbMF19IGNsYXNzTmFtZT0iZml0Ii8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDxkaXY+PC9kaXY+Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5pbWFnZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDxkaXY+PC9kaXY+Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTbGlkZXIgYXJyb3dzPXt0cnVlfSBhdXRvcGxheT17dHJ1ZX0gZG90cz17dHJ1ZX0gaW5maW5pdGU9e3RydWV9PgogICAgICAgICAgICB7dGhpcy5yZW5kZXJJbWFnZUxpc3QoKX0KICAgICAgICAgIDwvU2xpZGVyPgo=</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5pbWFnZXMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaW1hZ2VzIH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxTbGlkZXIgYXJyb3dzPXt0cnVlfSBhdXRvcGxheT17dHJ1ZX0gZG90cz17dHJ1ZX0gaW5maW5pdGU9e3RydWV9PgogICAgICAgICAgICB7dGhpcy5yZW5kZXJJbWFnZUxpc3QoKX0KICAgICAgICAgIDwvU2xpZGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0VGltZW91dAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW1hZ2VzIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -380,14 +396,12 @@
         <entry>magni</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
         <entry>actionlist split</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">bm1hcCA8Qy0nPiBjaSc=</entry>
         <entry>actionlist other</entry>
         <entry encoding="base64">aW1hcCA8Qy1sPiAoKQ==</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
         <entry>imap (( ()</entry>
@@ -400,6 +414,8 @@
         <entry>action ReformatCode</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action AceAction</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
