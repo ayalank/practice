@@ -117,6 +117,9 @@
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>

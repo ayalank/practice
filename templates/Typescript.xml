@@ -31,13 +31,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dprop" value="const {$props$} = this.props$END$" description="Destructure prop" toReformat="false" toShortenFQNames="true">
+  <template name="dp" value="const {$props$} = this.props$END$" description="Destructure prop" toReformat="false" toShortenFQNames="true">
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dstate" value="const {$state$} = this.state$END$" description="Destructure state" toReformat="false" toShortenFQNames="true">
+  <template name="ds" value="const {$state$} = this.state$END$" description="Destructure state" toReformat="false" toShortenFQNames="true">
     <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
@@ -107,6 +107,13 @@
   <template name="cl" value="const $NAME$ = $args$ =&gt; $END$;" description="const lambda" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="capitalizeAndUnderscore(String)" defaultValue="" alwaysStopAt="true" />
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pn" value="$prop$: _.noop$END$" description="prop noop" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
