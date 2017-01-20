@@ -144,11 +144,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1484862512951">
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="57" column="17" />
-        <mark key="^" line="57" column="17" />
-        <mark key="." line="57" column="17" />
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1484951730709">
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="45" column="5" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="45" column="5" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/maps/maps.ts" timestamp="1483531753274">
         <mark key="[" line="42" column="0" />
@@ -251,11 +251,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484951327865">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="60" />
-        <mark key="^" line="15" column="60" />
-        <mark key="." line="15" column="60" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484952000730">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dish.js" timestamp="1484413255369">
         <mark key="[" line="11" column="0" />
@@ -327,47 +327,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0LlJlYWN0Q2hpbGRyZW4K</text>
+        <text encoding="base64">Y29uc3QgbmV4dEJ1dHRvbiA9ICgpID0+IDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSByaWdodC0wIGgxMDAgYmctZ28zIj48L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtpbWFnZXNbMF19IGNsYXNzTmFtZT0iZml0Ii8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgbmV4dEJ1dHRvbiA9ICgpID0+IDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSByaWdodC0wIGgxMDAgYmctZ28zIHdoaXRlIj4mZ3Q7IDwvZGl2PjsKLy8gY29uc3QgcHJldkJ1dHRvbiA9ICgpID0+IDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBsZWZ0LTAgaDEwMCBiZy1nbzMgd2hpdGUiPiZsdDs8L2Rpdj47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dEFycm93PXtuZXh0QnV0dG9ufQogICAgICAgICAgICBwcmV2QXJyb3c9e3ByZXZCdXR0b259Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtpbWFnZXNbMF19IGNsYXNzTmFtZT0iZml0Ii8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDxkaXY+PC9kaXY+Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5pbWFnZXMpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTbGlkZXIgYXJyb3dzPXt0cnVlfSBhdXRvcGxheT17dHJ1ZX0gZG90cz17dHJ1ZX0gaW5maW5pdGU9e3RydWV9PgogICAgICAgICAgICB7dGhpcy5yZW5kZXJJbWFnZUxpc3QoKX0KICAgICAgICAgIDwvU2xpZGVyPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaW1hZ2VzIH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDxkaXY+PC9kaXY+Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -396,25 +396,25 @@
         <entry>magni</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist split</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
-        <entry encoding="base64">bm1hcCA8Qy0nPiBjaSc=</entry>
         <entry>actionlist other</entry>
         <entry encoding="base64">aW1hcCA8Qy1sPiAoKQ==</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
         <entry>imap (( ()</entry>
-        <entry>action EditorDown</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>actionlist splitline</entry>
-        <entry encoding="base64">bm1hcCA8Qy1TLWo+IDphY3Rpb24gRWRpdG9yU3BsaXRMaW5lPENSPg==</entry>
-        <entry>action EditorSplitLine</entry>
         <entry encoding="base64">aW1hcCA8Qy1rPiAoKQ==</entry>
         <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action EditorUp</entry>
+        <entry>action EditorDown</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist split</entry>
+        <entry encoding="base64">bm1hcCA8Qy1TLWo+IDphY3Rpb24gRWRpdG9yU3BsaXRMaW5lPENSPg==</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action AceAction</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
