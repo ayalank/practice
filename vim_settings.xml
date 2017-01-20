@@ -241,11 +241,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484125476258">
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="26" column="86" />
-        <mark key="." line="26" column="86" />
-        <mark key="^" line="26" column="86" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484926922833">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dish.js" timestamp="1484413255369">
         <mark key="[" line="11" column="0" />
@@ -306,13 +307,14 @@
       <jump line="131" column="16" filename="$USER_HOME$/projects/sputnik/src/containers/asset-map.tsx" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="13" column="24" filename="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" />
+      <jump line="27" column="16" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0LlJlYWN0Q2hpbGRyZW4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
@@ -361,7 +363,7 @@
         <text encoding="base64">ICByZXR1cm4gKAogICAgICA8bmF2IGNsYXNzTmFtZT0ic2l0ZS13aWR0aCBteC1hdXRvIHdoaXRlIGNsZWFyZml4Ij4KICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibmF2LWxvZ28gY29sIGNvbC0yIj4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9maWd1cmU+CiAgICAgICAgPHVsIGNsYXNzTmFtZT0ibGlzdC1yZXNldCBjb2wtMyByaWdodCBmbGV4IGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICA8bGk+PExpbmsgdG89Ii9saXN0IiBjbGFzc05hbWU9IndoaXRlIHRleHQtZGVjb3JhdGlvbi1ub25lIj5TZWFyY2g8L0xpbms+PC9saT4KICAgICAgICAgIDxsaT48YSBvbkNsaWNrPXtvbkNsaWNrQWJvdXR9IGNsYXNzTmFtZT0id2hpdGUgdGV4dC1kZWNvcmF0aW9uLW5vbmUiPkFib3V0PC9hPjwvbGk+CiAgICAgICAgICA8bGk+PGEgb25DbGljaz17b25DbGlja05vdGlmaWNhdGlvbn0gY2xhc3NOYW1lPSJ3aGl0ZSB0ZXh0LWRlY29yYXRpb24tbm9uZSI+PGltZwogICAgICAgICAgICAgIHNyYz17cmVxdWlyZTxzdHJpbmc+KCdhc3NldHMvaW1hZ2VzL25hdi1ub3RpZmljYXRpb25zLnBuZycpfSBhbHQ9IiIvPjwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGk+PGEgb25DbGljaz17b25DbGlja1NldHRpbmdzfSBjbGFzc05hbWU9IndoaXRlIHRleHQtZGVjb3JhdGlvbi1ub25lIj48aW1nCiAgICAgICAgICAgICAgc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LXByb2ZpbGUucG5nJyl9IGFsdD0iIi8+PC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L25hdj4KICApOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>imap (( ()</text>
       </register>
     </registers>
     <search>
@@ -387,7 +389,6 @@
         <entry>magni</entry>
       </history-search>
       <history-cmd>
-        <entry>nmap z vi{</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gdWx0aW1hdGVwYXN0ZWJpbi5jcmVhdGVQYXN0ZQ==</entry>
         <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
@@ -399,14 +400,15 @@
         <entry encoding="base64">bm1hcCA8Qy0nPiBjaSc=</entry>
         <entry>actionlist other</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry encoding="base64">aW1hcCA8Qy1sPiAoKQ==</entry>
         <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry>imap (( ()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
