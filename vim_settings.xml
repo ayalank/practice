@@ -100,11 +100,11 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485035369101">
-        <mark key="[" line="58" column="125" />
-        <mark key="]" line="58" column="125" />
-        <mark key="." line="58" column="125" />
-        <mark key="^" line="58" column="125" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485037613343">
+        <mark key="[" line="55" column="78" />
+        <mark key="]" line="55" column="78" />
+        <mark key="." line="55" column="78" />
+        <mark key="^" line="55" column="79" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484994098045">
         <mark key="'" line="42" column="0" />
@@ -364,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>58</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>58</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
