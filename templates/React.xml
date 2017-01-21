@@ -1,0 +1,9 @@
+<templateSet group="React">
+  <template name="scomp" value="interface $name$Props {&#10;    $END$&#10;}&#10;&#10;export default function $name$($args$: $name$Props) {&#10;    &#10;}" description="Stateless Component" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
