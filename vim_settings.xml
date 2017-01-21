@@ -391,7 +391,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPFNsaWRlciBhdXRvcGxheT17dHJ1ZX0gYXJyb3dzPXt0cnVlfSBkb3RzPXtmYWxzZX0+CiAgICAgICAgICAgICAge2NtcC5waWNzLm1hcChwaWMgPT4gPGltZyBzcmM9e3BpY30vPil9CiAgICAgICAgICAgIDwvU2xpZGVyPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -434,9 +434,9 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
