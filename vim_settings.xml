@@ -100,10 +100,11 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1484958201905">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485035369101">
+        <mark key="[" line="58" column="125" />
+        <mark key="]" line="58" column="125" />
+        <mark key="." line="58" column="125" />
+        <mark key="^" line="58" column="125" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484994098045">
         <mark key="'" line="42" column="0" />
@@ -363,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>magni</text>
@@ -405,7 +406,7 @@
         <text encoding="base64">ICBpZiAoYXNCYWNrZ3JvdW5kKSB7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -449,8 +450,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
