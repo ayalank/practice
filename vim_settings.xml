@@ -36,9 +36,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1484957857655">
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1485340385682">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="91" column="32" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
@@ -59,11 +61,11 @@
         <mark key="^" line="47" column="109" />
         <mark key="." line="47" column="109" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1484951730709">
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="5" />
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1485341356848">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="50" column="32" />
+        <mark key="^" line="50" column="32" />
+        <mark key="." line="50" column="32" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/index.js" timestamp="1484400642914">
         <mark key="[" line="26" column="47" />
@@ -93,6 +95,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/specifics.styl" timestamp="1485340503365">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1483516933624">
         <mark key="[" line="17" column="52" />
@@ -156,6 +164,13 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" timestamp="1485341974071">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-info-window.tsx" timestamp="1484126977660">
         <mark key="[" line="24" column="56" />
         <mark key="]" line="24" column="56" />
@@ -167,12 +182,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1484862371741">
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485341469924">
         <mark key="'" line="63" column="24" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+        <mark key="[" line="0" column="107" />
+        <mark key="]" line="0" column="110" />
+        <mark key="." line="0" column="117" />
+        <mark key="^" line="0" column="110" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/realazon-server.ts" timestamp="1483535299784">
         <mark key="[" line="20" column="0" />
@@ -343,58 +358,63 @@
       <jump line="39" column="66" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
       <jump line="66" column="15" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
+      <jump line="31" column="92" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>58</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>58</text>
+        <text>NewAssetListBox</text>
       </register>
       <register name="/" type="4">
-        <text>magni</text>
+        <text>c7c7c7</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3RoaXMucHJvcHMuaW1hZ2VzLm1hcChzcmMgPT4gPGltZyBzcmM9e3NyY30ga2V5PXtzcmN9IG9uQ2xpY2s9e3RoaXMudG9nZ2xlR2FsbGVyeX0vPil9Cg==</text>
+      <register name="0" type="4">
+        <text>AssetListBox</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NOYW1lPSJmaXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLmltYWdlcy5tYXAoc3JjID0+IDxpbWcgc3JjPXtzcmN9IGtleT17c3JjfSBvbkNsaWNrPXt0aGlzLnRvZ2dsZUdhbGxlcnl9Lz4pfQo=</text>
+      <register name="2" type="4">
+        <text>m0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA+Cg==</text>
+      <register name="3" type="4">
+        <text>m0</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJjb2wgY29sLTMgcHJvcGVydHktc2VhcmNoLXJlc3VsdCBib3JkZXIgYm9yZGVyLWcxMCI+CiAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im0wIGNvbCBjb2wtNCByZWxhdGl2ZSBoMTAwIGJnLWNvdmVyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGltZyBzcmM9ewo=</text>
+        <text encoding="base64">Lml0ZW0tYmxvY2staGVpZ2h0CiAgbWluLWhlaWdodCAxMTlweAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0Q2hpbGRyZW4gPSBSZWFjdC5SZWFjdENoaWxkcmVuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiBpLWJ1aWxkaW5nLXNtYWxsIi8+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="x" type="4">
+        <text>m0</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoYXNCYWNrZ3JvdW5kKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMyI+YmF0aHM8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
-      <last-search>magni</last-search>
+      <last-search>c7c7c7</last-search>
       <last-offset />
-      <last-pattern>magni</last-pattern>
+      <last-pattern>c7c7c7</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -412,28 +432,29 @@
         <entry>#F17E56</entry>
         <entry>Contact</entry>
         <entry>magni</entry>
+        <entry>c7c7c7</entry>
       </history-search>
       <history-cmd>
-        <entry>imap (( ()</entry>
-        <entry>actionlist splitline</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action EditorUp</entry>
-        <entry>actionlist</entry>
-        <entry>actionlist split</entry>
-        <entry encoding="base64">bm1hcCA8Qy1TLWo+IDphY3Rpb24gRWRpdG9yU3BsaXRMaW5lPENSPg==</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">aW1hcCA8Qy1rPiAoKQ==</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action EditorDown</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorDown</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry encoding="base64">bm1hcCA8Qy1TLV0+IGRhd2JQ</entry>
+        <entry encoding="base64">bm1hcCA8Qy1TLV0+IGRhd3dQ</entry>
+        <entry encoding="base64">bm1hcCA8Qy1TLVs+IGRhd2JQ</entry>
+        <entry encoding="base64">bm1hcCA8Qy1TLV0+ICJ4ZGl3ZHdlcCJ4cA==</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry encoding="base64">bm1hcCA8Qy1wPiBpPHNwYWNlPjxFc2M+cA==</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -495,6 +516,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

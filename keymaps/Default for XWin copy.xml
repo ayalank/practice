@@ -76,6 +76,9 @@
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
@@ -98,6 +101,9 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowPopupMenu" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
