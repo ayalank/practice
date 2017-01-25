@@ -100,12 +100,6 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485037613343">
-        <mark key="[" line="55" column="78" />
-        <mark key="]" line="55" column="78" />
-        <mark key="." line="55" column="78" />
-        <mark key="^" line="55" column="79" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484994098045">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="47" column="22" />
@@ -167,12 +161,6 @@
         <mark key="]" line="24" column="56" />
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="52" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1484871632926">
-        <mark key="[" line="147" column="38" />
-        <mark key="]" line="147" column="43" />
-        <mark key="^" line="147" column="43" />
-        <mark key="." line="147" column="43" />
       </file>
       <file name="$USER_HOME$/MEGA/fullstack/mocha/package.json" timestamp="1484137301696">
         <mark key="[" line="6" column="0" />
@@ -254,12 +242,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1484994263093">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/middlewares/index.ts" timestamp="1483518384390">
         <mark key="[" line="12" column="0" />
