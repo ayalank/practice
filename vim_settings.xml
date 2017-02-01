@@ -219,10 +219,10 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/search.ts" timestamp="1485940885109">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/search.ts" timestamp="1485947608059">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/auth.ts" timestamp="1485941275535">
@@ -268,7 +268,13 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485939276031" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485948518730">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="59" column="74" />
+        <mark key="]" line="59" column="74" />
+        <mark key="^" line="57" column="12" />
+        <mark key="." line="59" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1485938866321">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="52" column="3" />
@@ -294,12 +300,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/schemas.ts" timestamp="1485940982996">
-        <mark key="'" line="11" column="49" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="6" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/schemas.ts" timestamp="1485947584460">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1484136187467">
         <mark key="[" line="11" column="26" />
@@ -343,7 +349,6 @@
       <jump line="40" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="103" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="56" column="21" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
       <jump line="17" column="47" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="6" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="59" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -378,7 +383,6 @@
       <jump line="64" column="18" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="65" column="16" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="66" column="18" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="11" column="49" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
       <jump line="12" column="31" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="38" column="27" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="40" column="19" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
@@ -388,16 +392,22 @@
       <jump line="89" column="15" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="106" column="18" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
       <jump line="14" column="50" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
+      <jump line="11" column="48" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
+      <jump line="6" column="27" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
+      <jump line="7" column="27" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
+      <jump line="8" column="29" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
+      <jump line="102" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>properties</text>
+        <text>arrayof</text>
       </register>
       <register name="0" type="4">
         <text>'asset', 'assumptions'</text>
@@ -406,43 +416,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2V0U2VsZWN0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgVXNlciA9IG5ldyBTY2hlbWEoJ3VzZXInKTsK</text>
+        <text encoding="base64">Y29uc3QgYWxsQ29tcGFyYWJsZXNTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogICAgY29tcGFyYWJsZXNTZWxlY3RvciwKICAgIGNtcHMgPT4gY21wcy5nZXQoJ3Jlc3VsdCcpLnRvSlMoKSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY29tcGFyYWJsZXNFbnRpdGllc1NlbGVjdG9yID0gY3JlYXRlU2VsZWN0b3IoCiAgICBjb21wYXJhYmxlc1NlbGVjdG9yLAogICAgY21wcyA9PiBjbXBzLmdldEluKFsnZW50aXRpZXMnLCAnY29tcGFyYWJsZXMnXSkpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc2VhcmNoUmVzdWx0QXJyYXkgPSBhcnJheU9mKHNlYXJjaFJlc3VsdHMpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0Q29tcGFyYWJsZUJ5VHlwZShjb21wYXJhYmxlVHlwZSwgY29tcGFyYWJsZXNFbnRpdGllcykgewogIHJldHVybiBjb21wYXJhYmxlVHlwZS5tYXAoCiAgICAgIGlkID0+IGNvbXBhcmFibGVzRW50aXRpZXMuZ2V0KGlkLnRvU3RyaW5nKCkpLnRvSlMoKQogICkuZmlsdGVyKHggPT4geC5hY3RpdmUpOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0Q29tcGFyYWJsZUJ5VHlwZShjb21wYXJhYmxlVHlwZSwgY29tcGFyYWJsZXNFbnRpdGllcykgewogIHJldHVybiBjb21wYXJhYmxlVHlwZS5tYXAoCiAgICAgIGlkID0+IGNvbXBhcmFibGVzRW50aXRpZXMuZ2V0KGlkLnRvU3RyaW5nKCkpLnRvSlMoKQogICkuZmlsdGVyKHggPT4geC5hY3RpdmUpOwp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2VhcmNoUmVzdWx0cyA9IG5ldyBTY2hlbWEoJ3NlYXJjaFJlc3VsdHMnLCB7aWRBdHRyaWJ1dGU6ICdfaWQnfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3RhdGUuc2V0SW4oWydhc3NldCcsICdhc3N1bXB0aW9ucyddLCBzdGF0ZS5nZXRJbihbJ2Fzc2V0JywgJ2Fzc3VtcHRpb25zJ10pLm1lcmdlKHBheWxvYWQudmFsdWVzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW50OiBnZXRDb21wYXJhYmxlQnlUeXBlKHJlbnQsIGNvbXBhcmFibGVzRW50aXRpZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc29ydEJ5QWN0aXZlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZWQ6IGdldENvbXBhcmFibGVCeVR5cGUoY2xvc2VkLCBjb21wYXJhYmxlc0VudGl0aWVzKSwK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc3J0Y21wID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmU6IGdldENvbXBhcmFibGVCeVR5cGUoYWN0aXZlLCBjb21wYXJhYmxlc0VudGl0aWVzKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>properties</last-search>
+      <last-search>arrayof</last-search>
       <last-offset />
-      <last-pattern>properties</last-pattern>
+      <last-pattern>arrayof</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -463,9 +473,9 @@
         <entry>c7c7c7</entry>
         <entry>color-y</entry>
         <entry>ccc</entry>
-        <entry>arrayof</entry>
         <entry>proper</entry>
         <entry>properties</entry>
+        <entry>arrayof</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8Qy1TLV0+IGRhd3dQ</entry>
@@ -479,15 +489,15 @@
         <entry>nmap L dd</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoFile</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
