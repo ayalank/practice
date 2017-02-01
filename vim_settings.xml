@@ -263,12 +263,10 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485952067982">
-        <mark key="'" line="45" column="1" />
-        <mark key="[" line="34" column="95" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="37" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485952677657">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1485938866321">
         <mark key="'" line="18" column="0" />
@@ -413,10 +411,11 @@
       <jump line="110" column="7" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
       <jump line="45" column="1" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
+      <jump line="54" column="1" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFByb3BlcnRpZXMgPSBjcmVhdGVTZWxlY3RvcigKICAgIGZpbHRlcmVkUHJvcGVydGllcywKICAgIGZpbHRlcmVkID0+IHJldHJpZXZlUmVzdWx0c0Zyb20oZmlsdGVyZWQsICdwcm9wZXJ0aWVzJykKKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -431,34 +430,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wYXJhYmxlfSBmcm9tICcuLi8uLi90eXBlcy9hcGkvY29tcGFyYWJsZSc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFByb3BlcnRpZXMgPSBjcmVhdGVTZWxlY3RvcigKICAgIGZpbHRlcmVkUHJvcGVydGllcywKICAgIGZpbHRlcmVkID0+IHJldHJpZXZlUmVzdWx0c0Zyb20oZmlsdGVyZWQsICdwcm9wZXJ0aWVzJykKKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEFzc2V0ID0gY3JlYXRlU2VsZWN0b3IoCiAgICBhc3NldFNlbGVjdG9yLAogICAgIGFzc2V0ID0+IGFzc2V0LnRvSlMoKQopOwoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KGNvbXBhcmFibGVzOiBDb21wYXJhYmxlW10pIHsKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHtDb21wYXJhYmxlfSBmcm9tICcuLi8uLi90eXBlcy9hcGkvY29tcGFyYWJsZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KGNvbXBhcmFibGVzOiBDb21wYXJhYmxlW10pIHsKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlOiB7fSwKICAgICAgY2xvc2VkOiB7fSwKICAgICAgcmVudDoge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2V0U2VsZWN0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYWxsQ29tcGFyYWJsZXNTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogICAgY29tcGFyYWJsZXNTZWxlY3RvciwKICAgIGNtcHMgPT4gY21wcy5nZXQoJ3Jlc3VsdCcpLnRvSlMoKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlOiB7fSwKICAgICAgY2xvc2VkOiB7fSwKICAgICAgcmVudDoge30K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29tcGFyYWJsZXNFbnRpdGllc1NlbGVjdG9yID0gY3JlYXRlU2VsZWN0b3IoCiAgICBjb21wYXJhYmxlc1NlbGVjdG9yLAogICAgY21wcyA9PiBjbXBzLmdldEluKFsnZW50aXRpZXMnLCAnY29tcGFyYWJsZXMnXSkpOwoK</text>
+        <text encoding="base64">ICAgIGFzc2V0U2VsZWN0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
