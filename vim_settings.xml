@@ -12,11 +12,11 @@
       <file name="/fragment.tsx" timestamp="1485980993392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1484871565373">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1485984263972">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1484958115746">
         <mark key="[" line="40" column="97" />
@@ -29,7 +29,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1485353282257">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1485984167038">
         <mark key="[" line="112" column="39" />
         <mark key="]" line="112" column="39" />
         <mark key="." line="112" column="39" />
@@ -461,17 +461,17 @@
       <jump line="38" column="0" filename="$USER_HOME$/projects/sputnik/src/containers/home-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>className=&quot;pt1&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gdGhpcy5nZXRGYWxsYmFja1NlYXJjaFJlc3VsdCgpIA==</text>
+        <text encoding="base64">IGNsYXNzTmFtZT0icHQxIj4=</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYC9wcm9wZXJ0eS8ke3ZhbHVlfWAgOgo=</text>
+      <register name="0" type="4">
+        <text>className=&quot;pt1&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -507,7 +507,7 @@
         <text encoding="base64">ICAgIHJldHVybiByZWZyZXNoQXQocmVkaXJlY3RVUkwpOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -559,10 +559,10 @@
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
