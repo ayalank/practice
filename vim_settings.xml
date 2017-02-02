@@ -199,12 +199,12 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1486066687606">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1486069074649">
         <mark key="'" line="185" column="15" />
-        <mark key="[" line="253" column="45" />
-        <mark key="]" line="254" column="49" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="37" />
         <mark key="^" line="254" column="49" />
-        <mark key="." line="254" column="49" />
+        <mark key="." line="72" column="37" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485352704233">
         <mark key="'" line="34" column="0" />
@@ -457,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.props.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
