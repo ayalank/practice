@@ -29,8 +29,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1485979697365">
-        <mark key="'" line="152" column="55" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1486068207732">
+        <mark key="'" line="73" column="11" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
@@ -104,12 +104,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1485951737670">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1486068189449">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="34" />
+        <mark key="^" line="51" column="120" />
+        <mark key="." line="64" column="34" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485979692314">
         <mark key="[" line="21" column="0" />
@@ -354,14 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/customer.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" />
-      <jump line="4" column="26" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
-      <jump line="16" column="70" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/dude.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
-      <jump line="40" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="103" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="56" column="21" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="17" column="47" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="6" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="59" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -454,16 +446,24 @@
       <jump line="38" column="0" filename="$USER_HOME$/projects/sputnik/src/containers/home-search.tsx" />
       <jump line="172" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="185" column="15" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="56" column="14" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="64" column="52" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="70" column="42" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="71" column="36" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="72" column="48" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="76" column="58" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="59" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
+      <jump line="73" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.props.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
-        <text>layoutblock</text>
+        <text>map</text>
       </register>
       <register name="0" type="4">
         <text>className=&quot;pt1&quot;</text>
@@ -502,13 +502,13 @@
         <text encoding="base64">ICAgICAgQXNzZXRTZWFyY2hSZXN1bHQuZnJvbShzZWFyY2gpLm5hdmlnYXRlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>layoutblock</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>layoutblock</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -516,8 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>color-y</entry>
-        <entry>ccc</entry>
         <entry>proper</entry>
         <entry>properties</entry>
         <entry>arrayof</entry>
@@ -536,6 +534,8 @@
         <entry>getfall</entry>
         <entry>private</entry>
         <entry>layoutblock</entry>
+        <entry>this.props</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+11action AceAction</entry>
@@ -545,19 +545,19 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
