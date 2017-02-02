@@ -199,11 +199,12 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1485951729158">
-        <mark key="'" line="110" column="7" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1486066687606">
+        <mark key="'" line="185" column="15" />
+        <mark key="[" line="253" column="45" />
+        <mark key="]" line="254" column="49" />
+        <mark key="^" line="254" column="49" />
+        <mark key="." line="254" column="49" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485352704233">
         <mark key="'" line="34" column="0" />
@@ -353,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" />
       <jump line="8" column="22" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/customer.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" />
       <jump line="4" column="26" filename="$USER_HOME$/projects/jb-mongoose/src/routes/dudes.js" />
@@ -417,7 +417,6 @@
       <jump line="81" column="36" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="90" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="108" column="8" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
-      <jump line="172" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="174" column="51" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="176" column="47" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="241" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
@@ -453,6 +452,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/projects/sputnik/src/containers/home-search.tsx" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/sputnik/src/containers/home-search.tsx" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/sputnik/src/containers/home-search.tsx" />
+      <jump line="172" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="185" column="15" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -462,7 +463,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>layoutblock</text>
       </register>
       <register name="0" type="4">
         <text>className=&quot;pt1&quot;</text>
@@ -501,13 +502,13 @@
         <text encoding="base64">ICAgICAgQXNzZXRTZWFyY2hSZXN1bHQuZnJvbShzZWFyY2gpLm5hdmlnYXRlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>layoutblock</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>layoutblock</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>c7c7c7</entry>
         <entry>color-y</entry>
         <entry>ccc</entry>
         <entry>proper</entry>
@@ -535,6 +535,7 @@
         <entry encoding="base64">XDxnZXRGYWxsYmFja1NlYXJjaFJlc3VsdFw+</entry>
         <entry>getfall</entry>
         <entry>private</entry>
+        <entry>layoutblock</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+11action AceAction</entry>
@@ -542,7 +543,6 @@
         <entry>set smartcase</entry>
         <entry>nmap L dd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
@@ -550,13 +550,14 @@
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action GotoFile</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />

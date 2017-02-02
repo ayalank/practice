@@ -6,4 +6,35 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cwu" value="componentWillUpdate($nextProps$$nextState$) {&#10;  $END$&#10;}" description="componentWillUpdate" toReformat="false" toShortenFQNames="true">
+    <variable name="nextProps" expression="" defaultValue="&quot;nextProps&quot;" alwaysStopAt="true" />
+    <variable name="nextState" expression="" defaultValue="&quot;, nextState&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="componentWillMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="scu" value="shouldComponentUpdate($nextProps$$nextState$) {&#10;  $END$&#10;}" description="shouldComponentUpdate" toReformat="false" toShortenFQNames="true">
+    <variable name="nextProps" expression="" defaultValue="&quot;nextProps&quot;" alwaysStopAt="true" />
+    <variable name="nextState" expression="" defaultValue="&quot;, nextState&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="r" value="render() {&#10;  $END$&#10;}" description="render" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cdu" value="componentDidUpdate($prevProps$$prevState$) {&#10;  $END$&#10;}" description="componentDidUpdate" toReformat="false" toShortenFQNames="true">
+    <variable name="prevProps" expression="" defaultValue="&quot;prevProps&quot;" alwaysStopAt="true" />
+    <variable name="prevState" expression="" defaultValue="&quot;, prevState&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
