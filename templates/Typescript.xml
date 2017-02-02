@@ -2,14 +2,14 @@
   <template name="l" value="$PARAMS$ =&gt; $END$ " description="lambda" toReformat="true" toShortenFQNames="true">
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="s" value="() =&gt; $END$ " description="no params lambda" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="id" value="import $ITEMS$ from '$PACKAGE$';" description="import default" toReformat="true" toShortenFQNames="true">
@@ -53,8 +53,8 @@
   <template name="ll" value="($PARAMS$) =&gt; $END$ " description="labmda with parentheses" toReformat="true" toShortenFQNames="true">
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="ia" value="import * as $param$ from '$package$'$END$ " description="import * as" toReformat="true" toShortenFQNames="true">
@@ -80,8 +80,8 @@
   <template name="f" value="function ($params$) { $END$ }" description="anonymous function" toReformat="false" toShortenFQNames="true">
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="edc" value="export default const" description="export default const" toReformat="false" toShortenFQNames="true">
@@ -100,30 +100,30 @@
     <variable name="element" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="cl" value="const $NAME$ = $args$ =&gt; $END$;" description="const lambda" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="capitalizeAndUnderscore(String)" defaultValue="" alwaysStopAt="true" />
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="pn" value="$prop$: _.noop$END$" description="prop noop" toReformat="false" toShortenFQNames="true">
     <variable name="prop" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="cls" value="class $name$ {&#10;  $END$&#10;}" description="Class" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
