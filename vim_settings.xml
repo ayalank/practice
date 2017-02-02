@@ -12,6 +12,7 @@
       <file name="/fragment.tsx" timestamp="1485980993392">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/actions/properties.ts" timestamp="1486069848399" />
       <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1485984263972">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="15" />
@@ -502,7 +503,7 @@
         <text encoding="base64">ICAgICAgQXNzZXRTZWFyY2hSZXN1bHQuZnJvbShzZWFyY2gpLm5hdmlnYXRlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -538,7 +539,6 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+11action AceAction</entry>
         <entry>set ignorecase</entry>
         <entry>set smartcase</entry>
         <entry>nmap L dd</entry>
@@ -551,13 +551,14 @@
         <entry>action EditorCompleteStatement</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>q</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
