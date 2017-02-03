@@ -1,8 +1,8 @@
 <templateSet group="lodash">
   <template name="nn" value="_.noop" description="noop" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
