@@ -12,7 +12,6 @@
       <file name="/fragment.tsx" timestamp="1485980993392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/actions/properties.ts" timestamp="1486069848399" />
       <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1485984263972">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="15" />
@@ -105,12 +104,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1486068189449">
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1486131622181">
         <mark key="'" line="59" column="11" />
-        <mark key="[" line="64" column="34" />
-        <mark key="]" line="64" column="34" />
-        <mark key="^" line="51" column="120" />
-        <mark key="." line="64" column="34" />
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="15" />
+        <mark key="^" line="69" column="15" />
+        <mark key="." line="69" column="15" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-box-comparable.tsx" timestamp="1485979692314">
         <mark key="[" line="21" column="0" />
@@ -303,7 +302,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1486065046125" />
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485955940961">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -458,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
