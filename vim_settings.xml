@@ -204,6 +204,9 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="52" />
       </file>
+      <file name="/fragment.ts" timestamp="1486241145027">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1486230161286">
         <mark key="'" line="14" column="45" />
         <mark key="[" line="71" column="30" />
@@ -311,12 +314,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486240635009">
-        <mark key="'" line="45" column="65" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="45" column="48" />
-        <mark key="^" line="45" column="59" />
-        <mark key="." line="45" column="63" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486241556961">
+        <mark key="'" line="43" column="106" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="68" column="13" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="68" column="13" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1484924647505">
         <mark key="[" line="26" column="77" />
@@ -456,17 +459,17 @@
       <jump line="73" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
       <jump line="14" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="17" column="80" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
-      <jump line="45" column="65" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
+      <jump line="45" column="106" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>getYearlyExpenses</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getYearlyExpenses</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KGF2Zywge3NxZnRfbGl2X2FyZWEsIHByaWNlfTogQ29tcGFyYWJsZSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDAp</text>
@@ -475,45 +478,45 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVByb2ZpdFBlcmNlbnQoeyBhY3RpdmUsIGNsb3NlZCB9LCB7IHNxZnRfbGl2X2FyZWEsIGFzc3VtcHRpb25zOiB7IHByaWNlLCByZWhhYiB9IH0pIHsKLy8gICBjb25zdCBjbG9zZWRXZWlnaHQgPSBhY3RpdmUubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQUNUSVZFX1dFSUdIVDsKLy8gICBjb25zdCBhY3RpdmVXZWlnaHQgPSBjbG9zZWQubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQ0xPU0VEX1dFSUdIVDsKLy8KLy8gICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwovLyAgICAgd2VpZ2h0ZWRDb21wYXJhYmxlcyhhY3RpdmUsIGFjdGl2ZVdlaWdodCksCi8vICAgICB3ZWlnaHRlZENvbXBhcmFibGVzKGNsb3NlZCwgY2xvc2VkV2VpZ2h0KSBdKTsKLy8gICBjb25zdCBlc3RpbWF0ZWRQcmljZSA9IGF2Z1Byb2ZpdFBlcmNlbnRTcWZ0ICogc3FmdF9saXZfYXJlYTsKLy8gICByZXR1cm4gewovLyAgICAgcHJvZml0UGVyY2VudDogKGVzdGltYXRlZFByaWNlIC0gKHByaWNlICsgcmVoYWIpKSAvIHByaWNlLAovLyAgICAgYXZnUHJvZml0UGVyY2VudFNxZnQsCi8vICAgICBlc3RpbWF0ZWRQcmljZQovLyAgIH07Ci8vIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
+        <text encoding="base64">ICAgIHthY3RpdmUsIHdlaWdodDogMC4yLCBjbG9zZX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>() {
     return 
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</text>
+        <text encoding="base64">bm1hcCA8VGFiPiBB</text>
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>proper</entry>
         <entry>properties</entry>
         <entry>arrayof</entry>
         <entry>comparables</entry>
@@ -541,28 +543,29 @@
         <entry>layoutblock</entry>
         <entry>this.props</entry>
         <entry>map</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>set smartcase</entry>
         <entry>nmap L dd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
         <entry>action FileStructurePopup</entry>
         <entry>q</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
+        <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action RenameElement</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
-        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
-        <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry encoding="base64">bm1hcCA8VGFiPiBB</entry>
       </history-cmd>
       <history-expr />
       <history-input />
