@@ -311,12 +311,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486233697578">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="48" column="5" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486239374452">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="17" column="107" />
+        <mark key="]" line="17" column="107" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1484924647505">
         <mark key="[" line="26" column="77" />
@@ -459,53 +459,55 @@
       <jump line="14" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="4">
-        <text>className=&quot;pt1&quot;</text>
+        <text encoding="base64">KGF2Zywge3NxZnRfbGl2X2FyZWEsIHByaWNlfTogQ29tcGFyYWJsZSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDAp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
+      <register name="1" type="4">
+        <text>() {
+    return 
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0KfQoK</text>
+        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0KfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0KfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -546,7 +548,6 @@
         <entry>nmap L dd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
@@ -554,13 +555,14 @@
         <entry>action EditorSplitLine</entry>
         <entry>q</entry>
         <entry>action AceAction</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />

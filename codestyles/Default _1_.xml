@@ -52,6 +52,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
