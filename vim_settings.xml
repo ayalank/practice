@@ -204,7 +204,7 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="/fragment.ts" timestamp="1486241145027">
+      <file name="/fragment.ts" timestamp="1486243514260">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1486230161286">
@@ -314,12 +314,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486241556961">
-        <mark key="'" line="43" column="106" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="68" column="13" />
-        <mark key="^" line="68" column="13" />
-        <mark key="." line="68" column="13" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486244129840">
+        <mark key="'" line="51" column="55" />
+        <mark key="[" line="284" column="10" />
+        <mark key="]" line="284" column="2" />
+        <mark key="^" line="284" column="2" />
+        <mark key="." line="284" column="2" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1484924647505">
         <mark key="[" line="26" column="77" />
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="64" column="17" filename="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" />
       <jump line="42" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
@@ -459,14 +458,15 @@
       <jump line="73" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
       <jump line="14" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="17" column="80" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
-      <jump line="45" column="106" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
+      <jump line="64" column="70" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
+      <jump line="45" column="55" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getYearlyExpenses</text>
+        <text>of</text>
       </register>
       <register name="-" type="4">
-        <text>getYearlyExpenses</text>
+        <text>of</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</text>
@@ -478,39 +478,39 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVByb2ZpdFBlcmNlbnQoeyBhY3RpdmUsIGNsb3NlZCB9LCB7IHNxZnRfbGl2X2FyZWEsIGFzc3VtcHRpb25zOiB7IHByaWNlLCByZWhhYiB9IH0pIHsKLy8gICBjb25zdCBjbG9zZWRXZWlnaHQgPSBhY3RpdmUubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQUNUSVZFX1dFSUdIVDsKLy8gICBjb25zdCBhY3RpdmVXZWlnaHQgPSBjbG9zZWQubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQ0xPU0VEX1dFSUdIVDsKLy8KLy8gICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwovLyAgICAgd2VpZ2h0ZWRDb21wYXJhYmxlcyhhY3RpdmUsIGFjdGl2ZVdlaWdodCksCi8vICAgICB3ZWlnaHRlZENvbXBhcmFibGVzKGNsb3NlZCwgY2xvc2VkV2VpZ2h0KSBdKTsKLy8gICBjb25zdCBlc3RpbWF0ZWRQcmljZSA9IGF2Z1Byb2ZpdFBlcmNlbnRTcWZ0ICogc3FmdF9saXZfYXJlYTsKLy8gICByZXR1cm4gewovLyAgICAgcHJvZml0UGVyY2VudDogKGVzdGltYXRlZFByaWNlIC0gKHByaWNlICsgcmVoYWIpKSAvIHByaWNlLAovLyAgICAgYXZnUHJvZml0UGVyY2VudFNxZnQsCi8vICAgICBlc3RpbWF0ZWRQcmljZQovLyAgIH07Ci8vIH0KCg==</text>
+        <text encoding="base64">ICByZW50UGVyU3FmdCgpIHsKICAgIHJldHVybiB0aGlzLmNvbXBhcmFibGVzLnJlbnQuYXZlcmFnZVNxZnRQcmljZSgpOwogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHthY3RpdmUsIHdlaWdodDogMC4yLCBjbG9zZX0K</text>
+        <text encoding="base64">ICAgICAgICAtIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVByb2ZpdFBlcmNlbnQoeyBhY3RpdmUsIGNsb3NlZCB9LCB7IHNxZnRfbGl2X2FyZWEsIGFzc3VtcHRpb25zOiB7IHByaWNlLCByZWhhYiB9IH0pIHsKLy8gICBjb25zdCBjbG9zZWRXZWlnaHQgPSBhY3RpdmUubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQUNUSVZFX1dFSUdIVDsKLy8gICBjb25zdCBhY3RpdmVXZWlnaHQgPSBjbG9zZWQubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQ0xPU0VEX1dFSUdIVDsKLy8KLy8gICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwovLyAgICAgd2VpZ2h0ZWRDb21wYXJhYmxlcyhhY3RpdmUsIGFjdGl2ZVdlaWdodCksCi8vICAgICB3ZWlnaHRlZENvbXBhcmFibGVzKGNsb3NlZCwgY2xvc2VkV2VpZ2h0KSBdKTsKLy8gICBjb25zdCBlc3RpbWF0ZWRQcmljZSA9IGF2Z1Byb2ZpdFBlcmNlbnRTcWZ0ICogc3FmdF9saXZfYXJlYTsKLy8gICByZXR1cm4gewovLyAgICAgcHJvZml0UGVyY2VudDogKGVzdGltYXRlZFByaWNlIC0gKHByaWNlICsgcmVoYWIpKSAvIHByaWNlLAovLyAgICAgYXZnUHJvZml0UGVyY2VudFNxZnQsCi8vICAgICBlc3RpbWF0ZWRQcmljZQovLyAgIH07Ci8vIH0KCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHthY3RpdmUsIHdlaWdodDogMC4yLCBjbG9zZX0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>() {
-    return 
-  }</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
+      <register name="9" type="4">
+        <text>() {
+    return 
+  }</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bm1hcCA8VGFiPiBB</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -546,26 +546,26 @@
         <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>nmap L dd</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>nmap E dap</entry>
-        <entry>nmap T dit</entry>
         <entry>action FileStructurePopup</entry>
         <entry>q</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
-        <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBB</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
+        <entry encoding="base64">bm1hcCA8Qy1dPiA6YWN0aW9uIEZvcndhcmQ8Q1I+</entry>
+        <entry encoding="base64">bm1hcCA8Qy1bPiA6YWN0aW9uIEJhY2s8Q1I+</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
