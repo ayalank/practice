@@ -9,6 +9,12 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" timestamp="1486244804610">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="6" />
+      </file>
       <file name="/fragment.tsx" timestamp="1485980993392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +158,13 @@
         <mark key="]" line="66" column="50" />
         <mark key="." line="66" column="50" />
         <mark key="^" line="66" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486245001785">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="6" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map.tsx" timestamp="1483531273233">
         <mark key="[" line="35" column="30" />
@@ -360,11 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="17" filename="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" />
-      <jump line="42" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
-      <jump line="20" column="26" filename="$USER_HOME$/projects/sputnik/src/components/scroll-element.tsx" />
-      <jump line="52" column="56" filename="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" />
       <jump line="16" column="20" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="63" column="24" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
@@ -460,16 +468,21 @@
       <jump line="17" column="80" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
       <jump line="64" column="70" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
       <jump line="45" column="55" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
+      <jump line="58" column="21" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
+      <jump line="28" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
+      <jump line="10" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>of</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>of</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</text>
+        <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KGF2Zywge3NxZnRfbGl2X2FyZWEsIHByaWNlfTogQ29tcGFyYWJsZSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDAp</text>
@@ -478,45 +491,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZW50UGVyU3FmdCgpIHsKICAgIHJldHVybiB0aGlzLmNvbXBhcmFibGVzLnJlbnQuYXZlcmFnZVNxZnRQcmljZSgpOwogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50Owo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmFvcmljIG9uIDA0LzAyLzE3LgogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFNvcnRlZENvbXBhcmFibGVMaXN0cyB7CiAgYWN0aXZlOiBDYWxjdWxhdGVkQ29tcGFyYWJsZXMKICBjbG9zZWQ6IENhbGN1bGF0ZWRDb21wYXJhYmxlcwogIHJlbnQ6IENhbGN1bGF0ZWRDb21wYXJhYmxlcwp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVByb2ZpdFBlcmNlbnQoeyBhY3RpdmUsIGNsb3NlZCB9LCB7IHNxZnRfbGl2X2FyZWEsIGFzc3VtcHRpb25zOiB7IHByaWNlLCByZWhhYiB9IH0pIHsKLy8gICBjb25zdCBjbG9zZWRXZWlnaHQgPSBhY3RpdmUubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQUNUSVZFX1dFSUdIVDsKLy8gICBjb25zdCBhY3RpdmVXZWlnaHQgPSBjbG9zZWQubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQ0xPU0VEX1dFSUdIVDsKLy8KLy8gICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwovLyAgICAgd2VpZ2h0ZWRDb21wYXJhYmxlcyhhY3RpdmUsIGFjdGl2ZVdlaWdodCksCi8vICAgICB3ZWlnaHRlZENvbXBhcmFibGVzKGNsb3NlZCwgY2xvc2VkV2VpZ2h0KSBdKTsKLy8gICBjb25zdCBlc3RpbWF0ZWRQcmljZSA9IGF2Z1Byb2ZpdFBlcmNlbnRTcWZ0ICogc3FmdF9saXZfYXJlYTsKLy8gICByZXR1cm4gewovLyAgICAgcHJvZml0UGVyY2VudDogKGVzdGltYXRlZFByaWNlIC0gKHByaWNlICsgcmVoYWIpKSAvIHByaWNlLAovLyAgICAgYXZnUHJvZml0UGVyY2VudFNxZnQsCi8vICAgICBlc3RpbWF0ZWRQcmljZQovLyAgIH07Ci8vIH0KCg==</text>
+        <text encoding="base64">Y2xhc3MgQ2FsY3VsYXRlZENvbXBhcmFibGVzIHsKCiAgcHJpdmF0ZSBjb25zdHJ1Y3Rvcihwcml2YXRlIGFzc2V0czogQ29tcGFyYWJsZVtdKSB7IH0KCiAgc3RhdGljIGZyb20oYXNzZXRzKSB7CiAgICByZXR1cm4gbmV3IENhbGN1bGF0ZWRDb21wYXJhYmxlcyhhc3NldHMpOwogIH0KCiAgc2l6ZSgpIHsgcmV0dXJuIHRoaXMuYXNzZXRzLmxlbmd0aDsgfQoKICBpc0VtcHR5KCkgeyByZXR1cm4gdGhpcy5hc3NldHMubGVuZ3RoID09PSAwOyB9CgogIGF2ZXJhZ2VTcWZ0UHJpY2UoKSB7CiAgICByZXR1cm4gdGhpcy5hc3NldHMucmVkdWNlKChhdmcsIHsgc3FmdF9saXZfYXJlYSwgcHJpY2UgfSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDApOwogIH0KCn0KCmNsYXNzIEV2YWx1YXRlZFByb3BlcnR5IHsKICBwcml2YXRlIHN0YXRpYyB0b0V2YWx1YXRlZENvbXBhcmFibGVzID0gXy5tYXBWYWx1ZXMoY21wTGlzdCA9PiBDYWxjdWxhdGVkQ29tcGFyYWJsZXMuZnJvbShjbXBMaXN0KSk7CgogIGNvbnN0cnVjdG9yKHByaXZhdGUgcHJvcGVydHk6IFByb3BlcnR5LCBwcml2YXRlIGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlTGlzdHMpIHt9CgogIHN0YXRpYyBvZihwcm9wZXJ0eTogUHJvcGVydHksIGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIG5ldyBFdmFsdWF0ZWRQcm9wZXJ0eShwcm9wZXJ0eSwgdGhpcy50b0V2YWx1YXRlZENvbXBhcmFibGVzKGNvbXBhcmFibGVzKSk7CiAgfQoKICBwb3RlbnRpYWxQcm9maXQoKSB7CiAgICBjb25zdCB7IHJlaGFiLCBwcmljZSB9ID0gdGhpcy5wcm9wZXJ0eS5hc3N1bXB0aW9uczsKICAgIHJldHVybiB0aGlzLmVzdGltYXRlZFZhbHVlKCkgLSAoKHByaWNlICsgcmVoYWIpIC8gcHJpY2UpOwogIH0KCiAgZXN0aW1hdGVkVmFsdWUoKSB7CiAgICByZXR1cm4gdGhpcy52YWx1ZVBlclNxZnQoKSAqIHRoaXMucHJvcGVydHkuc3FmdF9saXZfYXJlYTsKICB9CgogIGVzdGltYXRlZFJlbnQoKSB7CiAgICByZXR1cm4gdGhpcy5yZW50UGVyU3FmdCgpICogdGhpcy5wcm9wZXJ0eS5zcWZ0X2xpdl9hcmVhOwogIH0KCiAgY2FzaEZsb3coKSB7CiAgICByZXR1cm4gdGhpcy5uZXRJbmNvbWUoKSAtIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCiAgbmV0SW5jb21lKCkgewogICAgcmV0dXJuIHRoaXMuZXN0aW1hdGVkUmVudCgpICogTU9OVEhTX0lOX1lFQVIKICAgICAgICAtIHRoaXMueWVhcmx5RXhwZW5zZXMoKTsKICB9CgogIHZhbHVlUGVyU3FmdCgpIHsKICAgIGNvbnN0IHsgYWN0aXZlLCBjbG9zZWQgfSA9IHRoaXMuY29tcGFyYWJsZXM7CiAgICBjb25zdCB3ZWlnaHRlZCA9IFsKICAgICAgeyBjb21wYXJhYmxlczogYWN0aXZlLCB3ZWlnaHQ6IERFRkFVTFRfQUNUSVZFX1dFSUdIVCB9LAogICAgICB7IGNvbXBhcmFibGVzOiBjbG9zZWQsIHdlaWdodDogREVGQVVMVF9DTE9TRURfV0VJR0hUIH0gXTsKICAgIGNvbnN0IG51bWVyYXRvciA9IHdlaWdodGVkLnJlZHVjZSgodHRsLCB7IGNvbXBhcmFibGVzLCB3ZWlnaHQgfSkgPT4gdHRsICsgY29tcGFyYWJsZXMuYXZlcmFnZVNxZnRQcmljZSgpICogd2VpZ2h0LCAwKTsKICAgIGNvbnN0IGRlbm9taW5hdG9yID0gd2VpZ2h0ZWQucmVkdWNlKCh0dGwsIHsgY29tcGFyYWJsZXMsIHdlaWdodCB9KSA9PiB0dGwgKyBjb21wYXJhYmxlcy5zaXplKCkgKiB3ZWlnaHQsIDApOwogICAgcmV0dXJuIG51bWVyYXRvciAvIGRlbm9taW5hdG9yOwogIH0KCiAgcmVudFBlclNxZnQoKSB7CiAgICByZXR1cm4gdGhpcy5jb21wYXJhYmxlcy5yZW50LmF2ZXJhZ2VTcWZ0UHJpY2UoKTsKICB9CgogIHByaXZhdGUgeWVhcmx5RXhwZW5zZXMoKSB7CiAgICBjb25zdCB7CiAgICAgICAgdGF4LCBpbnN1cmFuY2UsIHByaWNlLCBtYW5hZ2VtZW50X2ZlZSwKICAgICAgICBob2EsIHZhY2FuY3ksIHJlcGFpcnMKICAgIH0gPSB0aGlzLnByb3BlcnR5LmFzc3VtcHRpb25zOwogICAgY29uc3QgcmVudEluY29tZSA9IHRoaXMuZXN0aW1hdGVkUmVudCgpICogTU9OVEhTX0lOX1lFQVI7CgogICAgY29uc3QgdG90YWxNYW5hZ2VtZW50RmVlID0gcmVudEluY29tZSAqIG1hbmFnZW1lbnRfZmVlOwogICAgY29uc3QgdG90YWxJbnN1cmFuY2UgPSBpbnN1cmFuY2UgKiBwcmljZTsKICAgIGNvbnN0IHRvdGFsSE9BID0gaG9hICogTU9OVEhTX0lOX1lFQVI7CiAgICBjb25zdCB0b3RhbFZhY2FuY3kgPSByZW50SW5jb21lICogdmFjYW5jeTsKCiAgICByZXR1cm4gdGF4ICsgdG90YWxJbnN1cmFuY2UgKyB0b3RhbE1hbmFnZW1lbnRGZWUgKwogICAgICAgIHRvdGFsSE9BICsgdG90YWxWYWNhbmN5ICsgcmVwYWlyczsKICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHthY3RpdmUsIHdlaWdodDogMC4yLCBjbG9zZX0K</text>
+        <text encoding="base64">ICByZW50UGVyU3FmdCgpIHsKICAgIHJldHVybiB0aGlzLmNvbXBhcmFibGVzLnJlbnQuYXZlcmFnZVNxZnRQcmljZSgpOwogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVByb2ZpdFBlcmNlbnQoeyBhY3RpdmUsIGNsb3NlZCB9LCB7IHNxZnRfbGl2X2FyZWEsIGFzc3VtcHRpb25zOiB7IHByaWNlLCByZWhhYiB9IH0pIHsKLy8gICBjb25zdCBjbG9zZWRXZWlnaHQgPSBhY3RpdmUubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQUNUSVZFX1dFSUdIVDsKLy8gICBjb25zdCBhY3RpdmVXZWlnaHQgPSBjbG9zZWQubGVuZ3RoID09PSAwID8gMSA6IERFRkFVTFRfQ0xPU0VEX1dFSUdIVDsKLy8KLy8gICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwovLyAgICAgd2VpZ2h0ZWRDb21wYXJhYmxlcyhhY3RpdmUsIGFjdGl2ZVdlaWdodCksCi8vICAgICB3ZWlnaHRlZENvbXBhcmFibGVzKGNsb3NlZCwgY2xvc2VkV2VpZ2h0KSBdKTsKLy8gICBjb25zdCBlc3RpbWF0ZWRQcmljZSA9IGF2Z1Byb2ZpdFBlcmNlbnRTcWZ0ICogc3FmdF9saXZfYXJlYTsKLy8gICByZXR1cm4gewovLyAgICAgcHJvZml0UGVyY2VudDogKGVzdGltYXRlZFByaWNlIC0gKHByaWNlICsgcmVoYWIpKSAvIHByaWNlLAovLyAgICAgYXZnUHJvZml0UGVyY2VudFNxZnQsCi8vICAgICBlc3RpbWF0ZWRQcmljZQovLyAgIH07Ci8vIH0KCg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="4">
-        <text>() {
-    return 
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHthY3RpdmUsIHdlaWdodDogMC4yLCBjbG9zZX0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</last-search>
+      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -524,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>properties</entry>
-        <entry>arrayof</entry>
         <entry>comparables</entry>
         <entry encoding="base64">IGNvbXBhcmFibGVz</entry>
         <entry>getcalcul</entry>
@@ -544,28 +553,30 @@
         <entry>this.props</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
+        <entry>class</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action FileStructurePopup</entry>
         <entry>q</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBB</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8Qy1dPiA6YWN0aW9uIEZvcndhcmQ8Q1I+</entry>
         <entry encoding="base64">bm1hcCA8Qy1bPiA6YWN0aW9uIEJhY2s8Q1I+</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
