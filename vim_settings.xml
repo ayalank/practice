@@ -311,12 +311,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486239374452">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="17" column="107" />
-        <mark key="]" line="17" column="107" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486240635009">
+        <mark key="'" line="45" column="65" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="63" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1484924647505">
         <mark key="[" line="26" column="77" />
@@ -357,8 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="35" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="59" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="45" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="64" column="17" filename="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" />
       <jump line="42" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -457,13 +455,15 @@
       <jump line="59" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
       <jump line="73" column="11" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
       <jump line="14" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="17" column="80" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
+      <jump line="45" column="65" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -474,40 +474,40 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGxpc3RQcmljZVBlclNxZnQgPSBfLnJlZHVjZSgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>() {
     return 
   }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdCBhdmdQcm9maXRQZXJjZW50U3FmdCA9IGV2YWx1YXRlRnJvbVdlaWdodGVkQ29tcGFyYWJsZXMoWwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBuYW9yaWMgb24gMDQvMDIvMTcuCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFyZURpZmZlcmVudENvbXBhcmFibGVzKGNvbXBhcmFibGVzOiBTb3J0ZWRDb21wYXJhYmxlcykgewogICAgcmV0dXJuIGNvbXBhcmFibGVzICE9PSB0aGlzLnByb3BzLmNvbXBhcmFibGVzOwogIH0KfQoK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</text>
       </register>
     </registers>
     <search>
@@ -543,26 +543,26 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>set ignorecase</entry>
         <entry>set smartcase</entry>
         <entry>nmap L dd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>nmap E dap</entry>
         <entry>nmap T dit</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>q</entry>
-        <entry>action AceAction</entry>
-        <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action RenameElement</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
