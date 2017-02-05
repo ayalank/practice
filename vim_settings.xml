@@ -159,7 +159,7 @@
         <mark key="." line="66" column="50" />
         <mark key="^" line="66" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486279220989">
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486282184171">
         <mark key="'" line="10" column="7" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -224,6 +224,12 @@
         <mark key="[" line="71" column="30" />
         <mark key="]" line="71" column="30" />
         <mark key="." line="71" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1486283184889">
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485352704233">
         <mark key="'" line="34" column="0" />
@@ -474,11 +480,11 @@
       <jump line="10" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNvbG9yLXIx</text>
       </register>
       <register name="-" type="4">
-        <text>of</text>
+        <text encoding="base64">IGNvbG9yLXIx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -520,7 +526,7 @@
         <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorCompleteStatement</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -563,7 +569,6 @@
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">bm1hcCA8Qy1dPiA6YWN0aW9uIEZvcndhcmQ8Q1I+</entry>
         <entry encoding="base64">bm1hcCA8Qy1bPiA6YWN0aW9uIEJhY2s8Q1I+</entry>
@@ -571,11 +576,12 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action AceAction</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
