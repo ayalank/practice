@@ -1,0 +1,12 @@
+<templateSet group="React-Redux">
+  <template name="ireact" value="import * as React from 'react';&#10;$END$" description="Import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="mstp" value="const mapStateToProps = (state) =&gt; $END$;" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

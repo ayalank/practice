@@ -1,0 +1,32 @@
+<templateSet group="PostCSS">
+  <template name="v" value="var(--$VAL$)$END$" description="var" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="dm" value="@define-mixin $NAME_ARGS$ {&#10;   $END$&#10;}" description="@define-mixin" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mix" value="@mixin $END$;" description="@mixin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="de" value="@define-extend $NAME_ARGS$ {&#10;   $END$&#10;}" description="@define-extend" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="vclip" value="--$NAME$: $VALUE$;$END$" description="variable with clipboard value" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
