@@ -15,11 +15,21 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="/fragment.tsx" timestamp="1486322397356">
+      <file name="/fragment.tsx" timestamp="1486326201136">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1486322861150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1486322248128">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1486324296923">
+        <mark key="'" line="26" column="52" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/inspectlet.tsx" timestamp="1485536438043">
         <mark key="[" line="15" column="3" />
@@ -40,11 +50,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/drop-down.tsx" timestamp="1486322598449">
-        <mark key="[" line="136" column="43" />
-        <mark key="]" line="136" column="45" />
-        <mark key="^" line="136" column="45" />
-        <mark key="." line="136" column="45" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/drop-down.tsx" timestamp="1486326292945">
+        <mark key="'" line="61" column="56" />
+        <mark key="[" line="65" column="45" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="54" />
+        <mark key="^" line="65" column="54" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1486319777196">
         <mark key="]" line="38" column="3" />
@@ -61,55 +72,59 @@
       <jump line="28" column="26" filename="$USER_HOME$/projects/sputnik/src/components/inspectlet.tsx" />
       <jump line="11" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/root-layout.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/specifics.styl" />
+      <jump line="39" column="20" filename="$USER_HOME$/projects/sputnik/src/components/drop-down.tsx" />
+      <jump line="21" column="52" filename="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" />
+      <jump line="165" column="11" filename="$USER_HOME$/projects/sputnik/src/components/drop-down.tsx" />
+      <jump line="61" column="56" filename="$USER_HOME$/projects/sputnik/src/components/drop-down.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text encoding="base64">PSBlID0+IA==</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text encoding="base64">PSBlID0+IA==</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text>isEqual</text>
       </register>
       <register name="0" type="4">
-        <text>/^(.+\D)\d*$/</text>
+        <text>e.target !== this.valueInput</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9wZW5PbkZvY3VzSWZTaG91bGQgPSB0aGlzLm9wZW5PbkZvY3VzSWZTaG91bGQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJBU0VfSU5ERVhfVkFMVUUgPSAxOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgQkFTRV9JTkRFWF9WQUxVRSA9IDE7CmNvbnN0IEVOVEVSX0tFWV9DT0RFID0gMTM7CmNvbnN0IEVTQ0FQRV9LRVlfQ09ERSA9IDI3Owpjb25zdCBVUF9LRVlfQ09ERSA9IDM4Owpjb25zdCBET1dOX0tFWV9DT0RFID0gNDA7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGVkSW5kZXggPSAKICAgIGlmIChzZWxlY3RlZEluZGV4ID49IDApIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgICBzZWxlY3RlZEluZGV4CiAgICAgIH0pCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmRCeVZhbHVlCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNWYWxpZEluZGV4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzLCBuZXh0U3RhdGUpIHsKICAgIHJldHVybiBuZXh0UHJvcHMgIT09IHRoaXMucHJvcHMgfHwgbmV4dFN0YXRlICE9PSB0aGlzLnN0YXRlOwogIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAubGlnaHRib3gtY29udGVudAogICAgaGVpZ2h0IDEwMCUK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHsKICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search>isEqual</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern>isEqual</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -117,28 +132,30 @@
       <history-search>
         <entry>div</entry>
         <entry>query</entry>
+        <entry>isequal</entry>
+        <entry>isEqual</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorUp</entry>
-        <entry>nmap q ciw</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action MoveStatementDown</entry>
-        <entry>actionlist previous</entry>
         <entry encoding="base64">bm1hcCA8Qy1TLV0+IDphY3Rpb24gTmV4dFRhYjxDUj4=</entry>
         <entry>actionlist prevtab</entry>
-        <entry>action GotoFile</entry>
         <entry>actionlist previoustab</entry>
         <entry encoding="base64">bm1hcCA8Qy1TLVs+IDphY3Rpb24gUHJldmlvdXNUYWI8Q1I+</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>actionlist structure</entry>
+        <entry encoding="base64">bm1hcCBtIDphY3Rpb24gRmlsZVN0cnVjdHVyZVBvcHVwPENSPg==</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action GotoFile</entry>
+        <entry>action EditorUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action AceAction</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,6 +187,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
