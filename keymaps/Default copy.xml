@@ -48,10 +48,6 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="alt down" />
@@ -132,4 +128,7 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
 </keymap>
