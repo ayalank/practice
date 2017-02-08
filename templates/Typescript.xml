@@ -1,126 +1,45 @@
-<templateSet group="Typescript">
-  <template name="l" value="$PARAMS$ =&gt; $END$ " description="lambda" toReformat="true" toShortenFQNames="true">
+<templateSet group="TypeScript">
+  <template name="iall" value="import * as $NAME$ from '$PACKAGE$'$END$;" description="Import all as" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PACKAGE" expression="" defaultValue="NAME" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ll" value="($PARAMS$) =&gt; {$END$}" description="Expanded lambda" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="s" value="() =&gt; $END$ " description="no params lambda" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="id" value="import $ITEMS$ from '$PACKAGE$';" description="import default" toReformat="true" toShortenFQNames="true">
-    <variable name="PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="ITEMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="i" value="interface $NAME$ {&#10;    $END$&#10;}" description="interface" toReformat="true" toShortenFQNames="true">
+  <template name="i" value="interface I$NAME$ {$END$}" description="TypeScript Interface" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="msp" value="const mapStateToProps = state =&gt; ({&#10;  $end$&#10;});" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ext" value="const {$WHAT$} = $FROM$;" description="TypeScript Destructure" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="&quot;this.props&quot;" alwaysStopAt="true" />
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dp" value="const {$props$} = this.props$END$" description="Destructure prop" toReformat="false" toShortenFQNames="true">
-    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="ds" value="const {$state$} = this.state$END$" description="Destructure state" toReformat="false" toShortenFQNames="true">
-    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="fun" value="function $name$($args$) {&#10;    $END$&#10;}" description="Function declaration" toReformat="true" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="ll" value="($PARAMS$) =&gt; $END$ " description="labmda with parentheses" toReformat="true" toShortenFQNames="true">
+  <template name="mtd" value="$NAME$($PARAMS$) {$END$}" description="method" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ia" value="import * as $param$ from '$package$'$END$ " description="import * as" toReformat="true" toShortenFQNames="true">
-    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="param" expression="" defaultValue="package" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="ii" value="import {$param$} from '$package$'$END$ " description="import from" toReformat="true" toShortenFQNames="true">
-    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="cs" value="const $NAME$ = $END$;" description="const" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="capitalizeAndUnderscore(String)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="f" value="function ($params$) { $END$ }" description="anonymous function" toReformat="false" toShortenFQNames="true">
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="edc" value="export default const" description="export default const" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="edf" value="export default function $name$($args$) {&#10;    $END$&#10;}" description="export default function" toReformat="true" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="d" value="const {$props$} = $element$$END$" description="dstructure" toReformat="true" toShortenFQNames="true">
-    <variable name="element" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="cl" value="const $NAME$ = $args$ =&gt; $END$;" description="const lambda" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="capitalizeAndUnderscore(String)" defaultValue="" alwaysStopAt="true" />
-    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="pn" value="$prop$: _.noop$END$" description="prop noop" toReformat="false" toShortenFQNames="true">
-    <variable name="prop" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="cls" value="class $name$ {&#10;  $END$&#10;}" description="Class" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="cval" value="$KEY$: '$VALUE$'" description="TypeScript const value" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="capitalizeAndUnderscore(VALUE)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />

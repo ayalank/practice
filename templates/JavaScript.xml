@@ -1,9 +1,20 @@
 <templateSet group="JavaScript">
-  <template name="ri" value="const $name$ = require('$package$')$END$" description="require" toReformat="false" toShortenFQNames="true">
-    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="fileNameWithoutExtension()" defaultValue="package" alwaysStopAt="true" />
+  <template name="fun" value="function $NAME$($PARAMS$) {$END$}" description="Function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="l" value="$PARAMS$ =&gt; $END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ia" value="**/*.$END$" description="import all glob" toReformat="false" toShortenFQNames="true">
+    <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>

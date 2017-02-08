@@ -7,11 +7,13 @@
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping ext="njk" type="HTML" />
+      <mapping pattern="2222" type="PLAIN_TEXT" />
+      <mapping ext="2501589950" type="PLAIN_TEXT" />
+      <mapping ext="3682473059" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

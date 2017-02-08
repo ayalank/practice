@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="toggle case and right">
-      <action id="EditorToggleCase" />
-      <action id="EditorRight" />
-    </macro>
-  </component>
-</application>
