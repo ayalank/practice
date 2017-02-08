@@ -376,6 +376,9 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1486543570402">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="20" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
