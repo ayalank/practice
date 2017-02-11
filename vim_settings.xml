@@ -530,7 +530,7 @@
         <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
@@ -583,9 +583,9 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
