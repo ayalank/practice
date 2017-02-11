@@ -179,12 +179,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486848051329">
-        <mark key="'" line="71" column="53" />
-        <mark key="[" line="70" column="61" />
-        <mark key="]" line="70" column="69" />
-        <mark key="^" line="70" column="69" />
-        <mark key="." line="70" column="69" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486849461235">
+        <mark key="'" line="94" column="104" />
+        <mark key="[" line="98" column="73" />
+        <mark key="]" line="98" column="74" />
+        <mark key="^" line="98" column="74" />
+        <mark key="." line="98" column="74" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -383,18 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" />
-      <jump line="27" column="16" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" />
-      <jump line="39" column="66" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
-      <jump line="66" column="15" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" />
-      <jump line="31" column="92" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
-      <jump line="98" column="0" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
-      <jump line="15" column="72" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
-      <jump line="130" column="28" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
-      <jump line="0" column="45" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/typography.styl" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" />
       <jump line="7" column="25" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
@@ -483,64 +471,83 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/borders.styl" />
       <jump line="73" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="71" column="53" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="70" column="52" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="69" column="62" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="79" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="82" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="83" column="36" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="84" column="54" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="87" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="88" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="89" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="92" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="93" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="94" column="104" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
-        <text>xlg</text>
+        <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KGF2Zywge3NxZnRfbGl2X2FyZWEsIHByaWNlfTogQ29tcGFyYWJsZSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDAp</text>
+        <text>block mt2 text-decoration-none color-b3</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibTAiPgogICAgICAgICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0iIj48L2xhYmVsPgogICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iIiBpZD0iIiBwbGFjZWhvbGRlcj0iRnVsbCBOYW1lIi8+CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im0wIj4KICAgICAgICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9IiI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgaWQ9IiIKICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJGdWxsIE5hbWUiLz4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibTAiPgogICAgICAgICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0iIj4KCiAgICAgICAgICAgICAgICAgIDwvbGFiZWw+PGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgaWQ9IiIgcGxhY2Vob2xkZXI9IkZ1bGwgTmFtZSIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImNpcmNsZSBib3JkZXIgYm9yZGVyLWcyMyIgc3JjPSIvL2xvcmVtcGl4ZWwuY29tLzEwMC8xMDAiIGFsdD0iQWxvbiBHb2xkIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xlYXJmaXgiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibTAgbGVmdCI+CiAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJjaXJjbGUgYm9yZGVyIGJvcmRlci1nMjMiIHNyYz0iLy9sb3JlbXBpeGVsLmNvbS8xMDAvMTAwIiBhbHQ9IkFsb24gR29sZCIvPgogICAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgPGgyPkFsb24gZ29sZDwvaDI+CiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzTmFtZT0idGV4dC1kZWNvcmF0aW9uLW5vbmUiPjxJY29uIG5hbWU9ImNhbWVyYSIvPiBDaGFuZ2UgeW91ciBwcm9maWxlIHBpY3R1cmU8L2E+CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImNpcmNsZSBib3JkZXIgYm9yZGVyLWcyMyIgc3JjPSIvL2xvcmVtcGl4ZWwuY29tLzEwMC8xMDAiIGFsdD0iQWxvbiBHb2xkIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xlYXJmaXgiPjwvZGl2Pgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj5BbG9uIGdvbGQ8L2gyPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+PEljb24gbmFtZT0iY2FtZXJhIi8+IENoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvYT4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibTAgbGVmdCI+CiAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJjaXJjbGUgYm9yZGVyIGJvcmRlci1nMjMiIHNyYz0iLy9sb3JlbXBpeGVsLmNvbS8xMDAvMTAwIiBhbHQ9IkFsb24gR29sZCIvPgogICAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgPGgyPkFsb24gZ29sZDwvaDI+CiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzTmFtZT0idGV4dC1kZWNvcmF0aW9uLW5vbmUiPjxJY29uIG5hbWU9ImNhbWVyYSIvPiBDaGFuZ2UgeW91ciBwcm9maWxlIHBpY3R1cmU8L2E+CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibTAgY2VudGVyIj4KICAgICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJjaXJjbGUiIHNyYz0iLy9sb3JlbXBpeGVsLmNvbS8xMDAvMTAwIiBhbHQ9IkFsb24gR29sZCIvPgogICAgICAgICAgICAgIDwvZmlndXJlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj5BbG9uIGdvbGQ8L2gyPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+PEljb24gbmFtZT0iY2FtZXJhIi8+IENoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvYT4K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>xlg</last-search>
+      <last-search encoding="base64">XDxjbGFzc05hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>xlg</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc05hbWVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3RpdmVDb3VudFw+</entry>
         <entry encoding="base64">XDxyZW50Q291bnRcPg==</entry>
         <entry>place</entry>
         <entry>require</entry>
@@ -568,12 +574,9 @@
         <entry>color-r1</entry>
         <entry>border-lg</entry>
         <entry>xlg</entry>
+        <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCA8VGFiPiBB</entry>
-        <entry>action MoveStatementDown</entry>
-        <entry>action RenameElement</entry>
-        <entry encoding="base64">bm1hcCA8Qy1dPiA6YWN0aW9uIEZvcndhcmQ8Q1I+</entry>
         <entry encoding="base64">bm1hcCA8Qy1bPiA6YWN0aW9uIEJhY2s8Q1I+</entry>
         <entry>action OptimizeImports</entry>
         <entry>q</entry>
@@ -589,6 +592,10 @@
         <entry>action Back</entry>
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBjaXc=</entry>
+        <entry>nmap &quot; ci&quot;</entry>
+        <entry>action RenameElement</entry>
+        <entry>nmap T cit</entry>
+        <entry>nmap Q @q</entry>
         <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
