@@ -179,11 +179,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486834823267">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="42" column="22" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486842940587">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="44" />
         <mark key="^" line="42" column="22" />
-        <mark key="." line="42" column="22" />
+        <mark key="." line="24" column="44" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbG9yLXIx</text>
+        <text encoding="base64">cHQxIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbG9yLXIx</text>
+        <text encoding="base64">cHQxIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -530,7 +530,7 @@
         <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -580,12 +580,12 @@
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
-        <entry>action AceAction</entry>
         <entry>q</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
