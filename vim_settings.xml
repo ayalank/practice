@@ -178,6 +178,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486833211861">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="25" column="25" />
@@ -224,12 +230,6 @@
         <mark key="[" line="71" column="30" />
         <mark key="]" line="71" column="30" />
         <mark key="." line="71" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1486283184889">
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="66" column="43" />
-        <mark key="." line="66" column="43" />
-        <mark key="^" line="66" column="43" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485352704233">
         <mark key="'" line="34" column="0" />
@@ -529,7 +529,7 @@
         <text encoding="base64">ICBwcml2YXRlIGRvd25QYXltZW50KCkgewogICAgcmV0dXJuIHRoaXMucHJvcGVydHkuYXNzdW1wdGlvbnMubW9ydGdhZ2VfZG93bl9wYXltZW50OwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
@@ -565,8 +565,6 @@
         <entry encoding="base64">XDxjbGFzc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
-        <entry>q</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBB</entry>
         <entry>action EditorSplitLine</entry>
@@ -578,13 +576,15 @@
         <entry>action Forward</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>q</entry>
+        <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
