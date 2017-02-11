@@ -179,11 +179,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486842940587">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="44" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486843603652">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
         <mark key="^" line="42" column="22" />
-        <mark key="." line="24" column="44" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -382,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="20" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="63" column="24" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
@@ -482,16 +482,17 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="28" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
+      <jump line="22" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHQxIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHQxIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text>color-r1</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KGF2Zywge3NxZnRfbGl2X2FyZWEsIHByaWNlfTogQ29tcGFyYWJsZSkgPT4gYXZnICsgKHByaWNlIC8gc3FmdF9saXZfYXJlYSksIDAp</text>
@@ -534,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search>color-r1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern>color-r1</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comparables</entry>
         <entry encoding="base64">IGNvbXBhcmFibGVz</entry>
         <entry>getcalcul</entry>
         <entry encoding="base64">XDxhY3RpdmVDb3VudFw+</entry>
@@ -564,6 +564,7 @@
         <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>color-r1</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8VGFiPiBpPFRhYj4=</entry>
