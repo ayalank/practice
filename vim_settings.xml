@@ -178,11 +178,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486833211861">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1486834823267">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="42" column="22" />
+        <mark key="^" line="42" column="22" />
+        <mark key="." line="42" column="22" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -580,10 +580,10 @@
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
         <entry>q</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
