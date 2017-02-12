@@ -160,11 +160,11 @@
         <mark key="." line="66" column="50" />
         <mark key="^" line="66" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486904020825">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="39" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="39" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486909306452">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486282184171">
         <mark key="'" line="10" column="7" />
@@ -253,6 +253,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486909437317">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
         <mark key="[" line="106" column="66" />
@@ -328,6 +334,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1486907450809" />
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485955940961">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -484,11 +491,11 @@
       <jump line="94" column="104" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>@types/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
@@ -497,52 +504,40 @@
         <text>block mt2 text-decoration-none color-b3</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZmllbGRzZXQ+Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRvc3VnZ2VzdH0gZnJvbSAncmVhY3QtYXV0b3N1Z2dlc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWx1ZT86IEN1c3RvbUhhbmRsZXI8RmlsZUxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3NOYW1lPSJibG9jayBtdDIgdGV4dC1kZWNvcmF0aW9uLW5vbmUgY29sb3ItYjMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgZm9udC1tZCI+PEljb24gbmFtZT0iY2FtZXJhIi8+PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBmb250LXNtIG1sMSBwdDEiPkNoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvZGl2PgogICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>componentDidUpdate($prevProps$$prevState$) {
-  $END$
-}</text>
+        <text encoding="base64">fQoKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JEVORCR0ZXJmYWNlICRuYW1lJFByb3BzIHsKICAkRU5EJAp9CgpleHBvcnQgZGVmYXVsdCBjbGFzcyAkbmFtZSQgZXh0ZW5kcyBSZWFjdC5QdXJlQ29tcG9uZW50PCRuYW1lJFByb3BzJHN0YXRlJD4gewoKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEkkTkFNRSQgeyRFTkQkfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gJG5hbWUkKHt9OiAkbmFtZSRQcm9wcykgewoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JEVORCR0ZXJmYWNlICRuYW1lJFByb3BzIHsKICAkRU5EJAp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29tcG9uZW50RGlkVXBkYXRlKCRwcmV2UHJvcHMkJHByZXZTdGF0ZSQpIHsKICAkRU5EJAp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRvc3VnZ2VzdH0gZnJvbSAncmVhY3QtYXV0b3N1Z2dlc3QnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorCompleteStatement</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -578,26 +573,26 @@
         <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action OptimizeImports</entry>
         <entry>q</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>nmap T cit</entry>
-        <entry>nmap Q @q</entry>
         <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action EditorSplitLine</entry>
         <entry encoding="base64">OmltYXAgXCB7fTxMZWZ0Pg==</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
-        <entry>action AceAction</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBjaXc=</entry>
         <entry>nmap &quot; ci&quot;</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>nmap Q @q</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />

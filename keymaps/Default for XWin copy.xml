@@ -34,6 +34,10 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
