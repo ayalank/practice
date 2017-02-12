@@ -259,12 +259,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486924192445">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486924954952">
         <mark key="'" line="81" column="50" />
-        <mark key="[" line="84" column="41" />
-        <mark key="]" line="84" column="48" />
-        <mark key="." line="84" column="48" />
-        <mark key="^" line="84" column="48" />
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="30" />
+        <mark key="." line="83" column="30" />
+        <mark key="^" line="83" column="30" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -499,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>payload</text>
+        <text>thumb</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>thumb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
@@ -549,7 +549,7 @@
         <text encoding="base64">KAogICAgICA8YXJ0aWNsZT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xlYXJmaXgiPgogICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im0wIGxlZnQiPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci1nMjMgYm9yZGVyLXhsZyBjaXJjbGUiIHNyYz0iLy9sb3JlbXBpeGVsLmNvbS8xMDAvMTAwIiBhbHQ9IkFsb24gR29sZCIvPgogICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGVmdCBtMCBwMyI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9Im0wIGZvbnQtbm9ybWFsIGZvbnQteHh4bGciPkFsb24gZ29sZDwvaDI+CiAgICAgICAgICAgIDxGaWxlIHVuaXF1ZUlkPSJmbCI+CiAgICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJibG9jayBtdDIgcG9pbnRlciB0ZXh0LWRlY29yYXRpb24tbm9uZSBjb2xvci1iMyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGZvbnQtbWQiPjxJY29uIG5hbWU9ImNhbWVyYSIvPjwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBmb250LXNtIG1sMSBwdDEiPkNoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvZGl2PgogICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9GaWxlPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGZvcm0gY2xhc3NOYW1lPSJtdDQgZm9udC14bGcgZm9udC1saWdodCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im0wIj4KICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImZ1bGwtbmFtZSIgY2xhc3NOYW1lPSJibG9jayI+RnVsbCBOYW1lPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9ImZ1bGwtbmFtZSIKICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJGdWxsIE5hbWUiLz4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQzIj4KICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9IiIgY2xhc3NOYW1lPSJibG9jayI+TGFzdCBOYW1lPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Imxhc3QtbmFtZSIKICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIHAxIGJvcmRlciBib3JkZXItZzQgZm9udC1saWdodCBmb250LXhsZyBuby1vdXRsaW5lIGJnLWcyNyIKICAgICAgICAgICAgICAgICAgIGlkPSJsYXN0LW5hbWUiCiAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iTGFzdCBOYW1lIi8+CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im10MyI+CiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJwaG9uZSIgY2xhc3NOYW1lPSJibG9jayI+UGhvbmUgTnVtYmVyPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9InBob25lIgogICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlBob25lIE51bWJlciIvPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiIGNsYXNzTmFtZT0iYmxvY2siPkVtYWlsIEFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9ImVtYWlsIgogICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9ImV4YW1wbGVAZG9tYWluLmNvbSIvPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDEiPgogICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImJsb2NrIHRleHQtZGVjb3JhdGlvbi1ub25lIGZvbnQtbWQgY29sb3ItYjMiPkNoYW5nZSB5b3VyIHBhc3N3b3JkPC9hPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDQiPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIHB4NSBweTMgYmctYjEgYm9yZGVyLWIzIGJvcmRlci1sZyBib3JkZXItb25seS1ib3R0b20gZm9udC14eGxnIHVwcGVyY2FzZSB3aGl0ZSI+c2F2ZTwvYnV0dG9uPgogICAgICAgICAgPC9wPgogICAgICAgIDwvZm9ybT4KICAgICAgPC9hcnRpY2xlPiAp</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorCompleteStatement</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -600,11 +600,11 @@
         <entry>action EditorSplitLine</entry>
         <entry>nmap Q @q</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
