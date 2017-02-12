@@ -69,4 +69,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cl" value="const $name$ = $args$ =&gt; $END$;" description="constant lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="&quot;()&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

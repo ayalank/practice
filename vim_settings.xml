@@ -259,11 +259,10 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486910177750">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486915071005">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -498,10 +497,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2hpbGRyZW4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmYXVsdCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
@@ -511,47 +510,41 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hpbGRyZW4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHsKCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZmllbGRzZXQ+Owo=</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3NOYW1lPSJibG9jayBtdDIgdGV4dC1kZWNvcmF0aW9uLW5vbmUgY29sb3ItYjMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgZm9udC1tZCI+PEljb24gbmFtZT0iY2FtZXJhIi8+PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBmb250LXNtIG1sMSBwdDEiPkNoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvZGl2PgogICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">Y29uc3QgID0gKCkgPT4gOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">fQoKCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgID0gKCkgPT4gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEkkTkFNRSQgeyRFTkQkfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW50ZXJmYWNlIEkkTkFNRSQgeyRFTkQkfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorCompleteStatement</text>
