@@ -41,6 +41,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1486925646805">
+        <mark key="'" line="81" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1486068207732">
         <mark key="'" line="73" column="11" />
         <mark key="[" line="163" column="0" />
@@ -53,6 +56,9 @@
         <mark key="]" line="8" column="39" />
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1486926893109">
+        <mark key="'" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
@@ -71,6 +77,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1486926688959">
+        <mark key="'" line="30" column="51" />
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="57" />
+        <mark key="." line="30" column="57" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1485352318490">
         <mark key="[" line="54" column="0" />
@@ -259,12 +272,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486924954952">
-        <mark key="'" line="81" column="50" />
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="30" />
-        <mark key="." line="83" column="30" />
-        <mark key="^" line="83" column="30" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486925562271">
+        <mark key="'" line="46" column="50" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="48" column="30" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -396,23 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="16" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="66" column="18" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="12" column="31" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="38" column="27" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="40" column="19" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="41" column="22" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="42" column="15" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="43" column="19" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="89" column="15" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="106" column="18" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="14" column="50" filename="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" />
-      <jump line="11" column="48" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
-      <jump line="6" column="27" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
-      <jump line="7" column="27" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
-      <jump line="8" column="29" filename="$USER_HOME$/projects/sputnik/src/core/schemas.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
-      <jump line="102" column="0" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
       <jump line="59" column="92" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
       <jump line="57" column="35" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
       <jump line="34" column="71" filename="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" />
@@ -496,25 +492,70 @@
       <jump line="5" column="11" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
       <jump line="66" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
       <jump line="81" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="8" column="52" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="47" column="12" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="45" column="24" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="3" column="18" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="81" column="13" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="44" column="5" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="6" column="27" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="30" column="51" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="42" column="7" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="96" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="32" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thumb</text>
+        <text>Email Address</text>
       </register>
       <register name="-" type="4">
-        <text>thumb</text>
+        <text>Email Address</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
+        <text>shadow</text>
       </register>
       <register name="0" type="4">
-        <text>block mt2 text-decoration-none color-b3</text>
+        <text encoding="base64">PHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSJlbWFpbCIgY2xhc3NOYW1lPSJibG9jayI+RW1haWwgQWRkcmVzczwvbGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzc05hbWU9ImNvbC0xMiBwMSBib3JkZXIgYm9yZGVyLWc0IGZvbnQtbGlnaHQgZm9udC14bGcgbm8tb3V0bGluZSBiZy1nMjciCiAgICAgICAgICAgICAgIGlkPSJlbWFpbCIKICAgICAgICAgICAgICAgeyAuLi5maWVsZHMuZW1haWwuaW5wdXQgfQogICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iZXhhbXBsZUBkb21haW4uY29tIi8+CiAgICAgIDwvcD4=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -522,40 +563,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFqYXggCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb3BVc2VyID0gdXNlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSIiIGNsYXNzTmFtZT0iYmxvY2siPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiCiAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIHAxIGJvcmRlciBib3JkZXItZzQgZm9udC1saWdodCBmb250LXhsZyBuby1vdXRsaW5lIGJnLWcyNyIKICAgICAgICAgICAgICAgaWQ9Imxhc3QtbmFtZSIKICAgICAgICAgICAgICAgeyAuLi5maWVsZHMubGFzdE5hbWUuaW5wdXQgfQogICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iTGFzdCBOYW1lIi8+CiAgICAgIDwvcD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgeyAuLi5maWVsIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgeyAuLi5maWVsZHMubGFzdE5hbWUuaW5wdXQgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFRtcFByb2ZpbGUoKSB7CiAgcmV0dXJuIDsKfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KAogICAgICA8YXJ0aWNsZT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xlYXJmaXgiPgogICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im0wIGxlZnQiPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci1nMjMgYm9yZGVyLXhsZyBjaXJjbGUiIHNyYz0iLy9sb3JlbXBpeGVsLmNvbS8xMDAvMTAwIiBhbHQ9IkFsb24gR29sZCIvPgogICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGVmdCBtMCBwMyI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9Im0wIGZvbnQtbm9ybWFsIGZvbnQteHh4bGciPkFsb24gZ29sZDwvaDI+CiAgICAgICAgICAgIDxGaWxlIHVuaXF1ZUlkPSJmbCI+CiAgICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJibG9jayBtdDIgcG9pbnRlciB0ZXh0LWRlY29yYXRpb24tbm9uZSBjb2xvci1iMyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGZvbnQtbWQiPjxJY29uIG5hbWU9ImNhbWVyYSIvPjwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBmb250LXNtIG1sMSBwdDEiPkNoYW5nZSB5b3VyIHByb2ZpbGUgcGljdHVyZTwvZGl2PgogICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9GaWxlPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGZvcm0gY2xhc3NOYW1lPSJtdDQgZm9udC14bGcgZm9udC1saWdodCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im0wIj4KICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImZ1bGwtbmFtZSIgY2xhc3NOYW1lPSJibG9jayI+RnVsbCBOYW1lPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9ImZ1bGwtbmFtZSIKICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJGdWxsIE5hbWUiLz4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQzIj4KICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9IiIgY2xhc3NOYW1lPSJibG9jayI+TGFzdCBOYW1lPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Imxhc3QtbmFtZSIKICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIHAxIGJvcmRlciBib3JkZXItZzQgZm9udC1saWdodCBmb250LXhsZyBuby1vdXRsaW5lIGJnLWcyNyIKICAgICAgICAgICAgICAgICAgIGlkPSJsYXN0LW5hbWUiCiAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iTGFzdCBOYW1lIi8+CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im10MyI+CiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJwaG9uZSIgY2xhc3NOYW1lPSJibG9jayI+UGhvbmUgTnVtYmVyPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9InBob25lIgogICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlBob25lIE51bWJlciIvPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiIGNsYXNzTmFtZT0iYmxvY2siPkVtYWlsIEFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICAgICAgaWQ9ImVtYWlsIgogICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9ImV4YW1wbGVAZG9tYWluLmNvbSIvPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDEiPgogICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImJsb2NrIHRleHQtZGVjb3JhdGlvbi1ub25lIGZvbnQtbWQgY29sb3ItYjMiPkNoYW5nZSB5b3VyIHBhc3N3b3JkPC9hPgogICAgICAgICAgPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdDQiPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIHB4NSBweTMgYmctYjEgYm9yZGVyLWIzIGJvcmRlci1sZyBib3JkZXItb25seS1ib3R0b20gZm9udC14eGxnIHVwcGVyY2FzZSB3aGl0ZSI+c2F2ZTwvYnV0dG9uPgogICAgICAgICAgPC9wPgogICAgICAgIDwvZm9ybT4KICAgICAgPC9hcnRpY2xlPiAp</text>
+        <text encoding="base64">CiAgICAgIDxwIGNsYXNzTmFtZT0ibTAiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSJmdWxsLW5hbWUiIGNsYXNzTmFtZT0iYmxvY2siPkZ1bGwgTmFtZTwvbGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICBpZD0iZnVsbC1uYW1lIgogICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iRnVsbCBOYW1lIi8+CiAgICAgIDwvcD4KICAgICAgPHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSIiIGNsYXNzTmFtZT0iYmxvY2siPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Imxhc3QtbmFtZSIKICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJjb2wtMTIgcDEgYm9yZGVyIGJvcmRlci1nNCBmb250LWxpZ2h0IGZvbnQteGxnIG5vLW91dGxpbmUgYmctZzI3IgogICAgICAgICAgICAgICBpZD0ibGFzdC1uYW1lIgogICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iTGFzdCBOYW1lIi8+CiAgICAgIDwvcD4KICAgICAgPHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSJwaG9uZSIgY2xhc3NOYW1lPSJibG9jayI+UGhvbmUgTnVtYmVyPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iIiBjbGFzc05hbWU9ImNvbC0xMiBwMSBib3JkZXIgYm9yZGVyLWc0IGZvbnQtbGlnaHQgZm9udC14bGcgbm8tb3V0bGluZSBiZy1nMjciCiAgICAgICAgICAgICAgIGlkPSJwaG9uZSIKICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlBob25lIE51bWJlciIvPgogICAgICA8L3A+CiAgICAgIDxwIGNsYXNzTmFtZT0ibXQzIj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiIGNsYXNzTmFtZT0iYmxvY2siPkVtYWlsIEFkZHJlc3M8L2xhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJlbWFpbCIgbmFtZT0iIiBjbGFzc05hbWU9ImNvbC0xMiBwMSBib3JkZXIgYm9yZGVyLWc0IGZvbnQtbGlnaHQgZm9udC14bGcgbm8tb3V0bGluZSBiZy1nMjciCiAgICAgICAgICAgICAgIGlkPSJlbWFpbCIKICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9ImV4YW1wbGVAZG9tYWluLmNvbSIvPgogICAgICA8L3A+CiAgICAgIDxwIGNsYXNzTmFtZT0ibXQxIj4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImJsb2NrIHRleHQtZGVjb3JhdGlvbi1ub25lIGZvbnQtbWQgY29sb3ItYjMiPkNoYW5nZSB5b3VyIHBhc3N3b3JkPC9hPgogICAgICA8L3A+CiAgICAgIDxwIGNsYXNzTmFtZT0ibXQ0Ij4KICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIHB4NSBweTMgYmctYjEgYm9yZGVyLWIzIGJvcmRlci1sZyBib3JkZXItb25seS1ib3R0b20gZm9udC14eGxnIHVwcGVyY2FzZSB3aGl0ZSI+CiAgICAgICAgICBzYXZlCiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvcD4KICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc05hbWVcPg==</last-search>
+      <last-search>shadow</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc05hbWVcPg==</last-pattern>
+      <last-pattern>shadow</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -563,9 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW50Q291bnRcPg==</entry>
-        <entry>place</entry>
-        <entry>require</entry>
         <entry>defaultsto</entry>
         <entry>thumb</entry>
         <entry>homesear</entry>
@@ -583,28 +621,31 @@
         <entry>border-lg</entry>
         <entry>xlg</entry>
         <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
+        <entry>form</entry>
+        <entry>email</entry>
+        <entry>shadow</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>nmap T cit</entry>
         <entry>action RenameElement</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">OmltYXAgXCB7fTxMZWZ0Pg==</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
         <entry encoding="base64">bm1hcCA8VGFiPiBjaXc=</entry>
         <entry>nmap &quot; ci&quot;</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>nmap Q @q</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action AceAction</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action Back</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
