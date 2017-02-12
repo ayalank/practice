@@ -77,4 +77,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="msp" value="const mapStateToProps = state =&gt; ({&#10;$END$&#10;});&#10;&#10;" description="mapStateToProps" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
