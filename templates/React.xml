@@ -37,4 +37,44 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="ff" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default function $name$({}: $name$Props) {&#10;&#10;}" description="Functional Compoent" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default class $name$ extends React.PureComponent&lt;$name$Props$state$&gt; {&#10;&#10;}" description="React PureComponent" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ic" value="onChange?: $type$&#10;value?: $type$" description="Input Component" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="c" value="children" description="children" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="dp" value="const {$END$} = this.props;" description="destructure props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ds" value="const {$END$} = this.state;" description="destructure state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="d" value="const {$END$} = $variable$;" description="destructure" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
