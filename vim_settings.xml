@@ -127,6 +127,12 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487151289081">
+        <mark key="[" line="81" column="11" />
+        <mark key="]" line="81" column="14" />
+        <mark key="." line="81" column="14" />
+        <mark key="^" line="81" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1485982551318">
         <mark key="'" line="25" column="36" />
         <mark key="[" line="36" column="0" />
@@ -191,10 +197,10 @@
         <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/report.ts" timestamp="1487149997747">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -498,11 +504,11 @@
       <jump line="7" column="77" filename="$USER_HOME$/projects/sputnik/src/core/lib/reducer-creator.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getReports(state)</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>getReports(state)</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -1928,37 +1934,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgfTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghaGFuZGxlclthY3Rpb24uc3RhdHVzXSkgewogICAgICAK</text>
+        <text encoding="base64">ICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgfTsKfQo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghaGFuZGxlclthY3Rpb24uc3RhdHVzXSkgewogICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2002,10 +2008,8 @@
         <entry>action Back</entry>
         <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8Qy1lPiw8ZW50ZXI+</entry>
         <entry>actionlist end</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8RW5kPiw8ZW50ZXI+</entry>
@@ -2014,6 +2018,8 @@
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
