@@ -199,10 +199,16 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1486923667269">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="30" column="15" />
-        <mark key="." line="30" column="15" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/report.ts" timestamp="1487147277103">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -353,7 +359,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1486907450809" />
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1485955940961">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -1970,7 +1975,7 @@
         <text encoding="base64">PHAgY2xhc3NOYW1lPSJtdDMiPgogICAgICAgIDxsYWJlbCBodG1sRm9yPSIiIGNsYXNzTmFtZT0iYmxvY2siPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiCiAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIHAxIGJvcmRlciBib3JkZXItZzQgZm9udC1saWdodCBmb250LXhsZyBuby1vdXRsaW5lIGJnLWcyNyIKICAgICAgICAgICAgICAgaWQ9Imxhc3QtbmFtZSIKICAgICAgICAgICAgICAgeyAuLi5maWVsZHMubGFzdE5hbWUuaW5wdXQgfQogICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iTGFzdCBOYW1lIi8+CiAgICAgIDwvcD4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2019,13 +2024,13 @@
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action AceAction</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
