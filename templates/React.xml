@@ -88,4 +88,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="sd" value="static defaultProps = { $END$ }" description="static defaultProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

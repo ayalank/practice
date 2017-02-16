@@ -40,12 +40,18 @@
         <mark key="^" line="40" column="104" />
         <mark key="." line="40" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487269801683">
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487270739527">
         <mark key="'" line="90" column="15" />
         <mark key="[" line="177" column="13" />
         <mark key="]" line="177" column="13" />
         <mark key="^" line="180" column="17" />
         <mark key="." line="177" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487271030125">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1487269450026">
         <mark key="'" line="0" column="0" />
@@ -298,6 +304,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/tsconfig.json" timestamp="1487270872575">
+        <mark key="'" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1485352704233">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="0" column="84" />
@@ -452,8 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="55" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
-      <jump line="19" column="24" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
       <jump line="24" column="87" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
       <jump line="51" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="77" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -552,16 +559,18 @@
       <jump line="16" column="1" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="95" column="15" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/tsconfig.json" />
+      <jump line="9" column="12" filename="$USER_HOME$/projects/sputnik/tsconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>nextProps</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>nextProps</text>
       </register>
       <register name="/" type="4">
-        <text>extrafilte</text>
+        <text>react</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGVudGl0aWVzOiB7ICB9LCByZXN1bHQ6IFtdIA==</text>
@@ -570,43 +579,43 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvblNob3dFeHRyYUZpbHRlcnMoKSB7CiAgICBjb25zdCBzaG93RXh0cmFGaWx0ZXJzID0gIXRoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyczsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAuLi50aGlzLnN0YXRlLAogICAgICBzaG93RXh0cmFGaWx0ZXJzCiAgICB9KTsKICB9Cgo=</text>
+        <text encoding="base64">UmVhY3RjaGlsZHJlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93RXh0cmFGaWx0ZXJzICE9PSB0aGlzLnN0YXRlLnNob3dFeHRyYUZpbHRlcnM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2hvd0V4dHJhRmlsdGVycz17KCkgPT4gdGhpcy5vblNob3dFeHRyYUZpbHRlcnMoKX0K</text>
+        <text encoding="base64">ICBvblNob3dFeHRyYUZpbHRlcnMoKSB7CiAgICBjb25zdCBzaG93RXh0cmFGaWx0ZXJzID0gIXRoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyczsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAuLi50aGlzLnN0YXRlLAogICAgICBzaG93RXh0cmFGaWx0ZXJzCiAgICB9KTsKICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dFeHRyYUZpbHRlcnM9e3RoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyc30K</text>
+        <text encoding="base64">ICAgICAgICBzaG93RXh0cmFGaWx0ZXJzICE9PSB0aGlzLnN0YXRlLnNob3dFeHRyYUZpbHRlcnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvblNob3dFeHRyYUZpbHRlcnM6IEN1c3RvbUhhbmRsZXI8dm9pZD47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2hvd0V4dHJhRmlsdGVycz17KCkgPT4gdGhpcy5vblNob3dFeHRyYUZpbHRlcnMoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dFeHRyYUZpbHRlcnM9e3RoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyc30K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEhpZGVXaGVuQ2xpY2tlZE91dHNpZGVTdGF0ZSB7CiAgdmlzaWJsZTogYm9vbGVhbgp9Cgo=</text>
+        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
-      <last-search>extrafilte</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>extrafilte</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -614,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.props</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
         <entry>class</entry>
@@ -634,6 +642,7 @@
         <entry>export</entry>
         <entry>renderextrafilters</entry>
         <entry>extrafilte</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
@@ -648,14 +657,14 @@
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action AceAction</entry>
-        <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
