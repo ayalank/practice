@@ -163,11 +163,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1485981497220">
-        <mark key="[" line="66" column="2" />
-        <mark key="]" line="66" column="50" />
-        <mark key="." line="66" column="50" />
-        <mark key="^" line="66" column="50" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1487249889122">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="55" column="40" />
+        <mark key="^" line="55" column="75" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" timestamp="1487232497779">
         <mark key="'" line="49" column="37" />
@@ -526,10 +526,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>||</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>||</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -571,7 +571,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgPEljb24gY2xhc3NOYW1lPSJjb2xvci1iMyIgbmFtZT0iZXllIi8+CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -613,20 +613,20 @@
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
         <entry encoding="base64">bm1hcCA8Uy0nPiBjaSc=</entry>
         <entry>nmap &quot; ci'</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCA8Qy1jPiBkYXc=</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">bm1hcCA8Qy1kPiBkYXc=</entry>
-        <entry>action AceAction</entry>
         <entry>nmap H @q</entry>
         <entry>%s/;//gc</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -706,6 +706,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
