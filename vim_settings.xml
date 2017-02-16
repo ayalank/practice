@@ -40,12 +40,19 @@
         <mark key="^" line="40" column="104" />
         <mark key="." line="40" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487267318619">
-        <mark key="'" line="87" column="115" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487269801683">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="177" column="13" />
+        <mark key="]" line="177" column="13" />
+        <mark key="^" line="180" column="17" />
+        <mark key="." line="177" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1487269450026">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="83" column="75" />
+        <mark key="]" line="83" column="75" />
+        <mark key="." line="83" column="75" />
+        <mark key="^" line="87" column="45" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1486068207732">
         <mark key="'" line="73" column="11" />
@@ -445,9 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="94" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
-      <jump line="25" column="36" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
       <jump line="149" column="55" filename="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" />
       <jump line="19" column="24" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
       <jump line="24" column="87" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
@@ -545,16 +549,19 @@
       <jump line="21" column="10" filename="$USER_HOME$/projects/sputnik/src/components/hide-when-clicked-outside.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/hide-when-clicked-outside.tsx" />
       <jump line="87" column="115" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="16" column="1" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="95" column="15" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>renderextrafilters</text>
+        <text>extrafilte</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGVudGl0aWVzOiB7ICB9LCByZXN1bHQ6IFtdIA==</text>
@@ -563,43 +570,43 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEhpZGVXaGVuQ2xpY2tlZE91dHNpZGVTdGF0ZSB7CiAgdmlzaWJsZTogYm9vbGVhbgp9Cgo=</text>
+        <text encoding="base64">ICBvblNob3dFeHRyYUZpbHRlcnMoKSB7CiAgICBjb25zdCBzaG93RXh0cmFGaWx0ZXJzID0gIXRoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyczsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAuLi50aGlzLnN0YXRlLAogICAgICBzaG93RXh0cmFGaWx0ZXJzCiAgICB9KTsKICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNldFZpc2liaWxpdHkodmlzaWJsZSkgewogICAgdGhpcy5zZXRTdGF0ZSh7IHZpc2libGUgfSk7CiAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzaG93RXh0cmFGaWx0ZXJzICE9PSB0aGlzLnN0YXRlLnNob3dFeHRyYUZpbHRlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKHsgdmlzaWJsZSB9KSB7CiAgICByZXR1cm4gdmlzaWJsZSAmJiB0aGlzLnNldFZpc2liaWxpdHkodmlzaWJsZSk7CiAgfQoK</text>
+        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGVsZW06IEhUTUxFbGVtZW50OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2hvd0V4dHJhRmlsdGVycz17KCkgPT4gdGhpcy5vblNob3dFeHRyYUZpbHRlcnMoKX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEhpZGVXaGVuQ2xpY2tlZE91dHNpZGUgZXh0ZW5kcyBSZWFjdC5QdXJlQ29tcG9uZW50PEhpZGVXaGVuQ2xpY2tlZE91dHNpZGVQcm9wcywgSGlkZVdoZW5DbGkKICBzdGF0ZSA9IHsgdmlzaWJsZTogZmFsc2UgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dFeHRyYUZpbHRlcnM9e3RoaXMuc3RhdGUuc2hvd0V4dHJhRmlsdGVyc30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzaG93RXh0cmFGaWx0ZXJzOiBib29sZWFuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb25DbGlja091dHNpZGVPbmNlKHRoaXMuZWxlbSwgdGhpcy5wcm9wcy5vbkNsaWNrZWRPdXRzaWRlKTsK</text>
+        <text encoding="base64">ICBvblNob3dFeHRyYUZpbHRlcnM6IEN1c3RvbUhhbmRsZXI8dm9pZD47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChuZXh0U3RhdGUudmlzaWJsZSAmJiB0aGlzLmVsZW0pIHsK</text>
+        <text encoding="base64">aW50ZXJmYWNlIEhpZGVXaGVuQ2xpY2tlZE91dHNpZGVTdGF0ZSB7CiAgdmlzaWJsZTogYm9vbGVhbgp9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>renderextrafilters</last-search>
+      <last-search>extrafilte</last-search>
       <last-offset />
-      <last-pattern>renderextrafilters</last-pattern>
+      <last-pattern>extrafilte</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -607,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>layoutblock</entry>
         <entry>this.props</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxERUZBVUxUX0NMT1NFRF9XRUlHSFRcPg==</entry>
@@ -627,6 +633,7 @@
         <entry>;</entry>
         <entry>export</entry>
         <entry>renderextrafilters</entry>
+        <entry>extrafilte</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
@@ -638,17 +645,17 @@
         <entry>%s/;//gc</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />

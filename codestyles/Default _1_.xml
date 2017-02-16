@@ -53,6 +53,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
