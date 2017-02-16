@@ -163,10 +163,10 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1487250635940">
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="55" column="11" />
-        <mark key="." line="55" column="11" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1487252235048">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
         <mark key="^" line="55" column="11" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" timestamp="1487232497779">
@@ -526,10 +526,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>searchResult.value;</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>searchResult.value;</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
