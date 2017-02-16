@@ -26,6 +26,7 @@
   </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -107,6 +108,9 @@
   <action id="ShowPopupMenu" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />

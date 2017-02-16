@@ -82,4 +82,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cwp" value="componentWillReceiveProps($nextProps$) {&#10;  $END$&#10;}" description="componentDidUpdate" toReformat="false" toShortenFQNames="true">
+    <variable name="nextProps" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

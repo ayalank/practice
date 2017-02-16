@@ -95,4 +95,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="s" value="() =&gt; $END$ " description="lambda" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

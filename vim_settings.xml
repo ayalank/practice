@@ -16,6 +16,12 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="129" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom/dom-utils.ts" timestamp="1487265574351">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/globals.d.ts" timestamp="1487248494334">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
@@ -34,18 +40,12 @@
         <mark key="^" line="40" column="104" />
         <mark key="." line="40" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487261777234">
-        <mark key="'" line="169" column="10" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="87" column="91" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487261758696">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487266068443">
+        <mark key="'" line="167" column="10" />
+        <mark key="[" line="87" column="37" />
+        <mark key="]" line="87" column="63" />
+        <mark key="^" line="87" column="63" />
+        <mark key="." line="87" column="63" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1486068207732">
         <mark key="'" line="73" column="11" />
@@ -62,6 +62,12 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1486926893109">
         <mark key="'" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/hide-when-clicked-outside.tsx" timestamp="1487266224201">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
@@ -419,9 +425,6 @@
       <file name="$USER_HOME$/projects/sputnik/src/core/schemas.ts" timestamp="1487148214695">
         <mark key="'" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/reducer-creator.ts" timestamp="1487150167839">
-        <mark key="^" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1484136187467">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="37" />
@@ -538,11 +541,11 @@
       <jump line="167" column="10" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>renderextrafilters</text>
@@ -554,37 +557,41 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7c2hvd0V4dHJhRmlsdGVycyAmJiB0aGlzLnJlbmRlckV4dHJhRmlsdGVycygpfQo=</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8RmlsdGVyQnV0dG9uIG9uQ2hhbmdlPXsoKSA9PiB0aGlzLnByb3BzLm9uU2hvd0V4dHJhRmlsdGVycygpfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgb25DbGlja091dHNpZGVPbmNlKHRoaXMuZWxlbSwgKCkgPT4gdGhpcy5zZXRWaXNpYmlsaXR5KGZhbHNlKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBfLmlzRW1wdHkK</text>
+      <register name="4" type="4">
+        <text>(nextProps, nextState) {
+    if (nextState.visible) {
+      this.hideWhenClickedOutside();
+    }
+  }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGEgb25DbGljaz17b25TaGFyZX0KICAgICAgICAgICAgICAgICAgIGhyZWY9IiMiCiAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJsb2NrIHB0MSBweDEgbXIxIGxlZnQgYWxpZ24tbWlkZGxlIHRleHQtZGVjb3JhdGlvbi1ub25lIGJnLWIxMCBib3JkZXItbGcgYm9yZGVyLWJvdHRvbSBib3JkZXItYjExIj48L2E+Cg==</text>
+        <text encoding="base64">ICAgIG9uQ2xpY2tPdXRzaWRlT25jZSh0aGlzLmVsZW0sICgpID0+IHRoaXMuc2V0VmlzaWJpbGl0eShmYWxzZSkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiBpLXNoYXJlIGxpbmUtaGVpZ2h0LTEgd2hpdGUgIi8+CiAgICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB2aXNpYmxlIH0pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiBpLXNoYXJlIGxpbmUtaGVpZ2h0LTEgd2hpdGUgIi8+CiAgICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -620,26 +627,26 @@
         <entry>renderextrafilters</entry>
       </history-search>
       <history-cmd>
-        <entry>action OptimizeImports</entry>
         <entry encoding="base64">bm1hcCA8Qy1zPiA8RW5kPmEsPEVudGVyPg==</entry>
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
         <entry encoding="base64">bm1hcCA8Uy0nPiBjaSc=</entry>
         <entry>nmap &quot; ci'</entry>
         <entry encoding="base64">bm1hcCA8Qy1jPiBkYXc=</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">bm1hcCA8Qy1kPiBkYXc=</entry>
         <entry>nmap H @q</entry>
         <entry>%s/;//gc</entry>
-        <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action OptimizeImports</entry>
         <entry>action AceAction</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action Back</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
-        <entry>action EditorSplitLine</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
