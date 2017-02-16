@@ -36,7 +36,6 @@
         <mark key="^" line="40" column="104" />
         <mark key="." line="40" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" timestamp="1487149783962" />
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1486925646805">
         <mark key="'" line="81" column="13" />
       </file>
@@ -127,10 +126,10 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487151289081">
-        <mark key="[" line="81" column="11" />
-        <mark key="]" line="81" column="14" />
-        <mark key="." line="81" column="14" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487230390721">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="81" column="14" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1485982551318">
@@ -195,12 +194,6 @@
         <mark key="]" line="32" column="15" />
         <mark key="^" line="32" column="15" />
         <mark key="." line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/report.ts" timestamp="1487149997747">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -346,6 +339,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1487230686817">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculators.ts" timestamp="1486244129840">
         <mark key="'" line="51" column="55" />
         <mark key="[" line="284" column="10" />
@@ -373,17 +372,13 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/schemas.ts" timestamp="1487148214695">
         <mark key="'" line="8" column="29" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="17" column="46" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/reducer-creator.ts" timestamp="1487150167839">
-        <mark key="'" line="13" column="77" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="16" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1484136187467">
         <mark key="[" line="11" column="26" />
@@ -505,10 +500,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getReports(state)</text>
+        <text>react-autosuggest</text>
       </register>
       <register name="-" type="4">
-        <text>getReports(state)</text>
+        <text>react-autosuggest</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -1934,13 +1929,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">Y29uc3QgZGVtbyA9IFsKICB7CiAgICAnaWQnOiAnNGViNzM1NjItNmJmNy00YjExLWJhYzYtOWIxNjUxY2I4ZmZjJywKICAgICdsaXN0X3ByaWNlJzogMTc1MDAwLAogICAgJ29mZmVyX3ByaWNlJzogMTY1MDAwLAogICAgJ2NhcF9yYXRlJzogMC4yLAogICAgJ3Byb2ZpdF9wZXJjZW50JzogMC4yLAogICAgJ251bV9vZl92aWV3cyc6IDAsCiAgICAnZW1haWxzJzogewogICAgICAnbmFvcml0ekByZWFsYXpvbi5jb20nOiBmYWxzZSwKICAgICAgJ29mZXJpdHpAcmVhbGF6b24uY29tJzogdHJ1ZQogICAgfSwKICAgICdjcmVhdGVkX2F0JzogJzIwMTctMDItMTNUMTI6NDM6NDAuMDczWicsCiAgICAnYWRkcmVzcyc6ICc1OTY4IEUgRm9yZXN0IEdyb3ZlJywKICAgICdpc19hY3RpdmUnOiB0cnVlLAogICAgJ3RodW1iJzogJ2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9zcG90YXVjdGlvbi1waWN0dXJlcy9wYWxtX2JlYWNoL3BhbG0gYmVhY2gvMjAxNzAxMjcwMjUyNDcxOTM3NDIwMDAwMDAvMC5qcGVnJwogIH0sCiAgewogICAgJ2lkJzogJzRlYjczNTYyLTZiZjctNGIxMS1iYWM2LTliMTY1MWNiN2ZmYycsCiAgICAnbGlzdF9wcmljZSc6IDE3NTAwMCwKICAgICdvZmZlcl9wcmljZSc6IDE2NTAwMCwKICAgICdjYXBfcmF0ZSc6IDAuMiwKICAgICdwcm9maXRfcGVyY2VudCc6IDAuMiwKICAgICdudW1fb2Zfdmlld3MnOiAwLAogICAgJ2VtYWlscyc6IHsKICAgICAgJ25hb3JpdHpAcmVhbGF6b24uY29tJzogZmFsc2UsCiAgICAgICdvZmVyaXR6QHJlYWxhem9uLmNvbSc6IHRydWUKICAgIH0sCiAgICAnY3JlYXRlZF9hdCc6ICcyMDE3LTAyLTEzVDEyOjQzOjQwLjA3M1onLAogICAgJ2FkZHJlc3MnOiAnNTk2OCBFIEZvcmVzdCBHcm92ZScsCiAgICAnaXNfYWN0aXZlJzogdHJ1ZSwKICAgICd0aHVtYic6ICdodHRwczovL3MzLmFtYXpvbmF3cy5jb20vc3BvdGF1Y3Rpb24tcGljdHVyZXMvcGFsbV9iZWFjaC9wYWxtIGJlYWNoLzIwMTcwMTI3MDI1MjQ3MTkzNzQyMDAwMDAwLzAuanBlZycKICB9LAogIHsKICAgICdpZCc6ICc0ZWI3MzU2Mi02YmY3LTRiMTEtYmFjNi05YjE2NTFhYjhmZmMnLAogICAgJ2xpc3RfcHJpY2UnOiAxNzU2NTQsCiAgICAnb2ZmZXJfcHJpY2UnOiAxNjUwMDAsCiAgICAnY2FwX3JhdGUnOiAwLjIsCiAgICAncHJvZml0X3BlcmNlbnQnOiAwLjIsCiAgICAnbnVtX29mX3ZpZXdzJzogMCwKICAgICdlbWFpbHMnOiB7CiAgICAgICduYW9yaXR6QHJlYWxhem9uLmNvbSc6IGZhbHNlLAogICAgICAnb2Zlcml0ekByZWFsYXpvbi5jb20nOiB0cnVlCiAgICB9LAogICAgJ2NyZWF0ZWRfYXQnOiAnMjAxNy0wMi0xM1QxMjo0Mzo0MC4wNzNaJywKICAgICdhZGRyZXNzJzogJzU5NjggRSBGb3Jlc3QgR3JvdmUnLAogICAgJ2lzX2FjdGl2ZSc6IHRydWUsCiAgICAndGh1bWInOiAnaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Nwb3RhdWN0aW9uLXBpY3R1cmVzL3BhbG1fYmVhY2gvcGFsbSBiZWFjaC8yMDE3MDEyNzAyNTI0NzE5Mzc0MjAwMDAwMC8wLmpwZWcnCiAgfSwKICB7CiAgICAnaWQnOiAnNGViNzM1NjItNmJmNy00YjExLWJhYzYtOWI5NjUxY2I4ZmZjJywKICAgICdsaXN0X3ByaWNlJzogMTc1MDAwLAogICAgJ29mZmVyX3ByaWNlJzogMTY1MDAwLAogICAgJ2NhcF9yYXRlJzogMC4yLAogICAgJ3Byb2ZpdF9wZXJjZW50JzogMC4yLAogICAgJ251bV9vZl92aWV3cyc6IDAsCiAgICAnZW1haWxzJzogewogICAgICAnbmFvcml0ekByZWFsYXpvbi5jb20nOiBmYWxzZSwKICAgICAgJ29mZXJpdHpAcmVhbGF6b24uY29tJzogdHJ1ZQogICAgfSwKICAgICdjcmVhdGVkX2F0JzogJzIwMTctMDItMTNUMTI6NDM6NDAuMDczWicsCiAgICAnYWRkcmVzcyc6ICc1OTY4IEUgRm9yZXN0IEdyb3ZlJywKICAgICdpc19hY3RpdmUnOiB0cnVlLAogICAgJ3RodW1iJzogJ2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9zcG90YXVjdGlvbi1waWN0dXJlcy9wYWxtX2JlYWNoL3BhbG0gYmVhY2gvMjAxNzAxMjcwMjUyNDcxOTM3NDIwMDAwMDAvMC5qcGVnJwogIH0KXTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cgo=</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1949,22 +1944,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgfTsKfQo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghaGFuZGxlclthY3Rpb24uc3RhdHVzXSkgewogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIGhhbmRsZXJbIGFjdGlvbi50eXBlIF0ocHJldlN0YXRlLCBhY3Rpb24pCiAgfTsKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -2000,14 +1995,9 @@
         <entry>email</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">OmltYXAgXCB7fTxMZWZ0Pg==</entry>
-        <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
-        <entry encoding="base64">bm1hcCA8VGFiPiBjaXc=</entry>
-        <entry>nmap &quot; ci&quot;</entry>
         <entry>nmap Q @q</entry>
         <entry>action Back</entry>
         <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8Qy1lPiw8ZW50ZXI+</entry>
@@ -2016,10 +2006,15 @@
         <entry>action RenameElement</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoFile</entry>
+        <entry encoding="base64">bm1hcCA8Qy1zPiA8RW5kPmEsPEVudGVyPg==</entry>
+        <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry encoding="base64">bm1hcCA8Uy0nPiBjaSc=</entry>
+        <entry>nmap &quot; ci'</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
