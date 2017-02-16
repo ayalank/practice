@@ -69,11 +69,11 @@
         <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1487236071654">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="92" column="3" />
-        <mark key="]" line="92" column="3" />
-        <mark key="." line="92" column="3" />
-        <mark key="^" line="94" column="21" />
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="93" column="3" />
+        <mark key="]" line="93" column="3" />
+        <mark key="." line="93" column="3" />
+        <mark key="^" line="95" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1485352318490">
         <mark key="[" line="54" column="0" />
@@ -1961,7 +1961,7 @@
         <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorCompleteStatement</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1998,11 +1998,9 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8Qy1lPiw8ZW50ZXI+</entry>
         <entry>actionlist end</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8RW5kPiw8ZW50ZXI+</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action OptimizeImports</entry>
         <entry encoding="base64">bm1hcCA8Qy1zPiA8RW5kPmEsPEVudGVyPg==</entry>
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
@@ -2010,13 +2008,15 @@
         <entry>nmap &quot; ci'</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8Qy1jPiBkYXc=</entry>
         <entry encoding="base64">bm1hcCA8Qy1kPiBkYXc=</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
         <entry>action EditorCompleteStatement</entry>
+        <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
