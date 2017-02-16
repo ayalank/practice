@@ -9,11 +9,12 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" timestamp="1486244804610">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="6" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" timestamp="1487245024949">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="40" column="110" />
+        <mark key="]" line="40" column="129" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="129" />
       </file>
       <file name="/fragment.tsx" timestamp="1485980993392">
         <mark key="[" line="0" column="0" />
@@ -399,9 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
-      <jump line="243" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
-      <jump line="256" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="46" column="1" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="48" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="59" column="1" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
@@ -499,6 +497,9 @@
       <jump line="7" column="77" filename="$USER_HOME$/projects/sputnik/src/core/lib/reducer-creator.ts" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" />
       <jump line="49" column="37" filename="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" />
+      <jump line="133" column="38" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
+      <jump line="40" column="113" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
+      <jump line="39" column="24" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,7 +509,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>preview</text>
+        <text>es</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGVudGl0aWVzOiB7ICB9LCByZXN1bHQ6IFtdIA==</text>
@@ -1965,9 +1966,9 @@
       </register>
     </registers>
     <search>
-      <last-search>preview</last-search>
+      <last-search>es</last-search>
       <last-offset />
-      <last-pattern>preview</last-pattern>
+      <last-pattern>es</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getfall</last-substitute>
       <last-dir>1</last-dir>
@@ -1975,8 +1976,6 @@
     </search>
     <history>
       <history-search>
-        <entry>homesear</entry>
-        <entry>homesearch</entry>
         <entry encoding="base64">XDxnZXRGYWxsYmFja1NlYXJjaFJlc3VsdFw+</entry>
         <entry>getfall</entry>
         <entry>private</entry>
@@ -1995,9 +1994,10 @@
         <entry>email</entry>
         <entry>shared wit</entry>
         <entry>preview</entry>
+        <entry>getnetincome</entry>
+        <entry>es</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCBcIHsgIH08TGVmdD48TGVmdD4=</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8Qy1lPiw8ZW50ZXI+</entry>
         <entry>actionlist end</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8RW5kPiw8ZW50ZXI+</entry>
@@ -2012,9 +2012,10 @@
         <entry encoding="base64">bm1hcCA8Qy1kPiBkYXc=</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
