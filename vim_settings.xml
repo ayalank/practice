@@ -68,12 +68,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1486929743959">
+      <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1487236071654">
         <mark key="'" line="38" column="19" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="57" column="112" />
+        <mark key="[" line="92" column="3" />
+        <mark key="]" line="92" column="3" />
+        <mark key="." line="92" column="3" />
+        <mark key="^" line="94" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1485352318490">
         <mark key="[" line="54" column="0" />
@@ -94,11 +94,11 @@
         <mark key="^" line="0" column="88" />
         <mark key="." line="0" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1484743624232">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1487235814955">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/image.tsx.ts" timestamp="1484992073597">
         <mark key="[" line="8" column="10" />
@@ -378,10 +378,6 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/schemas.ts" timestamp="1487148214695">
         <mark key="'" line="8" column="29" />
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/reducer-creator.ts" timestamp="1487150167839">
         <mark key="^" line="0" column="16" />
@@ -506,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym9sZCA=</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9sZCA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>preview</text>
@@ -1965,7 +1961,7 @@
         <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bm1hcCA8Qy1kPiBkYXc=</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -2006,21 +2002,21 @@
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8Qy1lPiw8ZW50ZXI+</entry>
         <entry>actionlist end</entry>
         <entry encoding="base64">aW1hcCA8Qy1TLWVudGVyPiA8RW5kPiw8ZW50ZXI+</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
         <entry encoding="base64">bm1hcCA8Qy1zPiA8RW5kPmEsPEVudGVyPg==</entry>
         <entry encoding="base64">aW1hcCA8Qy1zPiA8RW5kPiw8RW50ZXI+</entry>
         <entry encoding="base64">bm1hcCA8Uy0nPiBjaSc=</entry>
         <entry>nmap &quot; ci'</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8Qy1jPiBkYXc=</entry>
         <entry encoding="base64">bm1hcCA8Qy1kPiBkYXc=</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RenameElement</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
