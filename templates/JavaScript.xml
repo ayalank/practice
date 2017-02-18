@@ -18,4 +18,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="con" value="$constKey$: '$constValue$'$END$" description="const pair" toReformat="true" toShortenFQNames="true">
+    <variable name="constValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="constKey" expression="capitalizeAndUnderscore(constValue)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
