@@ -16,6 +16,9 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="129" />
       </file>
+      <file name="/fragment.tsx" timestamp="1487442389986">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom/dom-utils.ts" timestamp="1487265574351">
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="42" />
@@ -27,6 +30,9 @@
         <mark key="]" line="563" column="32" />
         <mark key="." line="563" column="32" />
         <mark key="^" line="563" column="32" />
+      </file>
+      <file name="/a.dummy" timestamp="1487446364851">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/globals.d.ts" timestamp="1487248494334">
         <mark key="[" line="10" column="41" />
@@ -65,7 +71,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1487443660778">
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1487446352094">
         <mark key="'" line="74" column="11" />
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -164,6 +170,7 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" timestamp="1487446438552" />
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/borders.styl" timestamp="1486846531783">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="49" column="18" />
@@ -671,7 +678,7 @@
         <text encoding="base64">aW1wb3J0IHtmb3JtYXROdW1iZXIsIGdldE51bWVyYWxWYWx1ZX0gZnJvbSAnLi4vY29yZS9saWIvYXNzZXQtdXRpbHMnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -707,26 +714,26 @@
         <entry>format</entry>
       </history-search>
       <history-cmd>
-        <entry>nmap H @q</entry>
-        <entry>%s/;//gc</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodA==</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>actionlist word</entry>
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodDxDUj4=</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>actionlist usages</entry>
+        <entry encoding="base64">bm1hcCA8QS11PiA6YWN0aW9uIEZpbmRVc2FnZXM8Q1I+</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
