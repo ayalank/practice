@@ -59,12 +59,11 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1487269450026">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1487439542301">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="75" />
-        <mark key="]" line="83" column="75" />
-        <mark key="." line="83" column="75" />
-        <mark key="^" line="87" column="45" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1486068207732">
         <mark key="'" line="73" column="11" />
@@ -117,10 +116,10 @@
         <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1487276475502">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/index.js" timestamp="1484400642914">
         <mark key="[" line="26" column="47" />
@@ -326,10 +325,6 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" timestamp="1487276490126">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="0" column="108" />
-        <mark key="]" line="0" column="111" />
-        <mark key="." line="0" column="111" />
-        <mark key="^" line="0" column="111" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dude.js" timestamp="1484409099585">
         <mark key="'" line="16" column="70" />
@@ -581,7 +576,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -596,37 +591,37 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpY29uIGktbWFwLXBpbi0xICIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFN0eWxlZE1hcFR5cGUgPSBnb29nbGUubWFwcy5TdHlsZWRNYXBUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpY29uIGktbWFwLXBpbi0xICIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgY2hpbGRyZW4gfQo=</text>
+        <text encoding="base64">aW1wb3J0IFN0eWxlZE1hcFR5cGUgPSBnb29nbGUubWFwcy5TdHlsZWRNYXBUeXBlOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsgY2hpbGRyZW4gfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxDbGlja2VkT3V0c2lkZUxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgdmlzaWJsZT17IHNob3dFeHRyYUZpbHRlcnMgfQogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tlZE91dHNpZGU9eyB0aGlzLnRvZ2dsZUV4dHJhRmlsdGVycy5iaW5kKHRoaXMpIH0+CiAgICAgICAgICAgICAgICAgIHt0aGlzLnJlbmRlckV4dHJhRmlsdGVycygpfQogICAgICAgICAgICAgICAgPC9DbGlja2VkT3V0c2lkZUxpc3RlbmVyPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzKCl9PgogICAgICAgICAgICAgICAgPENsaWNrZWRPdXRzaWRlTGlzdGVuZXIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgICAgb25DbGlja2VkT3V0c2lkZT17IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzLmJpbmQodGhpcykgfT4KICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyRXh0cmFGaWx0ZXJzKCl9CiAgICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+CiAgICAgICAgICAgICAg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PEZpbHRlckJ1dHRvbiBjbGFzc05hbWU9Im10MiBtbDIiIG9uQ2xpY2s9eygpID0+IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzKCl9PgogICAgICAgICAgICAgICAgPENsaWNrZWRPdXRzaWRlTGlzdGVuZXIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgICAgb25DbGlja2VkT3V0c2lkZT17IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzLmJpbmQodGhpcykgfT4KICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyRXh0cmFGaWx0ZXJzKCl9CiAgICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+CiAgICAgICAgICAgICAgPC9GaWx0ZXJCdXR0b24+Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+Cg==</text>
+        <text encoding="base64">PEZpbHRlckJ1dHRvbiBjbGFzc05hbWU9Im10MiBtbDIiIG9uQ2xpY2s9eygpID0+IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzKCl9PgogICAgICAgICAgICAgICAgPENsaWNrZWRPdXRzaWRlTGlzdGVuZXIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgICAgb25DbGlja2VkT3V0c2lkZT17IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzLmJpbmQodGhpcykgfT4KICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyRXh0cmFGaWx0ZXJzKCl9CiAgICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+CiAgICAgICAgICAgICAgPC9GaWx0ZXJCdXR0b24+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q2xpY2tlZE91dHNpZGVMaXN0ZW5lcgogICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2tlZE91dHNpZGU9eyB0aGlzLnRvZ2dsZUV4dHJhRmlsdGVycy5iaW5kKHRoaXMpIH0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
@@ -678,10 +673,10 @@
         <entry>action VimMotionWordEndRight</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
