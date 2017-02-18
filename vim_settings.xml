@@ -170,12 +170,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" timestamp="1487447799983">
+      <file name="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" timestamp="1487448654388">
         <mark key="'" line="54" column="48" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="54" column="43" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/borders.styl" timestamp="1486846531783">
         <mark key="'" line="24" column="0" />
