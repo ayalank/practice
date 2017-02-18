@@ -56,7 +56,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="c" value="children" description="children" toReformat="false" toShortenFQNames="true">
+  <template name="cld" value="children" description="children" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>

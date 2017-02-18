@@ -101,4 +101,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="c" value="const $name$ = $END$;" description="const" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
