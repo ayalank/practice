@@ -706,7 +706,7 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnVzZXIpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -755,13 +755,13 @@
         <entry>action Back</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry encoding="base64">aW1hcCBbIFsgIF08bGVmdD48bGVmdD4=</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
