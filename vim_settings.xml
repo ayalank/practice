@@ -381,11 +381,11 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487679766894">
-        <mark key="[" line="75" column="31" />
-        <mark key="]" line="75" column="55" />
-        <mark key="^" line="75" column="55" />
-        <mark key="." line="75" column="55" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487683630857">
+        <mark key="[" line="95" column="58" />
+        <mark key="]" line="95" column="58" />
+        <mark key="." line="95" column="58" />
+        <mark key="^" line="95" column="58" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -642,11 +642,11 @@
       <jump line="25" column="31" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>thumb</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
@@ -658,37 +658,37 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaXNWYWxpZFBhc3N3b3JkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICB0aHVtYlVSTCA9IF8uZGVmYXVsdFRvKGRlZmF1bHRUaHVtYik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnVzZXIpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgaXNWYWxpZFBhc3N3b3JkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZmlsZUZvcm1EZWZhdWx0VmFsdWUgPSBkZWZhdWx0VXNlcigpOwoK</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZmlsZUZvcm1EZWZhdWx0VmFsdWUgPSBkZWZhdWx0VXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnVzZXIpIHsKICAgICAgcmV0dXJuIHRoaXMucHJvcHMudXNlci5uYW1lOwogICAgfQogICAgcmV0dXJuICcnOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -735,15 +735,15 @@
         <entry>action EditorSplitLine</entry>
         <entry>action Back</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
         <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
