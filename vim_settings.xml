@@ -522,6 +522,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" timestamp="1487671249068" />
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1487443729425">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -684,7 +685,7 @@
         <text encoding="base64">aW1wb3J0IHtmb3JtYXROdW1iZXJ9IGZyb20gJy4uL2NvcmUvbGliL2Fzc2V0LXV0aWxzJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -728,7 +729,6 @@
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodDxDUj4=</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>actionlist usages</entry>
@@ -740,6 +740,7 @@
         <entry>action Back</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
