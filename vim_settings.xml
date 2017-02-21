@@ -218,6 +218,12 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/reducers/user.ts" timestamp="1487684823702">
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="129" column="67" />
+        <mark key="^" line="129" column="67" />
+        <mark key="." line="129" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484994098045">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="47" column="22" />
@@ -259,6 +265,12 @@
         <mark key="]" line="12" column="81" />
         <mark key="." line="12" column="81" />
         <mark key="^" line="12" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/images/nav-profile.svg" timestamp="1487684318792">
+        <mark key="[" line="4" column="1219" />
+        <mark key="]" line="4" column="1223" />
+        <mark key="." line="4" column="1223" />
+        <mark key="^" line="4" column="1223" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486282184171">
         <mark key="'" line="10" column="7" />
@@ -381,11 +393,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487683630857">
-        <mark key="[" line="95" column="58" />
-        <mark key="]" line="95" column="58" />
-        <mark key="." line="95" column="58" />
-        <mark key="^" line="95" column="58" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487684702579">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="69" />
+        <mark key="." line="21" column="69" />
+        <mark key="^" line="21" column="69" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -540,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="22" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="68" column="76" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
@@ -640,16 +652,17 @@
       <jump line="55" column="51" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
       <jump line="56" column="48" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
       <jump line="25" column="31" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
+      <jump line="9" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>thumb</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>submit</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGVudGl0aWVzOiB7ICB9LCByZXN1bHQ6IFtdIA==</text>
@@ -692,9 +705,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -702,7 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shadow</entry>
         <entry>email</entry>
         <entry>shared wit</entry>
         <entry>preview</entry>
@@ -722,6 +734,7 @@
         <entry>list_pr</entry>
         <entry encoding="base64">XDxzdWJqZWN0UHJpY2VcPg==</entry>
         <entry>format</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodA==</entry>
@@ -733,16 +746,16 @@
         <entry encoding="base64">bm1hcCA8QS11PiA6YWN0aW9uIEZpbmRVc2FnZXM8Q1I+</entry>
         <entry>action FindUsages</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action Back</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action OptimizeImports</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
-        <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
