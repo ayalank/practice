@@ -40,12 +40,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1487698665356">
-        <mark key="'" line="72" column="76" />
-        <mark key="[" line="72" column="29" />
-        <mark key="]" line="72" column="43" />
-        <mark key="." line="72" column="43" />
-        <mark key="^" line="72" column="43" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1487699876321">
+        <mark key="'" line="74" column="76" />
+        <mark key="[" line="59" column="67" />
+        <mark key="]" line="59" column="70" />
+        <mark key="." line="59" column="70" />
+        <mark key="^" line="59" column="70" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1487276585812">
         <mark key="[" line="54" column="100" />
@@ -419,6 +419,12 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/user-settings.tsx" timestamp="1487699756123">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/search.ts" timestamp="1485947608059">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -655,10 +661,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>white</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
@@ -743,9 +749,7 @@
         <entry>actionlist usages</entry>
         <entry encoding="base64">bm1hcCA8QS11PiA6YWN0aW9uIEZpbmRVc2FnZXM8Q1I+</entry>
         <entry>action FindUsages</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
@@ -755,6 +759,8 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
