@@ -72,7 +72,6 @@
         <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1487446352094">
-        <mark key="'" line="74" column="11" />
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
@@ -104,11 +103,11 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1487236071654">
+      <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1487677918235">
         <mark key="'" line="39" column="19" />
-        <mark key="[" line="93" column="3" />
-        <mark key="]" line="93" column="3" />
-        <mark key="." line="93" column="3" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
         <mark key="^" line="95" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/table-roi.tsx" timestamp="1487444106127">
@@ -171,7 +170,6 @@
         <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" timestamp="1487448654388">
-        <mark key="'" line="54" column="48" />
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="13" />
         <mark key="^" line="23" column="13" />
@@ -317,6 +315,11 @@
         <mark key="." line="48" column="49" />
         <mark key="^" line="49" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/login-form.tsx" timestamp="1487678501803">
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" timestamp="1487443566451">
         <mark key="'" line="44" column="60" />
         <mark key="[" line="0" column="44" />
@@ -378,11 +381,11 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1486930014448">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="55" />
-        <mark key="^" line="44" column="55" />
-        <mark key="." line="44" column="55" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487678276748">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -537,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="28" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" />
       <jump line="22" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
@@ -637,13 +639,14 @@
       <jump line="54" column="47" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
       <jump line="55" column="51" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
       <jump line="56" column="48" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
+      <jump line="25" column="31" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmFsdWVHcm93dGggPSBNYXRoLm1heCgwLCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
@@ -655,37 +658,37 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmFsdWVHcm93dGggPSBNYXRoLm1heCgwLCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaXNWYWxpZFBhc3N3b3JkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVudEdyb3d0aCA9IGFkanVzdEdyb3d0aChyZW50X2dyb3d0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtjdXJyZW5jeSwgcGVyY2VudH0gZnJvbSAnLi4vY29yZS9saWIvYXNzZXQtdXRpbHMnOwo=</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3VycmVuY3kgfSBmcm9tICcuLi9jb3JlL2xpYi9hc3NldC11dGlscyc7Cg==</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tSXNSZXF1aXJlZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtjdXJyZW5jeX0gZnJvbSAnLi4vY29yZS9saWIvYXNzZXQtdXRpbHMnOwo=</text>
+        <text encoding="base64">Y29uc3QgcHJvZmlsZUZvcm1EZWZhdWx0VmFsdWUgPSBkZWZhdWx0VXNlcigpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXROdW1lcmFsVmFsdWV9IGZyb20gJy4uL2NvcmUvbGliL2Fzc2V0LXV0aWxzJzsK</text>
+        <text encoding="base64">Y29uc3QgcHJvZmlsZUZvcm1EZWZhdWx0VmFsdWUgPSBkZWZhdWx0VXNlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtjdXJyZW5jeX0gZnJvbSAnLi4vY29yZS9saWIvYXNzZXQtdXRpbHMnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtmb3JtYXROdW1iZXJ9IGZyb20gJy4uL2NvcmUvbGliL2Fzc2V0LXV0aWxzJzsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnVzZXIpIHsKICAgICAgcmV0dXJuIHRoaXMucHJvcHMudXNlci5uYW1lOwogICAgfQogICAgcmV0dXJuICcnOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
@@ -721,26 +724,26 @@
         <entry>format</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodA==</entry>
-        <entry>action RenameElement</entry>
         <entry>q</entry>
         <entry>actionlist word</entry>
         <entry encoding="base64">bm1hcCA8Qy1lPiA6YWN0aW9uIFZpbU1vdGlvbldvcmRFbmRSaWdodDxDUj4=</entry>
         <entry>action VimMotionWordEndRight</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action AceAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>actionlist usages</entry>
         <entry encoding="base64">bm1hcCA8QS11PiA6YWN0aW9uIEZpbmRVc2FnZXM8Q1I+</entry>
         <entry>action FindUsages</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action Back</entry>
+        <entry>action MoveStatementUp</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action AceAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
