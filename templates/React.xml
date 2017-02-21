@@ -50,7 +50,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ic" value="onChange?: $type$&#10;value?: $type$" description="Input Component" toReformat="false" toShortenFQNames="true">
+  <template name="ic" value="onChange?: CustomHandler&lt;$type$&gt;&#10;value?: $type$" description="Input Component" toReformat="false" toShortenFQNames="true">
     <variable name="type" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
