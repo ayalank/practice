@@ -381,11 +381,11 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487678276748">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487679766894">
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="55" />
+        <mark key="^" line="75" column="55" />
+        <mark key="." line="75" column="55" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1486061526119">
         <mark key="'" line="13" column="7" />
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnVzZXIpIHsKICAgICAgcmV0dXJuIHRoaXMucHJvcHMudXNlci5uYW1lOwogICAgfQogICAgcmV0dXJuICcnOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -740,10 +740,10 @@
         <entry>action OptimizeImports</entry>
         <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
