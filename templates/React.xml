@@ -93,4 +93,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="tp" value="this.props.$param$" description="this.props" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="this.state.$param$" description="this.state." toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

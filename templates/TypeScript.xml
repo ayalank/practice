@@ -61,7 +61,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="id" value="import $what$ from '$who$'" description="import default" toReformat="false" toShortenFQNames="true">
+  <template name="iid" value="import $what$ from '$who$'" description="import default" toReformat="false" toShortenFQNames="true">
     <variable name="who" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

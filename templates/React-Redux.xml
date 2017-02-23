@@ -9,4 +9,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cnct" value="connect&lt;$props$, $state$, $anotherState$&gt;($args$$dispatch$)($component$);$END$" description="connect" toReformat="false" toShortenFQNames="true">
+    <variable name="props" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="state" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="anotherState" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="completeSmart()" defaultValue="&quot;mapStateToProps&quot;" alwaysStopAt="true" />
+    <variable name="dispatch" expression="" defaultValue="&quot;, {}&quot;" alwaysStopAt="true" />
+    <variable name="component" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
