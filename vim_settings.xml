@@ -53,12 +53,11 @@
         <mark key="^" line="54" column="116" />
         <mark key="." line="54" column="116" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487705500856">
-        <mark key="'" line="110" column="7" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="116" column="14" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487836590926">
+        <mark key="[" line="135" column="27" />
+        <mark key="]" line="124" column="41" />
+        <mark key="^" line="124" column="41" />
+        <mark key="." line="124" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487277271972">
         <mark key="'" line="17" column="122" />
@@ -172,7 +171,7 @@
         <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" timestamp="1487705052703">
-        <mark key="'" line="37" column="74" />
+        <mark key="'" line="38" column="74" />
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
@@ -287,10 +286,10 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map.tsx" timestamp="1483531273233">
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/api/auth.d.ts" timestamp="1486910076200">
         <mark key="[" line="5" column="8" />
@@ -444,6 +443,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1487836479312">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
         <mark key="'" line="22" column="0" />
@@ -715,7 +717,7 @@
         <text encoding="base64">ICAgICAgICAgIHsvKjxQcm9wZXJ0eVNlYXJjaEJveCovfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -762,15 +764,15 @@
         <entry>action Back</entry>
         <entry encoding="base64">aW1hcCBbIFsgIF08bGVmdD48bGVmdD4=</entry>
         <entry>action RenameElement</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
