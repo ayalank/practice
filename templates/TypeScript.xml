@@ -114,4 +114,24 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="oo" value="|| " description="or" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="aa" value="&amp;&amp; " description="and" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="b" value="$func$.bind($this$)$END$" description="bind" toReformat="false" toShortenFQNames="true">
+    <variable name="func" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="this" expression="" defaultValue="&quot;this&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
