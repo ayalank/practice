@@ -198,10 +198,10 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1488041116844">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1488041727057">
         <mark key="'" line="142" column="50" />
-        <mark key="[" line="159" column="35" />
-        <mark key="]" line="159" column="35" />
+        <mark key="[" line="159" column="16" />
+        <mark key="]" line="199" column="36" />
         <mark key="^" line="297" column="49" />
         <mark key="." line="159" column="35" />
       </file>
@@ -270,6 +270,9 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" timestamp="1488042117805">
+        <mark key="'" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/slick.styl" timestamp="1484956687784">
         <mark key="[" line="1" column="11" />
@@ -433,6 +436,12 @@
         <mark key="]" line="9" column="60" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488042249767">
+        <mark key="[" line="16" column="76" />
+        <mark key="]" line="16" column="75" />
+        <mark key="." line="16" column="75" />
+        <mark key="^" line="16" column="75" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488041240175">
         <mark key="[" line="3" column="13" />
@@ -598,9 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
-      <jump line="89" column="45" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
-      <jump line="92" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="93" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="94" column="104" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
@@ -698,65 +704,68 @@
       <jump line="48" column="57" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="20" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="13" column="2" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
+      <jump line="2" column="17" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
+      <jump line="6" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
+      <jump line="9" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PropertyPageSummaryBarProps</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PropertyPageSummaryBarProps</text>
       </register>
       <register name="/" type="4">
-        <text>onshare</text>
+        <text>est</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGFibGUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGFibGUtY2VsbCI+b2ZmZXIgcHJpY2U6PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0YWJsZS1jZWxsIj4xMjUwMDAgKGxpc3RlZDogMTMwMDAwKTwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAg</text>
+        <text encoding="base64">PFByb3BlcnR5U3VtbWFyeUJhcj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgPFByb3BlcnR5QWRkcmVzc1ByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2VzdGltYXRlZFByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlPXthc3NldC5saXN0X3ByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgemlwPXthc3NldC56aXBfY29kZV9uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9e2Fzc2V0LmNpdHlfbmFtZX0vPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSByZWxhdGl2ZSIgc3R5bGU9e3sgaGVpZ2h0OiAnMXB4JyB9fT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsRWxlbWVudAogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY3JvbGw9e3RoaXMuUkVQTEFDRV9HQVVHRVNfU0NST0xMX1BPSU5UfQogICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25EdXJhdGlvbj17MjUwfQogICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0ic3VtbWFyeS1zdGF0cyI+CiAgICAgICAgICAgICAgICAgICAgICA8UHJvcGVydHlEZXRhaWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0aHM9e2Fzc2V0LmZiYXRoc30KICAgICAgICAgICAgICAgICAgICAgICAgICBiZWRzPXthc3NldC5iZWRzfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIGFic29sdXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRheXNPbk1hcmtldD17YXNzZXQuZGF5c19vbl9tYXJrZXR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3FmdD17YXNzZXQuc3FmdF9saXZfYXJlYX0KICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVR5cGU9e2Fzc2V0LnR5cGVfb2ZfcHJvcGVydHl9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgPFNjcm9sbEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgbWluU2Nyb2xsPXt0aGlzLlJFUExBQ0VfR0FVR0VTX1NDUk9MTF9QT0lOVH0KICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRHVyYXRpb249ezI1MH0KICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbk5hbWU9InN1bW1hcnktZ2F1Z2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxQcm9wZXJ0eVN1bW1hcnlHYXVnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICBiZ0NsYXNzTmFtZXM9ImJnLWcxMyIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNvbC0xMiBjbGVhcmZpeCBhYnNvbHV0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNoT25DYXNoPXtjYXNoRmxvd30KICAgICAgICAgICAgICAgICAgICAgICAgICBjYXBSYXRlPXtjYXBSYXRlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsUk9JPXtjYWxjdWxhdGVkUm9pfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpdFBlcmNlbnQ9e3Byb2ZpdFBlcmNlbnR9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0yIj4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRSZXBvcnRCdXR0b24oKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L1Byb3BlcnR5U3VtbWFyeUJhcj4=</text>
       </register>
       <register name="q" type="4">
         <text>$xj</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjYWxjdWxhdGlvbnM6IEFzc2V0Q2FsY3VsYXRpb25zCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgY2FsY3UsIGFzc2V0IH0gPSB0aGlzLnByb3BzOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
+      </register>
+      <register name="5" type="4">
         <text>onShare={_.noop}
                                 onReportCreated={_.noop}
                                 address='Miami, FL 33137, St. lorem ipsum'
                                 price={250000}
                                 estValue={270000}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uUmVwb3J0Q3JlYXRlZDogXy5ub29wLAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblJlcG9ydENyZWF0ZWQ/OiBDdXN0b21IYW5kbGVyPHZvaWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaXR5Pzogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB6aXA/OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoaWRlUmVwb3J0QnRuPzogYm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgIG9uUmVwb3J0Q3JlYXRlZDogXy5ub29wLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageUp</text>
       </register>
     </registers>
     <search>
-      <last-search>onshare</last-search>
+      <last-search>est</last-search>
       <last-offset />
-      <last-pattern>onshare</last-pattern>
+      <last-pattern>est</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -764,7 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>export</entry>
         <entry>renderextrafilters</entry>
         <entry>extrafilte</entry>
@@ -784,6 +792,7 @@
         <entry encoding="base64">XDxBc3NldFRvcFN0cmlwXD4=</entry>
         <entry>unreachable</entry>
         <entry>onshare</entry>
+        <entry>est</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBbIFsgIF08TGVmdD48TGVmdD4=</entry>
@@ -793,19 +802,19 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVkaXRvckxpbmVFbmQ8Q1I+</entry>
         <entry>actionlist lineend</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
