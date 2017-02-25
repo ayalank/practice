@@ -437,11 +437,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488042249767">
-        <mark key="[" line="16" column="76" />
-        <mark key="]" line="16" column="75" />
-        <mark key="." line="16" column="75" />
-        <mark key="^" line="16" column="75" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488042414623">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488041240175">
         <mark key="[" line="3" column="13" />
@@ -709,11 +708,11 @@
       <jump line="9" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PropertyPageSummaryBarProps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
       </register>
       <register name="-" type="4">
-        <text>PropertyPageSummaryBarProps</text>
+        <text>calculations</text>
       </register>
       <register name="/" type="4">
         <text>est</text>
@@ -725,29 +724,29 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjYWxjdWxhdGlvbnM6IEFzc2V0Q2FsY3VsYXRpb25zCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2FsY3UsIGFzc2V0IH0gPSB0aGlzLnByb3BzOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
       </register>
-      <register name="5" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgLCBhc3NldCB9OiBQcm9wZXJ0eVBhZ2VTdW1tYXJ5QmFyUHJvcHMgPSB0aGlzLnByb3BzOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjYWxjdWxhdGlvbnM6IEFzc2V0Q2FsY3VsYXRpb25zCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgY2FsY3UsIGFzc2V0IH0gPSB0aGlzLnByb3BzOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
+      </register>
+      <register name="7" type="4">
         <text>onShare={_.noop}
                                 onReportCreated={_.noop}
                                 address='Miami, FL 33137, St. lorem ipsum'
                                 price={250000}
                                 estValue={270000}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
@@ -756,7 +755,7 @@
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uUmVwb3J0Q3JlYXRlZDogXy5ub29wLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
       </register>
       <register name=":" type="4">
         <text>action VimMotionScrollHalfPageUp</text>
