@@ -105,4 +105,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cn" value="className=$END$" description="className" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
