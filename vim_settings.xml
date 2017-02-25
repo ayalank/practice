@@ -202,7 +202,6 @@
         <mark key="'" line="142" column="50" />
         <mark key="[" line="159" column="16" />
         <mark key="]" line="199" column="36" />
-        <mark key="^" line="297" column="49" />
         <mark key="." line="159" column="35" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1487443534116">
@@ -437,10 +436,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488042414623">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488043046622">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488041240175">
         <mark key="[" line="3" column="13" />
