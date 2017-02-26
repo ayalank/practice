@@ -80,10 +80,11 @@
         <mark key="^" line="0" column="88" />
         <mark key="." line="0" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-address-price.tsx" timestamp="1487443774444">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-address-price.tsx" timestamp="1488131018997">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/webpack/plugins.js" timestamp="1486903110797">
         <mark key="[" line="11" column="18" />
@@ -116,10 +117,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488040377685">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488130682779">
+        <mark key="'" line="203" column="12" />
+        <mark key="[" line="200" column="54" />
+        <mark key="]" line="235" column="12" />
+        <mark key="." line="235" column="12" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -198,11 +200,8 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1488041727057">
-        <mark key="'" line="142" column="50" />
-        <mark key="[" line="159" column="16" />
-        <mark key="]" line="199" column="36" />
-        <mark key="." line="159" column="35" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1488130858939">
+        <mark key="'" line="155" column="23" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1487443534116">
         <mark key="[" line="0" column="0" />
@@ -340,6 +339,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/report-page-summary-bar.tsx" timestamp="1488131117128">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1487276475502">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="49" column="18" />
@@ -436,17 +441,17 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488043046622">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488131055047">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="34" />
+        <mark key="." line="72" column="34" />
+        <mark key="^" line="72" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488041240175">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="31" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488130886175">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
         <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
+        <mark key="." line="16" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/calculator-dashboard.tsx" timestamp="1487443594040">
         <mark key="[" line="0" column="0" />
@@ -606,22 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="41" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
-      <jump line="94" column="104" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
-      <jump line="74" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="24" column="25" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="5" column="11" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="66" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="81" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="8" column="52" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="47" column="12" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="45" column="24" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
-      <jump line="3" column="18" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
-      <jump line="81" column="13" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
       <jump line="44" column="5" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
       <jump line="6" column="27" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
       <jump line="30" column="51" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
@@ -706,16 +695,32 @@
       <jump line="2" column="17" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
       <jump line="6" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
       <jump line="9" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
+      <jump line="91" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="111" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="128" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="171" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="193" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="178" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="194" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="195" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="234" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="236" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="92" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="123" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="176" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="203" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="155" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="46" column="7" filename="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>calculations</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPjwvZGl2Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>est</text>
+        <text>py3</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PFByb3BlcnR5U3VtbWFyeUJhcj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgPFByb3BlcnR5QWRkcmVzc1ByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2VzdGltYXRlZFByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlPXthc3NldC5saXN0X3ByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgemlwPXthc3NldC56aXBfY29kZV9uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9e2Fzc2V0LmNpdHlfbmFtZX0vPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSByZWxhdGl2ZSIgc3R5bGU9e3sgaGVpZ2h0OiAnMXB4JyB9fT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsRWxlbWVudAogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY3JvbGw9e3RoaXMuUkVQTEFDRV9HQVVHRVNfU0NST0xMX1BPSU5UfQogICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25EdXJhdGlvbj17MjUwfQogICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0ic3VtbWFyeS1zdGF0cyI+CiAgICAgICAgICAgICAgICAgICAgICA8UHJvcGVydHlEZXRhaWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0aHM9e2Fzc2V0LmZiYXRoc30KICAgICAgICAgICAgICAgICAgICAgICAgICBiZWRzPXthc3NldC5iZWRzfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIGFic29sdXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRheXNPbk1hcmtldD17YXNzZXQuZGF5c19vbl9tYXJrZXR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3FmdD17YXNzZXQuc3FmdF9saXZfYXJlYX0KICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVR5cGU9e2Fzc2V0LnR5cGVfb2ZfcHJvcGVydHl9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgPFNjcm9sbEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgbWluU2Nyb2xsPXt0aGlzLlJFUExBQ0VfR0FVR0VTX1NDUk9MTF9QT0lOVH0KICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRHVyYXRpb249ezI1MH0KICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbk5hbWU9InN1bW1hcnktZ2F1Z2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxQcm9wZXJ0eVN1bW1hcnlHYXVnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICBiZ0NsYXNzTmFtZXM9ImJnLWcxMyIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNvbC0xMiBjbGVhcmZpeCBhYnNvbHV0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNoT25DYXNoPXtjYXNoRmxvd30KICAgICAgICAgICAgICAgICAgICAgICAgICBjYXBSYXRlPXtjYXBSYXRlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsUk9JPXtjYWxjdWxhdGVkUm9pfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpdFBlcmNlbnQ9e3Byb2ZpdFBlcmNlbnR9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0yIj4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRSZXBvcnRCdXR0b24oKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L1Byb3BlcnR5U3VtbWFyeUJhcj4=</text>
@@ -724,47 +729,43 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgLCBhc3NldCB9OiBQcm9wZXJ0eVBhZ2VTdW1tYXJ5QmFyUHJvcHMgPSB0aGlzLnByb3BzOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjYWxjdWxhdGlvbnM6IEFzc2V0Q2FsY3VsYXRpb25zCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8UHJvcGVydHlBZGRyZXNzUHJpY2UKICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2NhbGN1bGF0aW9ucy5lc3RpbWF0ZWRQcmljZX0KICAgICAgICAgICAgcHJpY2U9e2Fzc2V0Lmxpc3RfcHJpY2V9CiAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgIHppcD17YXNzZXQuemlwX2NvZGVfbmFtZX0KICAgICAgICAgICAgY2l0eT17YXNzZXQuY2l0eV9uYW1lfSAvPgogICAgICAgIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2FsY3UsIGFzc2V0IH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dHIgY2xhc3NOYW1lPSJyb3ctcDEiPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0iY29sLTIgYm9yZGVyLWJvdHRvbSBib3JkZXItZzE1Ij5vZmZlciBwcmljZTo8L3RkPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0iY29sLTEwIGJvcmRlci1ib3R0b20gYm9yZGVyLWcxNSI+MTI1MDAwIChsaXN0ZWQ6IDEzMDAwMCk8L3RkPgogICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0iY29sLTIgcHgxIHB0MyBwYjEgYm9yZGVyLWJvdHRvbSBib3JkZXItZzE1IGJvbGQiPmV4cGVuc2VzPC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImNvbC0xMCBib3JkZXItYm90dG9tIGJvcmRlci1nMTUiLz4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgIDx0ciBjbGFzc05hbWU9InJvdy1wMSI+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJjb2wtMiBib3JkZXItYm90dG9tIGJvcmRlci1nMTUiPnJlaGFiOjwvdGQ+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJjb2wtMTAgYm9yZGVyLWJvdHRvbSBib3JkZXItZzE1Ij44NzUwPC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgIDx0ciBjbGFzc05hbWU9InJvdy1wMSI+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJjb2wtMiI+YnV5aW5nIGNvc3Q6PC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImNvbC0xMCI+MzQ1MCAoMyUpPC90ZD4KICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>onShare={_.noop}
-                                onReportCreated={_.noop}
-                                address='Miami, FL 33137, St. lorem ipsum'
-                                price={250000}
-                                estValue={270000}</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
+        <text encoding="base64">PHRyIGNsYXNzTmFtZT0icm93LXAxIj4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImNvbC0yIGJvcmRlci1ib3R0b20gYm9yZGVyLWcxNSI+b2ZmZXIgcHJpY2U6PC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImNvbC0xMCBib3JkZXItYm90dG9tIGJvcmRlci1nMTUiPjEyNTAwMCAobGlzdGVkOiAxMzAwMDApPC90ZD4KICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2tOb3RpZmljYXRpb249e18ubm9vcH0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJjb2wtMiBib3JkZXItYm90dG9tIGJvcmRlci1nMTUiPm9mZmVyIHByaWNlOjwvdGQ+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJjb2wtMTAgYm9yZGVyLWJvdHRvbSBib3JkZXItZzE1Ij4xMjUwMDAgKGxpc3RlZDogMTMwMDAwKTwvdGQ+CiAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>est</last-search>
+      <last-search>py3</last-search>
       <last-offset />
-      <last-pattern>est</last-pattern>
+      <last-pattern>py3</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -772,9 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
-        <entry>renderextrafilters</entry>
-        <entry>extrafilte</entry>
         <entry>react</entry>
         <entry>formsection</entry>
         <entry>distance</entry>
@@ -792,6 +790,9 @@
         <entry>unreachable</entry>
         <entry>onshare</entry>
         <entry>est</entry>
+        <entry>table</entry>
+        <entry encoding="base64">PHRhYmxl</entry>
+        <entry>py3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBbIFsgIF08TGVmdD48TGVmdD4=</entry>
@@ -804,16 +805,16 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>q</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action AceAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
