@@ -117,12 +117,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488134356709">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="67" column="32" />
-        <mark key="]" line="67" column="49" />
-        <mark key="." line="67" column="49" />
-        <mark key="^" line="67" column="49" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488136561756">
+        <mark key="'" line="85" column="23" />
+        <mark key="[" line="249" column="44" />
+        <mark key="]" line="249" column="52" />
+        <mark key="." line="249" column="52" />
+        <mark key="^" line="249" column="52" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -291,12 +291,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1488039796308">
+      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1488136439295">
         <mark key="'" line="72" column="76" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="71" column="53" />
+        <mark key="[" line="53" column="79" />
+        <mark key="]" line="53" column="81" />
+        <mark key="." line="53" column="81" />
+        <mark key="^" line="53" column="81" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487836590926">
         <mark key="[" line="135" column="27" />
@@ -431,10 +431,6 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1488038641410">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="47" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="16" column="47" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/fullscreen-gallery.tsx" timestamp="1484953339622">
         <mark key="'" line="13" column="24" />
@@ -619,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="42" column="7" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="96" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
@@ -719,16 +714,17 @@
       <jump line="87" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="122" column="1" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="55" column="28" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="85" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHkzIA==</text>
+        <text>mx2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHkzIA==</text>
+        <text>mx2</text>
       </register>
       <register name="/" type="4">
-        <text>flex</text>
+        <text>comparables summ</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PFByb3BlcnR5U3VtbWFyeUJhcj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgPFByb3BlcnR5QWRkcmVzc1ByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2VzdGltYXRlZFByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlPXthc3NldC5saXN0X3ByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgemlwPXthc3NldC56aXBfY29kZV9uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9e2Fzc2V0LmNpdHlfbmFtZX0vPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSByZWxhdGl2ZSIgc3R5bGU9e3sgaGVpZ2h0OiAnMXB4JyB9fT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsRWxlbWVudAogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY3JvbGw9e3RoaXMuUkVQTEFDRV9HQVVHRVNfU0NST0xMX1BPSU5UfQogICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25EdXJhdGlvbj17MjUwfQogICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0ic3VtbWFyeS1zdGF0cyI+CiAgICAgICAgICAgICAgICAgICAgICA8UHJvcGVydHlEZXRhaWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0aHM9e2Fzc2V0LmZiYXRoc30KICAgICAgICAgICAgICAgICAgICAgICAgICBiZWRzPXthc3NldC5iZWRzfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIGFic29sdXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRheXNPbk1hcmtldD17YXNzZXQuZGF5c19vbl9tYXJrZXR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3FmdD17YXNzZXQuc3FmdF9saXZfYXJlYX0KICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVR5cGU9e2Fzc2V0LnR5cGVfb2ZfcHJvcGVydHl9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgPFNjcm9sbEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgbWluU2Nyb2xsPXt0aGlzLlJFUExBQ0VfR0FVR0VTX1NDUk9MTF9QT0lOVH0KICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRHVyYXRpb249ezI1MH0KICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbk5hbWU9InN1bW1hcnktZ2F1Z2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxQcm9wZXJ0eVN1bW1hcnlHYXVnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICBiZ0NsYXNzTmFtZXM9ImJnLWcxMyIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNvbC0xMiBjbGVhcmZpeCBhYnNvbHV0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNoT25DYXNoPXtjYXNoRmxvd30KICAgICAgICAgICAgICAgICAgICAgICAgICBjYXBSYXRlPXtjYXBSYXRlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsUk9JPXtjYWxjdWxhdGVkUm9pfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpdFBlcmNlbnQ9e3Byb2ZpdFBlcmNlbnR9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0yIj4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRSZXBvcnRCdXR0b24oKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L1Byb3BlcnR5U3VtbWFyeUJhcj4=</text>
@@ -737,43 +733,43 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PExheW91dEJsb2NrIGNsYXNzTmFtZT0iY29sIGNvbC0xMiBtZC1jb2wtNiBtYjMgcmlnaHQgY2VudGVyIGZsZXgiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC00IHB0MyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayBwYjEgY29sb3ItcjEgZm9udC1odWdlIj4zLjc8c3BhbiBjbGFzc05hbWU9ImZvbnQtbGciPiU8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY29sLTggYmxvY2sgcHQxIG14LWF1dG8gYm9yZGVyLWcxNSBib3JkZXItdG9wIGNvbG9yLWc4IGZvbnQtbWQiPlBvdGVudGlhbCBQcm9maXQ8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC00IHB0MyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayBwYjEgY29sb3IteTQgZm9udC1odWdlIj4zLjk8c3BhbiBjbGFzc05hbWU9ImZvbnQtbGciPiU8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY29sLTggYmxvY2sgcHQxIG14LWF1dG8gYm9yZGVyLWcxNSBib3JkZXItdG9wIGNvbG9yLWc4IGZvbnQtbWQiPkNhcCBSYXRlPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNCBwdDMiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgcGIxIGNvbG9yLWIxIGZvbnQtaHVnZSI+PHNwYW4gY2xhc3NOYW1lPSJmb250LWxnIj4kPC9zcGFuPjIwMDwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImNvbC04IGJsb2NrIHB0MSBteC1hdXRvIGJvcmRlci1nMTUgYm9yZGVyLXRvcCBjb2xvci1nOCBmb250LW1kIj5QcmljZSBwZXIgU3FmdDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0xheW91dEJsb2NrPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0ibGFiZWwgbTAgcHkyIGJnLWczMiBjZW50ZXIgY29sb3ItZzMxIGZvbnQtbGlnaHQgZm9udC1zbSI+UHJvcGVydHkgVmFsdWU8L2g0PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHkzIGJnLWcxOCBjb2xvci1nMzEgY2VudGVyIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2VudGVyIj4KICAgICAgICAgICAgICAgIDxzdHJvbmcgY2xhc3NOYW1lPSJmb250LXh4eHhsZyBmb250LW5vcm1hbCI+PHN1cCBjbGFzc05hbWU9InN1cCI+JDwvc3VwPjI1MGs8L3N0cm9uZz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImNvbC02IGJsb2NrIG1iMiBteC1hdXRvIHB0MSBib3JkZXItZzE1IGJvcmRlci10b3AgZm9udC1tZCAiPihlc3QuIHZhbHVlOiAkMjc5ayk8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0ibGFiZWwgbTAgcHkyIGJnLWczMiBjZW50ZXIgY29sb3ItZzMxIGZvbnQtbGlnaHQgZm9udC1zbSI+UHJvcGVydHkgVmFsdWU8L2g0PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHkzIGJnLWcxOCBjb2xvci1nMzEgY2VudGVyIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2VudGVyIj4KICAgICAgICAgICAgICAgIDxzdHJvbmcgY2xhc3NOYW1lPSJmb250LXh4eHhsZyBmb250LW5vcm1hbCI+PHN1cCBjbGFzc05hbWU9InN1cCI+JDwvc3VwPjI1MGs8L3N0cm9uZz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImNvbC02IGJsb2NrIG1iMiBteC1hdXRvIHB0MSBib3JkZXItZzE1IGJvcmRlci10b3AgZm9udC1tZCAiPihlc3QuIHZhbHVlOiAkMjc5ayk8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8UHJvcGVydHlBZGRyZXNzUHJpY2UKICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2NhbGN1bGF0aW9ucy5lc3RpbWF0ZWRQcmljZX0KICAgICAgICAgICAgcHJpY2U9e2Fzc2V0Lmxpc3RfcHJpY2V9CiAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgIHppcD17YXNzZXQuemlwX2NvZGVfbmFtZX0KICAgICAgICAgICAgY2l0eT17YXNzZXQuY2l0eV9uYW1lfSAvPgogICAgICAgIA==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8UHJvcGVydHlBZGRyZXNzUHJpY2UKICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2NhbGN1bGF0aW9ucy5lc3RpbWF0ZWRQcmljZX0KICAgICAgICAgICAgcHJpY2U9e2Fzc2V0Lmxpc3RfcHJpY2V9CiAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgIHppcD17YXNzZXQuemlwX2NvZGVfbmFtZX0KICAgICAgICAgICAgY2l0eT17YXNzZXQuY2l0eV9uYW1lfSAvPgogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>flex</last-search>
+      <last-search>comparables summ</last-search>
       <last-offset />
-      <last-pattern>flex</last-pattern>
+      <last-pattern>comparables summ</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>distance</entry>
         <entry>based</entry>
         <entry>lightbox</entry>
         <entry>ComparableLightbox</entry>
@@ -801,6 +796,7 @@
         <entry>py3</entry>
         <entry>profile</entry>
         <entry>flex</entry>
+        <entry>comparables summ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVuZDxDUj4=</entry>
@@ -817,10 +813,10 @@
         <entry>action OptimizeImports</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>noremap p gp</entry>
+        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
       </history-cmd>
