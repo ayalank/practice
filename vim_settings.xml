@@ -117,12 +117,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488136561756">
-        <mark key="'" line="85" column="23" />
-        <mark key="[" line="249" column="44" />
-        <mark key="]" line="249" column="52" />
-        <mark key="." line="249" column="52" />
-        <mark key="^" line="249" column="52" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488270082090">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="68" />
+        <mark key="." line="38" column="38" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -292,11 +291,11 @@
         <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1488136439295">
-        <mark key="'" line="72" column="76" />
-        <mark key="[" line="53" column="79" />
-        <mark key="]" line="53" column="81" />
-        <mark key="." line="53" column="81" />
-        <mark key="^" line="53" column="81" />
+        <mark key="'" line="75" column="76" />
+        <mark key="[" line="56" column="79" />
+        <mark key="]" line="56" column="81" />
+        <mark key="." line="56" column="81" />
+        <mark key="^" line="56" column="81" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487836590926">
         <mark key="[" line="135" column="27" />
@@ -718,10 +717,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mx2</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>mx2</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>comparables summ</text>
