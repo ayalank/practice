@@ -117,11 +117,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488272541812">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488272746293">
         <mark key="[" line="40" column="52" />
-        <mark key="]" line="38" column="38" />
-        <mark key="^" line="38" column="68" />
-        <mark key="." line="38" column="38" />
+        <mark key="]" line="40" column="51" />
+        <mark key="^" line="40" column="51" />
+        <mark key="." line="40" column="51" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -717,10 +717,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IHVzZXJOYW1l</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IHVzZXJOYW1l</text>
       </register>
       <register name="/" type="4">
         <text>comparables summ</text>
