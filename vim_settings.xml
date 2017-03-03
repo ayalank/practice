@@ -117,7 +117,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488544404587">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488546883630">
+        <mark key="'" line="68" column="12" />
         <mark key="[" line="57" column="15" />
         <mark key="]" line="318" column="0" />
         <mark key="^" line="318" column="0" />
@@ -614,8 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
-      <jump line="42" column="7" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="96" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="32" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
@@ -714,6 +713,8 @@
       <jump line="122" column="1" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="55" column="28" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="85" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="65" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="68" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -723,7 +724,7 @@
         <text encoding="base64">IHVzZXJOYW1l</text>
       </register>
       <register name="/" type="4">
-        <text>comparables summ</text>
+        <text>share</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PFByb3BlcnR5U3VtbWFyeUJhcj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgPFByb3BlcnR5QWRkcmVzc1ByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2VzdGltYXRlZFByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlPXthc3NldC5saXN0X3ByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgemlwPXthc3NldC56aXBfY29kZV9uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9e2Fzc2V0LmNpdHlfbmFtZX0vPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSByZWxhdGl2ZSIgc3R5bGU9e3sgaGVpZ2h0OiAnMXB4JyB9fT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsRWxlbWVudAogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY3JvbGw9e3RoaXMuUkVQTEFDRV9HQVVHRVNfU0NST0xMX1BPSU5UfQogICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25EdXJhdGlvbj17MjUwfQogICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0ic3VtbWFyeS1zdGF0cyI+CiAgICAgICAgICAgICAgICAgICAgICA8UHJvcGVydHlEZXRhaWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0aHM9e2Fzc2V0LmZiYXRoc30KICAgICAgICAgICAgICAgICAgICAgICAgICBiZWRzPXthc3NldC5iZWRzfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIGFic29sdXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRheXNPbk1hcmtldD17YXNzZXQuZGF5c19vbl9tYXJrZXR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3FmdD17YXNzZXQuc3FmdF9saXZfYXJlYX0KICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVR5cGU9e2Fzc2V0LnR5cGVfb2ZfcHJvcGVydHl9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgPFNjcm9sbEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgbWluU2Nyb2xsPXt0aGlzLlJFUExBQ0VfR0FVR0VTX1NDUk9MTF9QT0lOVH0KICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRHVyYXRpb249ezI1MH0KICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbk5hbWU9InN1bW1hcnktZ2F1Z2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxQcm9wZXJ0eVN1bW1hcnlHYXVnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICBiZ0NsYXNzTmFtZXM9ImJnLWcxMyIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNvbC0xMiBjbGVhcmZpeCBhYnNvbHV0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNoT25DYXNoPXtjYXNoRmxvd30KICAgICAgICAgICAgICAgICAgICAgICAgICBjYXBSYXRlPXtjYXBSYXRlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsUk9JPXtjYWxjdWxhdGVkUm9pfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpdFBlcmNlbnQ9e3Byb2ZpdFBlcmNlbnR9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0yIj4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRSZXBvcnRCdXR0b24oKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L1Byb3BlcnR5U3VtbWFyeUJhcj4=</text>
@@ -762,13 +763,13 @@
         <text encoding="base64">CiAgICAgICAgICA8UHJvcGVydHlBZGRyZXNzUHJpY2UKICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2NhbGN1bGF0aW9ucy5lc3RpbWF0ZWRQcmljZX0KICAgICAgICAgICAgcHJpY2U9e2Fzc2V0Lmxpc3RfcHJpY2V9CiAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgIHppcD17YXNzZXQuemlwX2NvZGVfbmFtZX0KICAgICAgICAgICAgY2l0eT17YXNzZXQuY2l0eV9uYW1lfSAvPgogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>comparables summ</last-search>
+      <last-search>share</last-search>
       <last-offset />
-      <last-pattern>comparables summ</last-pattern>
+      <last-pattern>share</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -776,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>based</entry>
         <entry>lightbox</entry>
         <entry>ComparableLightbox</entry>
         <entry>list</entry>
@@ -796,6 +796,7 @@
         <entry>profile</entry>
         <entry>flex</entry>
         <entry>comparables summ</entry>
+        <entry>share</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVuZDxDUj4=</entry>
@@ -808,16 +809,16 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorSplitLine</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noremap p gp</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
