@@ -22,11 +22,12 @@
         <mark key="." line="659" column="31" />
         <mark key="^" line="337" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1487276585812">
-        <mark key="[" line="54" column="100" />
-        <mark key="]" line="54" column="116" />
-        <mark key="^" line="54" column="116" />
-        <mark key="." line="54" column="116" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1488580938999">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487277271972">
         <mark key="'" line="17" column="122" />
@@ -111,12 +112,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488546883630">
-        <mark key="'" line="68" column="12" />
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="318" column="0" />
-        <mark key="^" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488580268976">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="41" />
+        <mark key="^" line="61" column="41" />
+        <mark key="." line="61" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -204,11 +205,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" timestamp="1488565816879">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="67" />
-        <mark key="." line="35" column="67" />
-        <mark key="^" line="35" column="67" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" timestamp="1488581888997">
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="39" column="84" />
+        <mark key="]" line="39" column="85" />
+        <mark key="." line="39" column="85" />
+        <mark key="^" line="39" column="85" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -618,8 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
-      <jump line="32" column="6" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
       <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
       <jump line="38" column="19" filename="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" />
       <jump line="41" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
@@ -718,13 +718,15 @@
       <jump line="85" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="65" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="68" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="43" column="5" filename="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" />
+      <jump line="29" column="24" filename="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
@@ -736,37 +738,37 @@
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvUmVhY3RDU1NUcmFuc2l0aW9uR3JvdXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uTGVhdmVUaW1lb3V0PXszMDB9Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uRW50ZXJUaW1lb3V0PXs1MDB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2hpbGRyZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyVGltZW91dD17NTAwfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2g1Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtjbXAuZGF0ZV9kZXNjcmlwdGlvbn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0iZXhhbXBsZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDUgY2xhc3NOYW1lPSJhbGlnbi1ib3R0b20gZm9udC1ub3JtYWwgbTAgbXIzIHRhYmxlLWNlbGwiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxSZWFjdENTU1RyYW5zaXRpb25Hcm91cAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwyIGNvbG9yLWcxMSI+eyBjdXJyZW5jeShjbXAucHJpY2UpIH08L3NwYW4+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8UmVhY3RDU1NUcmFuc2l0aW9uR3JvdXAKICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0iZXhhbXBsZSIKICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQogICAgICAgICAgICAgIHRyYW5zaXRpb25BcHBlYXJUaW1lb3V0PXs1MDB9CiAgICAgICAgICAgICAgdHJhbnNpdGlvbkVudGVyVGltZW91dD17NTAwfQogICAgICAgICAgICAgIHRyYW5zaXRpb25MZWF2ZVRpbWVvdXQ9ezMwMH0+CiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17IGNsYXNzTmFtZXMoICdmaXhlZCB0b3AtMCByaWdodC0wIGJvdHRvbS0wIGxlZnQtMCB6NCBiZy1nbzcnLCB7aGlkZTogIWlzVmlzaWJsZX0gKSB9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXtlID0+IHRoaXMuY2xvc2VJZkNsaWNrZWRPdXRzaWRlKGUpfT4KICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggcmVsYXRpdmUgbGlnaHRib3ggbWF4LXNpdGUtd2lkdGggY2xlYXJmaXggbXgtYXV0byBiZy13aGl0ZSB0ay1sYXRvIGJvcmRlciBib3JkZXItYjEiCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGh9fQogICAgICAgICAgICAgICAgICByZWY9e2NvbnRlbnQgPT4gdGhpcy5jb250ZW50RWxlbWVudCA9IGNvbnRlbnR9PgogICAgICAgICAgICAgICAgPGEgb25DbGljaz17b25DbG9zZX0gY2xhc3NOYW1lPSJhYnNvbHV0ZSB6MSB0b3AtMCByaWdodC0wIGJsb2NrIHJpZ2h0IG10MiBtcjMgZm9udC1zbSBjb2xvci1iMSBwb2ludGVyIj4KICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT0ieC1idXR0b24iLz4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDxtYWluIGNsYXNzTmFtZT0ib3ZlcmZsb3ctYXV0byBjb2wgY29sLTEyIj4KICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgPC9tYWluPgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L1JlYWN0Q1NTVHJhbnNpdGlvbkdyb3VwPgogICAgICA=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGb3JtYXR0ZWRBZGRyZXNzIGFkZHJlc3M9e2NtcC5hZGRyZXNzfSBjaXR5PXtjbXAuY2l0eV9uYW1lfSB6aXA9e2NtcC56aXBfY29kZV9uYW1lfS8+IC8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8UmVhY3RDU1NUcmFuc2l0aW9uR3JvdXAKICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0iZXhhbXBsZSIKICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQogICAgICAgICAgICAgIHRyYW5zaXRpb25BcHBlYXJUaW1lb3V0PXs1MDB9CiAgICAgICAgICAgICAgdHJhbnNpdGlvbkVudGVyVGltZW91dD17NTAwfQogICAgICAgICAgICAgIHRyYW5zaXRpb25MZWF2ZVRpbWVvdXQ9ezMwMH0+CiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17IGNsYXNzTmFtZXMoICdmaXhlZCB0b3AtMCByaWdodC0wIGJvdHRvbS0wIGxlZnQtMCB6NCBiZy1nbzcnLCB7aGlkZTogIWlzVmlzaWJsZX0gKSB9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXtlID0+IHRoaXMuY2xvc2VJZkNsaWNrZWRPdXRzaWRlKGUpfT4KICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggcmVsYXRpdmUgbGlnaHRib3ggbWF4LXNpdGUtd2lkdGggY2xlYXJmaXggbXgtYXV0byBiZy13aGl0ZSB0ay1sYXRvIGJvcmRlciBib3JkZXItYjEiCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGh9fQogICAgICAgICAgICAgICAgICByZWY9e2NvbnRlbnQgPT4gdGhpcy5jb250ZW50RWxlbWVudCA9IGNvbnRlbnR9PgogICAgICAgICAgICAgICAgPGEgb25DbGljaz17b25DbG9zZX0gY2xhc3NOYW1lPSJhYnNvbHV0ZSB6MSB0b3AtMCByaWdodC0wIGJsb2NrIHJpZ2h0IG10MiBtcjMgZm9udC1zbSBjb2xvci1iMSBwb2ludGVyIj4KICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT0ieC1idXR0b24iLz4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDxtYWluIGNsYXNzTmFtZT0ib3ZlcmZsb3ctYXV0byBjb2wgY29sLTEyIj4KICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgPC9tYWluPgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L1JlYWN0Q1NTVHJhbnNpdGlvbkdyb3VwPgogICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -815,13 +817,13 @@
         <entry>q</entry>
         <entry>noremap p gp</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
