@@ -10,9 +10,6 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="129" />
       </file>
-      <file name="/fragment.tsx" timestamp="1487702165740">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom/dom-utils.ts" timestamp="1487265574351">
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="42" />
@@ -24,9 +21,6 @@
         <mark key="]" line="659" column="31" />
         <mark key="." line="659" column="31" />
         <mark key="^" line="337" column="45" />
-      </file>
-      <file name="/a.dummy" timestamp="1487446364851">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1487276585812">
         <mark key="[" line="54" column="100" />
@@ -210,6 +204,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="29" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" timestamp="1488565816879">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="67" />
+        <mark key="." line="35" column="67" />
+        <mark key="^" line="35" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
         <mark key="[" line="52" column="56" />
@@ -246,6 +246,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx.ts" timestamp="1488564715504">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/numbers.ts" timestamp="1487443900131">
         <mark key="[" line="8" column="0" />
@@ -445,9 +451,9 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488131055047">
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="72" column="34" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488565755908">
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="97" />
         <mark key="." line="72" column="34" />
         <mark key="^" line="72" column="34" />
       </file>
@@ -542,9 +548,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487836479312">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="17" column="13" />
@@ -564,10 +567,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1487443646922">
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1488565395800">
         <mark key="'" line="37" column="42" />
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="51" column="15" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="90" column="78" />
       </file>
@@ -718,49 +721,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHVzZXJOYW1l</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXJOYW1l</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PFByb3BlcnR5U3VtbWFyeUJhcj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgPFByb3BlcnR5QWRkcmVzc1ByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2VzdGltYXRlZFByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlPXthc3NldC5saXN0X3ByaWNlfQogICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgemlwPXthc3NldC56aXBfY29kZV9uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9e2Fzc2V0LmNpdHlfbmFtZX0vPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNSByZWxhdGl2ZSIgc3R5bGU9e3sgaGVpZ2h0OiAnMXB4JyB9fT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsRWxlbWVudAogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY3JvbGw9e3RoaXMuUkVQTEFDRV9HQVVHRVNfU0NST0xMX1BPSU5UfQogICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25EdXJhdGlvbj17MjUwfQogICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0ic3VtbWFyeS1zdGF0cyI+CiAgICAgICAgICAgICAgICAgICAgICA8UHJvcGVydHlEZXRhaWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0aHM9e2Fzc2V0LmZiYXRoc30KICAgICAgICAgICAgICAgICAgICAgICAgICBiZWRzPXthc3NldC5iZWRzfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY29sLTEyIGFic29sdXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRheXNPbk1hcmtldD17YXNzZXQuZGF5c19vbl9tYXJrZXR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3FmdD17YXNzZXQuc3FmdF9saXZfYXJlYX0KICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVR5cGU9e2Fzc2V0LnR5cGVfb2ZfcHJvcGVydHl9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgPFNjcm9sbEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgbWluU2Nyb2xsPXt0aGlzLlJFUExBQ0VfR0FVR0VTX1NDUk9MTF9QT0lOVH0KICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRHVyYXRpb249ezI1MH0KICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbk5hbWU9InN1bW1hcnktZ2F1Z2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxQcm9wZXJ0eVN1bW1hcnlHYXVnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICBiZ0NsYXNzTmFtZXM9ImJnLWcxMyIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNvbC0xMiBjbGVhcmZpeCBhYnNvbHV0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNoT25DYXNoPXtjYXNoRmxvd30KICAgICAgICAgICAgICAgICAgICAgICAgICBjYXBSYXRlPXtjYXBSYXRlfQogICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsUk9JPXtjYWxjdWxhdGVkUm9pfQogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpdFBlcmNlbnQ9e3Byb2ZpdFBlcmNlbnR9Lz4KICAgICAgICAgICAgICAgICAgICA8L1Njcm9sbEVsZW1lbnQ+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0yIj4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRSZXBvcnRCdXR0b24oKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L1Byb3BlcnR5U3VtbWFyeUJhcj4=</text>
+        <text>border-bottom border-md btn font-md px4 py2 right white bg-r1 border-r2</text>
       </register>
       <register name="q" type="4">
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PExheW91dEJsb2NrIGNsYXNzTmFtZT0iY29sIGNvbC0xMiBtZC1jb2wtNiBtYjMgcmlnaHQgY2VudGVyIGZsZXgiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC00IHB0MyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayBwYjEgY29sb3ItcjEgZm9udC1odWdlIj4zLjc8c3BhbiBjbGFzc05hbWU9ImZvbnQtbGciPiU8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY29sLTggYmxvY2sgcHQxIG14LWF1dG8gYm9yZGVyLWcxNSBib3JkZXItdG9wIGNvbG9yLWc4IGZvbnQtbWQiPlBvdGVudGlhbCBQcm9maXQ8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC00IHB0MyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayBwYjEgY29sb3IteTQgZm9udC1odWdlIj4zLjk8c3BhbiBjbGFzc05hbWU9ImZvbnQtbGciPiU8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY29sLTggYmxvY2sgcHQxIG14LWF1dG8gYm9yZGVyLWcxNSBib3JkZXItdG9wIGNvbG9yLWc4IGZvbnQtbWQiPkNhcCBSYXRlPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtNCBwdDMiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgcGIxIGNvbG9yLWIxIGZvbnQtaHVnZSI+PHNwYW4gY2xhc3NOYW1lPSJmb250LWxnIj4kPC9zcGFuPjIwMDwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImNvbC04IGJsb2NrIHB0MSBteC1hdXRvIGJvcmRlci1nMTUgYm9yZGVyLXRvcCBjb2xvci1nOCBmb250LW1kIj5QcmljZSBwZXIgU3FmdDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0xheW91dEJsb2NrPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hpbGRyZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2g1Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0ibGFiZWwgbTAgcHkyIGJnLWczMiBjZW50ZXIgY29sb3ItZzMxIGZvbnQtbGlnaHQgZm9udC1zbSI+UHJvcGVydHkgVmFsdWU8L2g0PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHkzIGJnLWcxOCBjb2xvci1nMzEgY2VudGVyIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2VudGVyIj4KICAgICAgICAgICAgICAgIDxzdHJvbmcgY2xhc3NOYW1lPSJmb250LXh4eHhsZyBmb250LW5vcm1hbCI+PHN1cCBjbGFzc05hbWU9InN1cCI+JDwvc3VwPjI1MGs8L3N0cm9uZz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImNvbC02IGJsb2NrIG1iMiBteC1hdXRvIHB0MSBib3JkZXItZzE1IGJvcmRlci10b3AgZm9udC1tZCAiPihlc3QuIHZhbHVlOiAkMjc5ayk8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtjbXAuZGF0ZV9kZXNjcmlwdGlvbn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aDUgY2xhc3NOYW1lPSJhbGlnbi1ib3R0b20gZm9udC1ub3JtYWwgbTAgbXIzIHRhYmxlLWNlbGwiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwyIGNvbG9yLWcxMSI+eyBjdXJyZW5jeShjbXAucHJpY2UpIH08L3NwYW4+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8UHJvcGVydHlBZGRyZXNzUHJpY2UKICAgICAgICAgICAgZXN0aW1hdGVkVmFsdWU9e2NhbGN1bGF0aW9ucy5lc3RpbWF0ZWRQcmljZX0KICAgICAgICAgICAgcHJpY2U9e2Fzc2V0Lmxpc3RfcHJpY2V9CiAgICAgICAgICAgIGFkZHJlc3M9e2Fzc2V0LmFkZHJlc3N9CiAgICAgICAgICAgIHppcD17YXNzZXQuemlwX2NvZGVfbmFtZX0KICAgICAgICAgICAgY2l0eT17YXNzZXQuY2l0eV9uYW1lfSAvPgogICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGb3JtYXR0ZWRBZGRyZXNzIGFkZHJlc3M9e2NtcC5hZGRyZXNzfSBjaXR5PXtjbXAuY2l0eV9uYW1lfSB6aXA9e2NtcC56aXBfY29kZV9uYW1lfS8+IC8K</text>
       </register>
       <register name=":" type="4">
         <text>action VimMotionScrollHalfPageDown</text>
@@ -799,7 +802,6 @@
         <entry>share</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVuZDxDUj4=</entry>
         <entry>actionlist end</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action RenameElement</entry>
@@ -808,16 +810,17 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorSplitLine</entry>
         <entry>q</entry>
         <entry>noremap p gp</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
-        <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
