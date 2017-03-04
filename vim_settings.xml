@@ -22,13 +22,6 @@
         <mark key="." line="659" column="31" />
         <mark key="^" line="337" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1488580938999">
-        <mark key="'" line="44" column="5" />
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487277271972">
         <mark key="'" line="17" column="122" />
         <mark key="[" line="19" column="31" />
@@ -111,13 +104,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488580268976">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="41" />
-        <mark key="^" line="61" column="41" />
-        <mark key="." line="61" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -300,11 +286,7 @@
         <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1488136439295">
-        <mark key="'" line="75" column="76" />
-        <mark key="[" line="56" column="79" />
-        <mark key="]" line="56" column="81" />
-        <mark key="." line="56" column="81" />
-        <mark key="^" line="56" column="81" />
+        <mark key="'" line="73" column="76" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1487836590926">
         <mark key="[" line="135" column="27" />
@@ -329,13 +311,6 @@
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1488133897867">
-        <mark key="'" line="127" column="1" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/setup-passport.js" timestamp="1484398734870">
         <mark key="'" line="16" column="2" />
@@ -454,10 +429,10 @@
         <mark key="." line="9" column="60" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1488565755908">
-        <mark key="[" line="80" column="27" />
-        <mark key="]" line="80" column="97" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="72" column="34" />
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="97" />
+        <mark key="." line="70" column="34" />
+        <mark key="^" line="70" column="34" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1488130886175">
         <mark key="[" line="16" column="40" />
@@ -570,11 +545,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1488565395800">
-        <mark key="'" line="37" column="42" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="51" column="15" />
         <mark key="." line="6" column="20" />
-        <mark key="^" line="90" column="78" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
         <mark key="[" line="14" column="12" />
