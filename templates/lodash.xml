@@ -5,4 +5,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="rej" value="_.reject" description="reject" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
