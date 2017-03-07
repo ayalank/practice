@@ -111,17 +111,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488669408147">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="22" column="38" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488875215693">
+        <mark key="'" line="141" column="42" />
+        <mark key="[" line="272" column="96" />
+        <mark key="]" line="272" column="96" />
+        <mark key="." line="272" column="96" />
+        <mark key="^" line="272" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488668858345">
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488874450452">
+        <mark key="[" line="55" column="103" />
+        <mark key="]" line="55" column="113" />
+        <mark key="^" line="55" column="113" />
+        <mark key="." line="55" column="113" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -202,13 +203,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" timestamp="1488665401930">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="32" column="86" />
-        <mark key="]" line="32" column="95" />
-        <mark key="." line="32" column="95" />
-        <mark key="^" line="32" column="95" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -579,6 +573,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="27" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1488874339924">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1487443729425">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -587,14 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" />
-      <jump line="49" column="37" filename="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" />
-      <jump line="133" column="38" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
-      <jump line="40" column="113" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
-      <jump line="39" column="24" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
-      <jump line="25" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
-      <jump line="24" column="21" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
-      <jump line="19" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="44" column="23" filename="$USER_HOME$/projects/sputnik/src/types/api/asset.d.ts" />
       <jump line="3" column="14" filename="$USER_HOME$/projects/sputnik/src/types/api/property.d.ts" />
       <jump line="30" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset.d.ts" />
@@ -687,16 +679,24 @@
       <jump line="88" column="16" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="92" column="14" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="31" column="20" filename="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" />
+      <jump line="109" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="226" column="80" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="51" column="58" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="134" column="8" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="163" column="49" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="199" column="95" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="118" column="16" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="141" column="42" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text>offer price</text>
       </register>
       <register name="0" type="4">
         <text>border-bottom border-md btn font-md px4 py2 right white bg-r1 border-r2</text>
@@ -735,13 +735,13 @@
         <text encoding="base64">aW1wb3J0IFRva2VuaXplciBmcm9tICdyZWFjdC10b2tlbml6ZXInOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>share</last-search>
+      <last-search>offer price</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern>offer price</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -749,10 +749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lightbox</entry>
-        <entry>ComparableLightbox</entry>
-        <entry>list</entry>
-        <entry>list_pr</entry>
         <entry encoding="base64">XDxzdWJqZWN0UHJpY2VcPg==</entry>
         <entry>format</entry>
         <entry>submit</entry>
@@ -769,6 +765,10 @@
         <entry>flex</entry>
         <entry>comparables summ</entry>
         <entry>share</entry>
+        <entry>textarea</entry>
+        <entry>vacancy</entry>
+        <entry>(</entry>
+        <entry>offer price</entry>
       </history-search>
       <history-cmd>
         <entry>action VimMotionWordEndRight</entry>
@@ -779,18 +779,18 @@
         <entry>action Back</entry>
         <entry>noremap p gp</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>q</entry>
         <entry encoding="base64">aW1hcCA8Qy1lPiA8RW5kPg==</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action RenameElement</entry>
-        <entry>action AceAction</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action AceAction</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
