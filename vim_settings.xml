@@ -111,18 +111,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488664891980">
-        <mark key="'" line="92" column="16" />
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="41" />
-        <mark key="." line="63" column="41" />
-        <mark key="^" line="63" column="41" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488669408147">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488668132663">
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488668858345">
         <mark key="[" line="12" column="74" />
-        <mark key="]" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-        <mark key="^" line="21" column="65" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" timestamp="1487444197565">
         <mark key="'" line="9" column="13" />
@@ -149,12 +148,6 @@
         <mark key="]" line="55" column="17" />
         <mark key="." line="55" column="17" />
         <mark key="^" line="55" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" timestamp="1487443784195">
-        <mark key="'" line="50" column="37" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparison-stats.tsx" timestamp="1487443690318">
         <mark key="[" line="3" column="26" />
@@ -314,12 +307,6 @@
         <mark key="^" line="124" column="41" />
         <mark key="." line="124" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1488041311620">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1487446352094">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -433,12 +420,6 @@
         <mark key="." line="4" column="1223" />
         <mark key="^" line="4" column="1223" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-asset.ts" timestamp="1486282184171">
-        <mark key="'" line="10" column="7" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1488038641410">
         <mark key="'" line="0" column="0" />
       </file>
@@ -515,12 +496,6 @@
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1488041305559">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" timestamp="1484950696239">
         <mark key="'" line="0" column="0" />
@@ -603,12 +578,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="27" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/types/api/property.d.ts" timestamp="1487248289687">
-        <mark key="'" line="3" column="14" />
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1487443729425">
         <mark key="[" line="3" column="0" />
@@ -720,11 +689,11 @@
       <jump line="31" column="20" filename="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJjb21tZW50Ij48L2xhYmVsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>EmailsTokenizer</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
@@ -766,7 +735,7 @@
         <text encoding="base64">aW1wb3J0IFRva2VuaXplciBmcm9tICdyZWFjdC10b2tlbml6ZXInOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action OptimizeImports</text>
       </register>
     </registers>
     <search>
@@ -811,17 +780,17 @@
         <entry>noremap p gp</entry>
         <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>q</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">aW1hcCA8Qy1lPiA8RW5kPg==</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action RenameElement</entry>
         <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
+        <entry>action GotoFile</entry>
+        <entry>action OptimizeImports</entry>
       </history-cmd>
       <history-expr />
       <history-input />
