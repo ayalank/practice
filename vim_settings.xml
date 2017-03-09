@@ -31,6 +31,11 @@
         <mark key="." line="659" column="31" />
         <mark key="^" line="337" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom/dom-utils.ts" timestamp="1489065541323">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1488880838376">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,19 +51,19 @@
         <mark key="]" line="35" column="43" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1489057714251">
+      <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1489066706379">
         <mark key="'" line="17" column="122" />
-        <mark key="[" line="19" column="89" />
-        <mark key="]" line="19" column="89" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="89" />
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="62" />
+        <mark key="^" line="25" column="62" />
+        <mark key="." line="25" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1489058709683">
-        <mark key="'" line="92" column="14" />
-        <mark key="[" line="159" column="27" />
-        <mark key="]" line="159" column="31" />
-        <mark key="^" line="159" column="31" />
-        <mark key="." line="159" column="31" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1489066448076">
+        <mark key="'" line="98" column="18" />
+        <mark key="[" line="142" column="79" />
+        <mark key="]" line="142" column="79" />
+        <mark key="^" line="116" column="28" />
+        <mark key="." line="142" column="79" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1489054136863">
         <mark key="[" line="32" column="0" />
@@ -211,17 +216,18 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/specifics.styl" timestamp="1489057736005">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-range.tsx" timestamp="1489063191775">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489057105264">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489062297432">
         <mark key="'" line="142" column="18" />
-        <mark key="[" line="285" column="19" />
-        <mark key="]" line="285" column="17" />
-        <mark key="^" line="285" column="17" />
-        <mark key="." line="285" column="17" />
+        <mark key="[" line="254" column="77" />
+        <mark key="]" line="254" column="85" />
+        <mark key="^" line="254" column="85" />
+        <mark key="." line="254" column="85" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1487443677130">
         <mark key="[" line="9" column="46" />
@@ -354,11 +360,11 @@
         <mark key="^" line="60" column="65" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/clicked-outside-listener.tsx" timestamp="1487274624069">
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="67" />
-        <mark key="." line="21" column="67" />
-        <mark key="^" line="21" column="67" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/clicked-outside-listener.tsx" timestamp="1489065579884">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-info-window.tsx" timestamp="1487443542717">
         <mark key="[" line="3" column="0" />
@@ -413,8 +419,8 @@
         <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/api/report.d.ts" timestamp="1489055154269">
-        <mark key="]" line="110" column="14" />
-        <mark key="." line="110" column="14" />
+        <mark key="]" line="108" column="14" />
+        <mark key="." line="108" column="14" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/maps/maps.ts" timestamp="1483531753274">
         <mark key="[" line="42" column="0" />
@@ -551,9 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="33" filename="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" />
-      <jump line="33" column="74" filename="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" />
-      <jump line="119" column="7" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" />
       <jump line="139" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="10" column="1" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
@@ -651,61 +654,64 @@
       <jump line="78" column="11" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="53" column="43" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="142" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="65" column="24" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="71" column="16" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="98" column="18" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>props</text>
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
-        <text>custom-hide</text>
+        <text>insurance</text>
       </register>
-      <register name="0" type="4">
-        <text>renderComparablesFilter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0RXh0cmFGaWx0ZXJzVmlzaWJpbGl0eSh0cnVlKQo=</text>
       </register>
       <register name="q" type="4">
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8RmlsdGVyQnV0dG9uIGljb25DbGFzcz17c2hvd0V4dHJhRmlsdGVycyA/ICdtaW51cycgOiAncGx1cyd9IGNsYXNzTmFtZT0ibXQyIG1sMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzKCl9Lz4KICAgICAgICAgICAgICA8Q2xpY2tlZE91dHNpZGVMaXN0ZW5lcgogICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2tlZE91dHNpZGU9eyB0aGlzLnRvZ2dsZUV4dHJhRmlsdGVycy5iaW5kKHRoaXMpIH0+CiAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJFeHRyYUZpbHRlcnMoKX0KICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9Im1yMSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8RmlsdGVyQnV0dG9uIGljb25DbGFzcz17c2hvd0V4dHJhRmlsdGVycyA/ICdtaW51cycgOiAncGx1cyd9IGNsYXNzTmFtZT0ibXQyIG1sMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMudG9nZ2xlRXh0cmFGaWx0ZXJzKCl9Lz4KICAgICAgICAgICAgICA8Q2xpY2tlZE91dHNpZGVMaXN0ZW5lcgogICAgICAgICAgICAgICAgICB2aXNpYmxlPXsgc2hvd0V4dHJhRmlsdGVycyB9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2tlZE91dHNpZGU9eyB0aGlzLnRvZ2dsZUV4dHJhRmlsdGVycy5iaW5kKHRoaXMpIH0+CiAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJFeHRyYUZpbHRlcnMoKX0KICAgICAgICAgICAgICA8L0NsaWNrZWRPdXRzaWRlTGlzdGVuZXI+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHNob3dFeHRyYUZpbHRlcnMoKSB7CiAgICB0aGlzLnNldEV4dHJhRmlsdGVyc1Zpc2liaWxpdHkodHJ1ZSk7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDEyODBweCkKICAuZmlsdGVyLWZpeAogICAgbWFyZ2luLWxlZnQgMHB4CiAgICBwYWRkaW5nLXJpZ2h0IDFyZW0KICAuZmlsdGVyLWZpeC1tYXJnaW4KICAgIG1hcmdpbi1yaWdodCAuNXJlbQoKQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogMTEwMHB4KQogIC5jdXN0b20taGlkZQogICAgZGlzcGxheSBub25lCiAgICBwYWRkaW5nLXJpZ2h0IDAK</text>
+        <text encoding="base64">ICBwcml2YXRlIHRvZ2dsZUV4dHJhRmlsdGVycygpIHsKICAgIHRoaXMuc2V0RXh0cmFGaWx0ZXJzVmlzaWJpbGl0eSghdGhpcy5zdGF0ZS5zaG93RXh0cmFGaWx0ZXJzKTsKICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci5yb3RhdGluZwogIC13ZWJraXQtYW5pbWF0aW9uOiByb3RhdGluZyAxLjJzIGxpbmVhciBpbmZpbml0ZTsKICAtbW96LWFuaW1hdGlvbjogcm90YXRpbmcgMS4ycyBsaW5lYXIgaW5maW5pdGU7CiAgLW1zLWFuaW1hdGlvbjogcm90YXRpbmcgMS4ycyBsaW5lYXIgaW5maW5pdGU7CiAgLW8tYW5pbWF0aW9uOiByb3RhdGluZyAxLjJzIGxpbmVhciBpbmZpbml0ZTsKICBhbmltYXRpb246IHJvdGF0aW5nIDEuMnMgbGluZWFyIGluZmluaXRlOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xlYXJMaXN0ZW5lcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0bwogICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtbW96LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogICAgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsKCg==</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUoeyBvbkNsaWNrZWRPdXRzaWRlIH0pIHsKICAgIHJldHVybiBvbkNsaWNrZWRPdXRzaWRlICE9PSB0aGlzLnByb3BzLm9uQ2xpY2tlZE91dHNpZGU7CiAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGtleWZyYW1lcyByb3RhdGluZwogIGZyb20KICAgIC1tcy10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogICAgLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKCg==</text>
+        <text encoding="base64">ICAgIG9uQ2xpY2tPdXRzaWRlKCkK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0bwogICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtbW96LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogICAgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsKCgo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ21vdXNlZG93bicsIGxpc3RlbmVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>custom-hide</last-search>
+      <last-search>insurance</last-search>
       <last-offset />
-      <last-pattern>custom-hide</last-pattern>
+      <last-pattern>insurance</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vacancy</entry>
         <entry>(</entry>
         <entry>offer price</entry>
         <entry>income:</entry>
@@ -733,28 +738,29 @@
         <entry>rendercompa</entry>
         <entry>compara</entry>
         <entry>custom-hide</entry>
+        <entry>insurance</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVkaXRvckxpbmVFbmQ8Q1I+</entry>
-        <entry>actionlist lineend</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action Forward</entry>
-        <entry>noremap p gp</entry>
-        <entry encoding="base64">aW1hcCBcIHt9PExlZnQ+</entry>
-        <entry encoding="base64">aW1hcCA8Qy1lPiA8RW5kPg==</entry>
-        <entry>q</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action RenameElement</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action AceAction</entry>
+        <entry>actionlist dupliate</entry>
+        <entry>actionlist duplicate</entry>
+        <entry encoding="base64">bm1hcCA8Qy1BLWo+IDphY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZTxDUj4=</entry>
+        <entry>action EditorDuplicateLine</entry>
+        <entry>actionlist duplicateline</entry>
+        <entry encoding="base64">bm1hcCA8Qy1BLWo+IDphY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM8Q1I+</entry>
+        <entry>action EditorDuplicateLines</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -840,6 +846,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl alt pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
