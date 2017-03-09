@@ -15,12 +15,12 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" timestamp="1487245024949">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="40" column="110" />
-        <mark key="]" line="40" column="129" />
-        <mark key="." line="40" column="31" />
-        <mark key="^" line="40" column="129" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" timestamp="1489051937231">
+        <mark key="'" line="29" column="52" />
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="64" />
       </file>
       <file name="/fragment.tsx" timestamp="1488883442190">
         <mark key="[" line="0" column="0" />
@@ -40,6 +40,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/refresh-animated.styl" timestamp="1489053141527">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1487277271972">
         <mark key="'" line="17" column="122" />
         <mark key="[" line="19" column="31" />
@@ -53,6 +59,11 @@
         <mark key="]" line="124" column="41" />
         <mark key="^" line="124" column="41" />
         <mark key="." line="124" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/lightbox.tsx" timestamp="1489054136863">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1488892664955">
         <mark key="[" line="169" column="25" />
@@ -73,6 +84,11 @@
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1489053571782">
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
@@ -125,18 +141,23 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/typography.styl" timestamp="1485352331417">
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/typography.styl" timestamp="1489053937650">
         <mark key="'" line="0" column="45" />
-        <mark key="[" line="0" column="85" />
-        <mark key="]" line="0" column="88" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="16" />
         <mark key="^" line="0" column="88" />
-        <mark key="." line="0" column="88" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-address-price.tsx" timestamp="1488131018997">
         <mark key="[" line="15" column="38" />
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/custom-drop-down.tsx" timestamp="1489054514854">
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="33" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1487235814955">
         <mark key="[" line="7" column="24" />
@@ -190,12 +211,12 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1488883379579">
-        <mark key="'" line="249" column="39" />
-        <mark key="[" line="111" column="123" />
-        <mark key="]" line="111" column="140" />
-        <mark key="." line="111" column="140" />
-        <mark key="^" line="111" column="140" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489056062276">
+        <mark key="'" line="142" column="18" />
+        <mark key="[" line="293" column="58" />
+        <mark key="]" line="293" column="58" />
+        <mark key="^" line="54" column="43" />
+        <mark key="." line="293" column="58" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1487443677130">
         <mark key="[" line="9" column="46" />
@@ -379,12 +400,16 @@
         <mark key="." line="21" column="69" />
         <mark key="^" line="21" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" timestamp="1484950696239">
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/_styles.styl" timestamp="1489053208184">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="17" />
+        <mark key="[" line="10" column="21" />
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/types/api/report.d.ts" timestamp="1489055154269">
+        <mark key="]" line="110" column="14" />
+        <mark key="." line="110" column="14" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/maps/maps.ts" timestamp="1483531753274">
         <mark key="[" line="42" column="0" />
@@ -433,8 +458,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1488565395800">
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" timestamp="1489052923952">
+        <mark key="'" line="42" column="40" />
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="46" />
+        <mark key="." line="53" column="46" />
+        <mark key="^" line="53" column="46" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/middlewares/index.ts" timestamp="1483518384390">
         <mark key="[" line="12" column="0" />
@@ -517,21 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="67" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
-      <jump line="14" column="2" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
-      <jump line="37" column="42" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
-      <jump line="59" column="161" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" />
-      <jump line="26" column="59" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
-      <jump line="44" column="60" filename="$USER_HOME$/projects/sputnik/src/components/asset-list-box.tsx" />
-      <jump line="2" column="13" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
-      <jump line="9" column="13" filename="$USER_HOME$/projects/sputnik/src/core/lib/asset-utils.ts" />
-      <jump line="54" column="47" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
-      <jump line="55" column="51" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
-      <jump line="56" column="48" filename="$USER_HOME$/projects/sputnik/src/components/calculator.tsx" />
-      <jump line="25" column="31" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="9" column="23" filename="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" />
-      <jump line="72" column="76" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
-      <jump line="21" column="25" filename="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" />
       <jump line="14" column="33" filename="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" />
       <jump line="33" column="74" filename="$USER_HOME$/projects/sputnik/src/components/list-search.tsx" />
       <jump line="119" column="7" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
@@ -617,61 +631,76 @@
       <jump line="80" column="27" filename="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" />
       <jump line="252" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="36" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="267" column="66" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="304" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="29" column="52" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
+      <jump line="149" column="8" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="186" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="42" column="40" filename="$USER_HOME$/projects/sputnik/src/components/comparable-lightbox.tsx" />
+      <jump line="17" column="4" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="448" column="2" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/refresh-animated.styl" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" />
+      <jump line="183" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="290" column="61" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="78" column="11" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="53" column="43" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="142" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Partial</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Partial</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>summarybar</text>
+        <text>compara</text>
       </register>
       <register name="0" type="4">
-        <text>CreateReportLightbox</text>
+        <text>renderComparablesFilter</text>
       </register>
       <register name="q" type="4">
         <text>$xj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG9uQ29tcGFyYWJsZUZpbHRlckNoYW5nZWQodmFsdWVzKSB7CiAgICB0aGlzLnByb3BzLnVwZGF0ZUFzc2V0QXNzdW1wdGlvbnNWYWx1ZXMoewogICAgICB0eXBlOiBFU1RJTUFURV9SRU5UX0NVU1RPTQogICAgfSk7CiAgICBjb25zdCBxdWVyeVBhcmFtcyA9IHsKICAgICAgYXNzZXRJZDogdGhpcy5nZXRBc3NldElkKCksCiAgICAgIGZpbHRlcnM6IHsKICAgICAgICByYWRpdXM6IHZhbHVlcy5yYW5nZSwKICAgICAgICBtb250aHNfYmFjazogdmFsdWVzLnBlcmlvZCwKICAgICAgICBzcWZ0X29mZnNldDogdmFsdWVzLnNxZnQKICAgICAgfQogICAgfTsKICAgIHRoaXMucHJvcHMuZmV0Y2hDb21wYXJhYmxlcyhxdWVyeVBhcmFtcyk7CiAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG9uQ29tcGFyYWJsZURpc2FibGVkKGNvbXBhcmFibGUpIHsKICAgIHRoaXMucHJvcHMudXBkYXRlQXNzZXRBc3N1bXB0aW9uc1ZhbHVlcyh7CiAgICAgIHR5cGU6IEVTVElNQVRFX1JFTlRfQ1VTVE9NCiAgICB9KTsKICAgIHRoaXMucHJvcHMuZGlzYWJsZUNvbXBhcmFibGUoY29tcGFyYWJsZSk7CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG9uQ2FsY3VsYXRvckNoYW5nZSh2YWx1ZXM6IEFzc3VtcHRpb25zKSB7CiAgICB0aGlzLnByb3BzLnVwZGF0ZUFzc2V0QXNzdW1wdGlvbnNWYWx1ZXMoeyB2YWx1ZXMgfSk7CiAgfQoK</text>
+        <text encoding="base64">Ci5yb3RhdGluZwogIC13ZWJraXQtYW5pbWF0aW9uOiByb3RhdGluZyAxLjJzIGxpbmVhciBpbmZpbml0ZTsKICAtbW96LWFuaW1hdGlvbjogcm90YXRpbmcgMS4ycyBsaW5lYXIgaW5maW5pdGU7CiAgLW1zLWFuaW1hdGlvbjogcm90YXRpbmcgMS4ycyBsaW5lYXIgaW5maW5pdGU7CiAgLW8tYW5pbWF0aW9uOiByb3RhdGluZyAxLjJzIGxpbmVhciBpbmZpbml0ZTsKICBhbmltYXRpb246IHJvdGF0aW5nIDEuMnMgbGluZWFyIGluZmluaXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaWdodEJveCBpc1Zpc2libGU9e3RoaXMuc3RhdGUuc2hvd1JlcG9ydFBvcHVwfQogICAgICAgICAgICAgICAgICAgIHdpZHRoPXs0NTB9CiAgICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy50b2dnbGVSZXBvcnRQb3B1cCgpfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Jyd9PgogICAgICAgICAgICA8Q29uZmlybWF0aW9uQm94IGNvbmZpcm1NZXNzYWdlPXt0aGlzLnByb3BzLmNyZWF0ZWRSZXBvcnQubWVzc2FnZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLnRvZ2dsZVJlcG9ydFBvcHVwKCl9Lz4KICAgICAgICAgIDwvTGlnaHRCb3g+Cg==</text>
+        <text encoding="base64">ICB0bwogICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtbW96LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogICAgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAoKQo=</text>
+        <text encoding="base64">QGtleWZyYW1lcyByb3RhdGluZwogIGZyb20KICAgIC1tcy10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogICAgLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0bwogICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtbW96LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogICAgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydFVSTDogJycK</text>
+        <text encoding="base64">QC13ZWJraXQta2V5ZnJhbWVzIHJvdGF0aW5nIC8qIFNhZmFyaSBhbmQgQ2hyb21lICovCiAgZnJvbQogICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogICAgLW1vei10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNjAwcHgpCiAgaHRtbAogICAgZm9udC1zaXplIDUwJQoK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>summarybar</last-search>
+      <last-search>compara</last-search>
       <last-offset />
-      <last-pattern>summarybar</last-pattern>
+      <last-pattern>compara</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -679,14 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry>est</entry>
-        <entry>table</entry>
-        <entry encoding="base64">PHRhYmxl</entry>
-        <entry>py3</entry>
-        <entry>profile</entry>
-        <entry>flex</entry>
-        <entry>comparables summ</entry>
-        <entry>share</entry>
         <entry>textarea</entry>
         <entry>vacancy</entry>
         <entry>(</entry>
@@ -699,6 +720,14 @@
         <entry>report created</entry>
         <entry>report</entry>
         <entry>summarybar</entry>
+        <entry>calcavg</entry>
+        <entry>average</entry>
+        <entry>repairs</entry>
+        <entry>expenses</entry>
+        <entry>figure</entry>
+        <entry>summary</entry>
+        <entry>rendercompa</entry>
+        <entry>compara</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCA8Qy1lPiA6YWN0aW9uIEVkaXRvckxpbmVFbmQ8Q1I+</entry>
@@ -710,17 +739,17 @@
         <entry encoding="base64">aW1hcCA8Qy1lPiA8RW5kPg==</entry>
         <entry>q</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action RenameElement</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action AceAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action Back</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
