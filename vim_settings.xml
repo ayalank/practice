@@ -25,6 +25,12 @@
       <file name="/fragment.tsx" timestamp="1488883442190">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1489067645713">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="88" />
+        <mark key="^" line="38" column="88" />
+        <mark key="." line="38" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/playground.tsx" timestamp="1488041335150">
         <mark key="[" line="659" column="31" />
         <mark key="]" line="659" column="31" />
@@ -222,12 +228,12 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489062297432">
-        <mark key="'" line="142" column="18" />
-        <mark key="[" line="254" column="77" />
-        <mark key="]" line="254" column="85" />
-        <mark key="^" line="254" column="85" />
-        <mark key="." line="254" column="85" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489067352939">
+        <mark key="'" line="181" column="24" />
+        <mark key="[" line="254" column="99" />
+        <mark key="]" line="254" column="98" />
+        <mark key="^" line="254" column="98" />
+        <mark key="." line="254" column="98" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1487443677130">
         <mark key="[" line="9" column="46" />
@@ -557,7 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" />
       <jump line="139" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="10" column="1" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
@@ -657,13 +662,14 @@
       <jump line="65" column="24" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="71" column="16" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="98" column="18" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
+      <jump line="181" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sm</text>
+        <text>'Name'</text>
       </register>
       <register name="-" type="4">
-        <text>sm</text>
+        <text>'Name'</text>
       </register>
       <register name="/" type="4">
         <text>insurance</text>
@@ -753,13 +759,13 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>action AceAction</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
