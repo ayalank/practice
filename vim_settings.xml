@@ -215,12 +215,12 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" timestamp="1488883813315">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="42" column="50" />
-        <mark key="^" line="42" column="51" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" timestamp="1489072019998">
+        <mark key="'" line="37" column="58" />
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="61" />
+        <mark key="." line="37" column="54" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-range.tsx" timestamp="1489063191775">
         <mark key="[" line="37" column="6" />
@@ -563,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="50" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
-      <jump line="10" column="1" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="85" column="62" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="20" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
@@ -663,13 +661,15 @@
       <jump line="71" column="16" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="98" column="18" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="181" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="36" column="69" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
+      <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Name'</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>'Name'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>insurance</text>
@@ -711,7 +711,7 @@
         <text encoding="base64">ICAgICAgd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ21vdXNlZG93bicsIGxpc3RlbmVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -764,9 +764,9 @@
         <entry>action AceAction</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
