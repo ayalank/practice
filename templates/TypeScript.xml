@@ -134,4 +134,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cc" value="const $name$ = $val$;" description="const string" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="capitalizeAndUnderscore(val)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
