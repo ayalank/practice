@@ -26,10 +26,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1489067645713">
-        <mark key="[" line="38" column="88" />
-        <mark key="]" line="38" column="88" />
-        <mark key="^" line="38" column="88" />
-        <mark key="." line="38" column="88" />
+        <mark key="[" line="16" column="88" />
+        <mark key="]" line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+        <mark key="." line="16" column="88" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/playground.tsx" timestamp="1488041335150">
         <mark key="[" line="659" column="31" />
@@ -115,11 +115,9 @@
         <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/profile-form.tsx" timestamp="1487677918235">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="95" column="21" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/index-page-search.tsx" timestamp="1487838531737">
         <mark key="[" line="4" column="65" />
@@ -227,13 +225,6 @@
         <mark key="]" line="37" column="7" />
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489067352939">
-        <mark key="'" line="181" column="24" />
-        <mark key="[" line="254" column="99" />
-        <mark key="]" line="254" column="98" />
-        <mark key="^" line="254" column="98" />
-        <mark key="." line="254" column="98" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map-container.tsx" timestamp="1487443677130">
         <mark key="[" line="9" column="46" />
