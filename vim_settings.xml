@@ -168,7 +168,8 @@
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1487235814955">
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1489654994217">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
@@ -566,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="85" column="62" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="20" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="48" column="57" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
@@ -666,6 +666,7 @@
       <jump line="181" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="36" column="69" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
       <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -675,7 +676,7 @@
         <text>px2</text>
       </register>
       <register name="/" type="4">
-        <text>insurance</text>
+        <text>zepto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0RXh0cmFGaWx0ZXJzVmlzaWJpbGl0eSh0cnVlKQo=</text>
@@ -718,9 +719,9 @@
       </register>
     </registers>
     <search>
-      <last-search>insurance</last-search>
+      <last-search>zepto</last-search>
       <last-offset />
-      <last-pattern>insurance</last-pattern>
+      <last-pattern>zepto</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -728,7 +729,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
         <entry>offer price</entry>
         <entry>income:</entry>
         <entry>showreportpop</entry>
@@ -748,6 +748,7 @@
         <entry>compara</entry>
         <entry>custom-hide</entry>
         <entry>insurance</entry>
+        <entry>zepto</entry>
       </history-search>
       <history-cmd>
         <entry>action OptimizeImports</entry>
