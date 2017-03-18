@@ -125,10 +125,11 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489862865010">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1489868014580">
+        <mark key="[" line="99" column="38" />
+        <mark key="]" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+        <mark key="^" line="99" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488874450452">
         <mark key="[" line="55" column="103" />
@@ -215,6 +216,13 @@
         <mark key="]" line="37" column="89" />
         <mark key="." line="37" column="89" />
         <mark key="^" line="37" column="88" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1489867994923">
+        <mark key="'" line="192" column="70" />
+        <mark key="[" line="135" column="30" />
+        <mark key="]" line="135" column="32" />
+        <mark key="." line="135" column="32" />
+        <mark key="^" line="135" column="32" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -318,6 +326,12 @@
         <mark key="]" line="142" column="79" />
         <mark key="^" line="116" column="28" />
         <mark key="." line="142" column="79" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1489867973242">
+        <mark key="[" line="117" column="110" />
+        <mark key="]" line="117" column="112" />
+        <mark key="." line="117" column="112" />
+        <mark key="^" line="117" column="112" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1488892664955">
         <mark key="[" line="169" column="25" />
@@ -530,7 +544,7 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1489863413991">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1489867961038">
         <mark key="[" line="111" column="114" />
         <mark key="]" line="111" column="116" />
         <mark key="." line="111" column="116" />
@@ -560,6 +574,9 @@
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1489868215119">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
         <mark key="'" line="22" column="0" />
@@ -639,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="193" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="178" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="194" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
@@ -739,16 +755,17 @@
       <jump line="113" column="4" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="24" column="15" filename="$USER_HOME$/projects/sputnik/src/pages/404.tsx" />
       <jump line="41" column="47" filename="$USER_HOME$/projects/sputnik/app.tsx" />
+      <jump line="192" column="70" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>'60%'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'60%'</text>
       </register>
       <register name="/" type="4">
-        <text>browserhis</text>
+        <text>menu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImNsZWFyZml4IGZvbnQtbWQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTEyIGJnLW5hdiBjbGVhcmZpeCI+CiAgICAgICAgICA8VG9wTmF2YmFyCiAgICAgICAgICAgICAgdXNlcj17dXNlck5hbWV9CiAgICAgICAgICAgICAgb25Mb2dvdXRDbGljaz17bG9nb3V0fS8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPFJlcG9ydFBhZ2VTdW1tYXJ5QmFyCiAgICAgICAgICAgIGFzc2V0PXtob3VzZV9maWVsZHN9CiAgICAgICAgICAgIG9uU2hhcmVSZXBvcnQ9e3RoaXMuc2hvd1JlcG9ydFBvcHVwLmJpbmQodGhpcyl9CiAgICAgICAgICAgIHNob3dTaGFyZUJ1dHRvbj17cmVwb3J0Lm93bmVyfQogICAgICAgICAgICBzaGFyZVJlcG9ydEJ1dHRvblN0YXR1cz0ic3RhdGljIi8+CiAgICAgIDwvaGVhZGVyPgo=</text>
@@ -787,13 +804,13 @@
         <text encoding="base64">ICByb3V0ZXI/OiBhbnkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>browserhis</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>browserhis</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -801,7 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toggleReportPopup</entry>
         <entry>message</entry>
         <entry>reportMessage</entry>
         <entry>report created</entry>
@@ -821,6 +837,7 @@
         <entry>router</entry>
         <entry>history</entry>
         <entry>browserhis</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8Uy1bPiBBPHNwYWNlPns=</entry>
@@ -839,10 +856,10 @@
         <entry>action OptimizeImports</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action AceAction</entry>
-        <entry>action EditorSplitLine</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
