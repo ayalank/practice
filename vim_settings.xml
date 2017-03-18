@@ -162,8 +162,8 @@
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1489654994217">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1489829143584">
+        <mark key="'" line="17" column="18" />
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
@@ -566,7 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="62" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="20" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/report.tsx" />
       <jump line="48" column="57" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="20" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
@@ -666,6 +665,7 @@
       <jump line="36" column="69" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
       <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/package.json" />
+      <jump line="17" column="18" filename="$USER_HOME$/projects/sputnik/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -675,7 +675,7 @@
         <text>xs size</text>
       </register>
       <register name="/" type="4">
-        <text>zepto</text>
+        <text>router</text>
       </register>
       <register name="0" type="4">
         <text>(max-width: 40em)</text>
@@ -714,13 +714,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nmap &quot; ci'</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>zepto</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern>zepto</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -728,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>offer price</entry>
         <entry>income:</entry>
         <entry>showreportpop</entry>
         <entry>toggleReportPopup</entry>
@@ -748,6 +747,7 @@
         <entry>custom-hide</entry>
         <entry>insurance</entry>
         <entry>zepto</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry>action MoveStatementDown</entry>
@@ -768,8 +768,8 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>nmap &quot; ci'</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
