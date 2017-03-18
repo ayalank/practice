@@ -333,10 +333,10 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/reports-active.tsx" timestamp="1489863645363">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="28" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports-active.tsx" timestamp="1489865653730">
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/index-page-search.tsx" timestamp="1487838531737">
         <mark key="[" line="4" column="65" />
@@ -731,10 +731,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29sLTQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sLTQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>browserhis</text>
