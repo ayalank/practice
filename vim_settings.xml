@@ -46,6 +46,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports-archive.tsx" timestamp="1489866755016">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="41" />
+        <mark key="." line="73" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models.js" timestamp="1484394800079">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -180,6 +185,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1489866652261">
+        <mark key="[" line="39" column="110" />
+        <mark key="]" line="39" column="112" />
+        <mark key="." line="39" column="112" />
+        <mark key="^" line="39" column="112" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1487705540677">
         <mark key="'" line="0" column="0" />
@@ -333,7 +344,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/reports-active.tsx" timestamp="1489865653730">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports-active.tsx" timestamp="1489865884145">
         <mark key="[" line="74" column="41" />
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
@@ -776,7 +787,7 @@
         <text encoding="base64">ICByb3V0ZXI/OiBhbnkK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -823,15 +834,15 @@
         <entry>action VimMotionWordEndRight</entry>
         <entry>q</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
