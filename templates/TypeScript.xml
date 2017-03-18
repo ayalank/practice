@@ -45,7 +45,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="p" value="private $name$($args$) {&#10;$END$&#10;}" description="Private Method" toReformat="true" toShortenFQNames="true">
+  <template name="v" value="private $name$($args$) {&#10;$END$&#10;}" description="Private Method" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
