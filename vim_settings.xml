@@ -114,12 +114,12 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" timestamp="1489849599864">
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" timestamp="1489849719354">
         <mark key="'" line="36" column="16" />
-        <mark key="[" line="36" column="520" />
-        <mark key="]" line="36" column="519" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
         <mark key="^" line="36" column="519" />
-        <mark key="." line="36" column="519" />
+        <mark key="." line="36" column="33" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" timestamp="1488874450452">
         <mark key="[" line="55" column="103" />
@@ -698,11 +698,11 @@
       <jump line="36" column="16" filename="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGogICAgICBqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAgICAgICAgICAgICAgICAgICAgICAgICAgaiAgICAgICAgIGogICAgICAgICBqICAgICAgICAgIGogICAgICAgICBqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGogICAgICBqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAgICAgICAgICAgICAgICAgICAgICAgICAgaiAgICAgICAgIGogICAgICAgICBqICAgICAgICAgIGogICAgICAgICBqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
