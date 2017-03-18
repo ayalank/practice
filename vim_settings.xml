@@ -306,6 +306,9 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1489845295191">
+        <mark key="'" line="28" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/report.ts" timestamp="1488884362126">
         <mark key="[" line="17" column="65" />
         <mark key="]" line="17" column="81" />
@@ -578,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="13" column="2" filename="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" />
       <jump line="2" column="17" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
       <jump line="6" column="2" filename="$USER_HOME$/projects/sputnik/src/types/api/asset-calculations.d.ts" />
@@ -678,6 +680,7 @@
       <jump line="17" column="18" filename="$USER_HOME$/projects/sputnik/package.json" />
       <jump line="12" column="47" filename="$USER_HOME$/projects/sputnik/package.json" />
       <jump line="30" column="18" filename="$USER_HOME$/projects/sputnik/package.json" />
+      <jump line="28" column="6" filename="$USER_HOME$/projects/sputnik/app.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -687,7 +690,7 @@
         <text>Tmp</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>history</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgPFNlc3Npb25SZWNvcmRpbmcvPgogICAgICA8L2Rpdj4=</text>
@@ -726,13 +729,13 @@
         <text encoding="base64">Xy52YWx1ZXMoU2l6ZXMpLmZvckVhY2goKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -740,7 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>income:</entry>
         <entry>showreportpop</entry>
         <entry>toggleReportPopup</entry>
         <entry>message</entry>
@@ -760,6 +762,7 @@
         <entry>insurance</entry>
         <entry>zepto</entry>
         <entry>router</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -775,13 +778,13 @@
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>nmap &quot; ci'</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action AceAction</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
