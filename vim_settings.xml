@@ -217,7 +217,7 @@
         <mark key="." line="37" column="89" />
         <mark key="^" line="37" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1489867994923">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1489915322069">
         <mark key="'" line="192" column="70" />
         <mark key="[" line="135" column="30" />
         <mark key="]" line="135" column="32" />
@@ -594,12 +594,12 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1489914636666">
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1489916185808">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+        <mark key="[" line="46" column="63" />
+        <mark key="]" line="46" column="63" />
+        <mark key="^" line="46" column="62" />
+        <mark key="." line="46" column="63" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
         <mark key="[" line="14" column="12" />
@@ -760,11 +760,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Xy5pc0VxdWFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>.trim()</text>
       </register>
       <register name="-" type="4">
-        <text>'60%'</text>
+        <text>.trim()</text>
       </register>
       <register name="/" type="4">
         <text>trim</text>
@@ -806,7 +806,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -851,10 +851,7 @@
         <entry>actionlist closeactive</entry>
         <entry>action CloseActiveTab</entry>
         <entry>action VimMotionWordEndRight</entry>
-        <entry>q</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
@@ -862,6 +859,9 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>q</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
