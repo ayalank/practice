@@ -17,4 +17,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="isarr" value="_.isArray($END$)" description="isArray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="compose" value="_.compose($END$)" description="componse" toReformat="false" toShortenFQNames="true" />
 </templateSet>
