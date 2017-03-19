@@ -27,6 +27,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/about.tsx" timestamp="1489947332745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/filter-button.tsx" timestamp="1489066706379">
         <mark key="'" line="17" column="122" />
         <mark key="[" line="25" column="56" />
@@ -91,6 +97,12 @@
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" timestamp="1489947400065">
+        <mark key="[" line="35" column="56" />
+        <mark key="]" line="35" column="55" />
+        <mark key="." line="35" column="55" />
+        <mark key="^" line="35" column="55" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/webpack/plugins.js" timestamp="1486903110797">
         <mark key="[" line="11" column="18" />
@@ -315,11 +327,11 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1489067645713">
-        <mark key="[" line="16" column="88" />
-        <mark key="]" line="16" column="88" />
-        <mark key="^" line="16" column="88" />
-        <mark key="." line="16" column="88" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1489947095428">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="69" />
+        <mark key="." line="16" column="49" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/globals.d.ts" timestamp="1487248494334">
         <mark key="[" line="10" column="41" />
@@ -774,16 +786,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>trim</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xlYXJmaXggbWIzIj4KICAgICAgICAgIDx0ZXh0YXJlYSBwbGFjZWhvbGRlcj0iQWRkIGEgbWVzc2FnZSB0byB5b3VyIGVtYWlsIgogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17IGNsYXNzTmFtZXMoJ2NvbCBjb2wtMTIgbm8tb3V0bGluZSBib3JkZXItZzIzIG5vLXJlc2l6ZSB0ay1sYXRvIGZvbnQtbWQgZm9udC1saWdodCBjb2xvci1nMzEnLCBoYXNFcnJvcihmaWVsZHMuY29tbWVudC5tZXRhKSkgfQogICAgICAgICAgICAgICAgICAgIHJvd3M9eyA1IH0gey4uLmZpZWxkcy5jb21tZW50LmlucHV0fS8+CiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>\</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -836,7 +848,7 @@
         <text encoding="base64">Xy5pc0VxdWFsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -872,7 +884,6 @@
         <entry>trim</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCB7IDxFc2M+QTxzcGFjZT57</entry>
         <entry encoding="base64">aW1hcCA8Uy1bPiA8RW5kPjxzcGFjZT57</entry>
         <entry>actionlist closetab</entry>
         <entry encoding="base64">bm1hcCA8Qy13PiA6YWN0aW9uIENsb3NlQWN0aXZlVGFiPENSPg==</entry>
@@ -888,10 +899,11 @@
         <entry>action AceAction</entry>
         <entry>action OptimizeImports</entry>
         <entry>action RenameElement</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>.,.+1action GotoFile</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
