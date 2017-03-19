@@ -824,7 +824,7 @@
         <text encoding="base64">Xy5pc0VxdWFsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action OptimizeImports</text>
       </register>
     </registers>
     <search>
@@ -874,12 +874,12 @@
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action OptimizeImports</entry>
       </history-cmd>
       <history-expr />
       <history-input />
