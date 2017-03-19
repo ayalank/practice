@@ -157,7 +157,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1487252235048">
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1489914796826">
         <mark key="[" line="55" column="17" />
         <mark key="]" line="55" column="17" />
         <mark key="." line="55" column="17" />
@@ -594,12 +594,12 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1489913965396">
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1489914636666">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="25" />
-        <mark key="^" line="45" column="25" />
-        <mark key="." line="45" column="25" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
         <mark key="[" line="14" column="12" />
@@ -806,7 +806,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -856,12 +856,12 @@
         <entry>action ReformatCode</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
