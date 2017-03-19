@@ -206,6 +206,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-details.tsx" timestamp="1489941188356">
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="24" column="69" />
+        <mark key="^" line="24" column="69" />
+        <mark key="." line="24" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-box.tsx" timestamp="1487443534116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -321,12 +327,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1489066448076">
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1489941039075">
         <mark key="'" line="98" column="18" />
-        <mark key="[" line="142" column="79" />
-        <mark key="]" line="142" column="79" />
-        <mark key="^" line="116" column="28" />
-        <mark key="." line="142" column="79" />
+        <mark key="[" line="105" column="44" />
+        <mark key="]" line="92" column="40" />
+        <mark key="^" line="92" column="40" />
+        <mark key="." line="92" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1489867973242">
         <mark key="[" line="117" column="110" />
@@ -395,6 +401,12 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/types/api/asset-filter.d.ts" timestamp="1489940542994">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/404.tsx" timestamp="1489862296849">
         <mark key="'" line="36" column="15" />
@@ -824,7 +836,7 @@
         <text encoding="base64">Xy5pc0VxdWFsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -860,7 +872,6 @@
         <entry>trim</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCB7IEE8c3BhY2U+ew==</entry>
         <entry encoding="base64">aW1hcCB7IDxFc2M+QTxzcGFjZT57</entry>
         <entry encoding="base64">aW1hcCA8Uy1bPiA8RW5kPjxzcGFjZT57</entry>
         <entry>actionlist closetab</entry>
@@ -874,12 +885,13 @@
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action GotoFile</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action RenameElement</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
