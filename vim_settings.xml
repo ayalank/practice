@@ -472,11 +472,7 @@
         <mark key="^" line="4" column="1223" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1489949279203">
-        <mark key="'" line="44" column="47" />
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="31" column="55" />
-        <mark key="^" line="31" column="55" />
-        <mark key="." line="31" column="55" />
+        <mark key="'" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/report.ts" timestamp="1488884362126">
         <mark key="[" line="17" column="65" />
