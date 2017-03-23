@@ -209,6 +209,7 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1490264165736" />
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
         <mark key="[" line="52" column="56" />
@@ -216,12 +217,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1487684702579">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/profile.tsx" timestamp="1490264675475">
         <mark key="'" line="9" column="23" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="69" />
-        <mark key="." line="21" column="69" />
-        <mark key="^" line="21" column="69" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1484859840411">
         <mark key="[" line="23" column="0" />
@@ -562,7 +563,7 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490262768635">
+      <file name="/Dummy.txt" timestamp="1490264693044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
@@ -832,7 +833,7 @@
         <text encoding="base64">ICAgICAgICAgIDxwPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action VimMotionWordEndRight</text>
       </register>
     </registers>
     <search>
@@ -870,11 +871,9 @@
       <history-cmd>
         <entry>actionlist closeactive</entry>
         <entry>action CloseActiveTab</entry>
-        <entry>action VimMotionWordEndRight</entry>
         <entry>q</entry>
         <entry>action Back</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>.,.+1action GotoFile</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action MoveStatementDown</entry>
@@ -885,9 +884,11 @@
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RenameElement</entry>
+        <entry>action VimMotionWordEndRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -976,6 +977,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
