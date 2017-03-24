@@ -586,11 +586,12 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1490384887212">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="28" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1490387450018">
+        <mark key="'" line="48" column="37" />
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="68" />
+        <mark key="^" line="47" column="68" />
+        <mark key="." line="47" column="68" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
         <mark key="[" line="14" column="12" />
@@ -641,11 +642,11 @@
         <mark key="^" line="8" column="76" />
         <mark key="." line="8" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1488874339924">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="33" column="17" />
-        <mark key="." line="33" column="17" />
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forgot-password-lightbox.tsx" timestamp="1490261986720">
         <mark key="[" line="36" column="20" />
@@ -661,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="66" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="304" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="29" column="52" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
       <jump line="149" column="8" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
@@ -761,13 +761,14 @@
       <jump line="4" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="4" column="2" filename="$USER_HOME$/projects/sputnik/src/components/footer.tsx" />
       <jump line="5" column="13" filename="$USER_HOME$/projects/sputnik/src/components/footer.tsx" />
+      <jump line="48" column="37" filename="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handleChange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFRva2VuSW5wdXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>handleChange</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>about</text>
@@ -800,34 +801,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFRva2VuSW5wdXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdG9UcmltbWVkQXJyYXkgPSBfLmNvbXBvc2UoXy5pbnZva2VNYXAoJ3RyaW0nKSwgXy5jYXN0QXJyYXkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdG9UcmltbWVkQXJyYXkgPSBfLmNvbXBvc2UoXy5pbnZva2VNYXAoJ3RyaW0nKSwgXy5jYXN0QXJyYXkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVRva2VuKHRva2VuKSB7CiAgICBjb25zdCB2YWwgPSBfLnJlamVjdChfLmlzRXF1YWwodG9rZW4pLCB0aGlzLnByb3BzLnZhbHVlKTsKICAgIHRoaXMucHJvcHMub25DaGFuZ2UodmFsKTsKICB9CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHRva2VuaXplKGlucHV0KSB7CiAgICB0aGlzLnByb3BzLm9uQ2hhbmdlKFsuLi50aGlzLnByb3BzLnZhbHVlLCAuLi50b1RyaW1tZWRBcnJheShpbnB1dCldKTsKICAgIHRoaXMuaW5wdXRFbGVtZW50LnN0eWxlLmNzc1RleHQgPSAnJzsKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNldElucHV0RWxlbWVudCh0b2tlbml6ZXJFbGVtKSB7CiAgICBpZiAoIXRoaXMuaW5wdXRFbGVtZW50KSB7CiAgICAgIHRoaXMuaW5wdXRFbGVtZW50ID0gdG9rZW5pemVyRWxlbS5xdWVyeVNlbGVjdG9yKHRoaXMuVE9LRU5JWkVSX0lOUFVUX1NFTEVDVE9SKTsKICAgICAgdGhpcy5pbnB1dEVsZW1lbnQuc2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsIHRoaXMucHJvcHMucGxhY2Vob2xkZXIpOwogICAgICBpbnB1dEF1dG9SZXNpemUodGhpcy5pbnB1dEVsZW1lbnQpOwogICAgfQogIH0KCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVRva2VuKHRva2VuKSB7CiAgICBjb25zdCB2YWwgPSBfLnJlamVjdChfLmlzRXF1YWwodG9rZW4pLCB0aGlzLnByb3BzLnZhbHVlKTsKICAgIHRoaXMucHJvcHMub25DaGFuZ2UodmFsKTsKICB9CiAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8VG9rZW5pemVyCiAgICAgICAgICAgICAgdG9rZW5zPXt0aGlzLnByb3BzLnZhbHVlfQogICAgICAgICAgICAgIHRva2VuaXplPXt0aGlzLnRva2VuaXplLmJpbmQodGhpcyl9CiAgICAgICAgICAgICAgcmVtb3ZlVG9rZW49e3RoaXMucmVtb3ZlVG9rZW4uYmluZCh0aGlzKX0KICAgICAgICAgIC8+CiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHRva2VuaXplKGlucHV0KSB7CiAgICB0aGlzLnByb3BzLm9uQ2hhbmdlKFsuLi50aGlzLnByb3BzLnZhbHVlLCAuLi50b1RyaW1tZWRBcnJheShpbnB1dCldKTsKICAgIHRoaXMuaW5wdXRFbGVtZW50LnN0eWxlLmNzc1RleHQgPSAnJzsKICB9Cgo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3RoaXMucHJvcHMuY2xhc3NOYW1lfT4KICAgICAgICAgIDxUb2tlbml6ZXIKICAgICAgICAgICAgICB0b2tlbnM9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICAgICAgdG9rZW5pemU9e3RoaXMudG9rZW5pemUuYmluZCh0aGlzKX0KICAgICAgICAgICAgICByZW1vdmVUb2tlbj17dGhpcy5yZW1vdmVUb2tlbi5iaW5kKHRoaXMpfQogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBwcml2YXRlIHNldElucHV0RWxlbWVudCh0b2tlbml6ZXJFbGVtKSB7CiAgICBpZiAoIXRoaXMuaW5wdXRFbGVtZW50KSB7CiAgICAgIHRoaXMuaW5wdXRFbGVtZW50ID0gdG9rZW5pemVyRWxlbS5xdWVyeVNlbGVjdG9yKHRoaXMuVE9LRU5JWkVSX0lOUFVUX1NFTEVDVE9SKTsKICAgICAgdGhpcy5pbnB1dEVsZW1lbnQuc2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsIHRoaXMucHJvcHMucGxhY2Vob2xkZXIpOwogICAgICBpbnB1dEF1dG9SZXNpemUodGhpcy5pbnB1dEVsZW1lbnQpOwogICAgfQogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -873,18 +874,18 @@
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action VimMotionWordEndRight</entry>
-        <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
-        <entry>action EditorCompleteStatement</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
