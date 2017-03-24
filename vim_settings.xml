@@ -209,7 +209,6 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1490264165736" />
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
         <mark key="[" line="52" column="56" />
@@ -587,12 +586,11 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1489916185808">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="46" column="63" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="62" />
-        <mark key="." line="46" column="63" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" timestamp="1490384887212">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="28" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
         <mark key="[" line="14" column="12" />
@@ -766,10 +764,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Form</text>
+        <text>handleChange</text>
       </register>
       <register name="-" type="4">
-        <text>Form</text>
+        <text>handleChange</text>
       </register>
       <register name="/" type="4">
         <text>about</text>
@@ -802,38 +800,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtbm9ybWFsIj5BYm91dCBSZWFsYXpvbjwvaDE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>(a web developer and instructor who has worked at NICE Systems and Wix.com as a tech
-              lead and a developer)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgdG9UcmltbWVkQXJyYXkgPSBfLmNvbXBvc2UoXy5pbnZva2VNYXAoJ3RyaW0nKSwgXy5jYXN0QXJyYXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvbGlzdCIgY29tcG9uZW50PXtyZXF1aXJlQXV0aGVudGljYXRpb24oTGlzdFBhZ2UpfS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVRva2VuKHRva2VuKSB7CiAgICBjb25zdCB2YWwgPSBfLnJlamVjdChfLmlzRXF1YWwodG9rZW4pLCB0aGlzLnByb3BzLnZhbHVlKTsKICAgIHRoaXMucHJvcHMub25DaGFuZ2UodmFsKTsKICB9CiAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHRva2VuaXplKGlucHV0KSB7CiAgICB0aGlzLnByb3BzLm9uQ2hhbmdlKFsuLi50aGlzLnByb3BzLnZhbHVlLCAuLi50b1RyaW1tZWRBcnJheShpbnB1dCldKTsKICAgIHRoaXMuaW5wdXRFbGVtZW50LnN0eWxlLmNzc1RleHQgPSAnJzsKICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPlJlYWxhem9uIGlzIGEgcmVhbCBlc3RhdGUgc2VhcmNoIGVuZ2luZSBjcmVhdGVkIGZvciBidXN5IHJlYWx0b3JzIGxpa2UgeW91cnNlbGYgd2hvIGRvIG5vdCBoYXZlIHRoZSB0aW1lIHRvCiAgICAgICAgICAgIGRpZyB0aHJvdWdoIGFuIGVuZGxlc3MgcGlsZSBvZiBsaXN0aW5ncyBpbiBzZWFyY2ggb2Ygb25lIHBvc3NpYmxlIGdlbS48L3A+CgogICAgICAgICAgPHA+V2Uga25vdyB0aGF0IHRpbWUgd2FzdGVkIGlzIG1vbmV5IGxvc3QuIFNvIHdlIGhhdmUgY3JlYXRlZCBhIHdlYnNpdGUgd2hpY2ggaGVscHMgeW91IHRvIGJlIG1vcmUgcHJvZHVjdGl2ZQogICAgICAgICAgICBieSBoYXZpbmcgYW4gYXV0b21hdGVkIEtQSSBjYWxjdWxhdGlvbiBhbmQgZnVsbCBvdmVydmlldyBvZiB0aGUgYmVzdCBkZWFscyBhdmFpbGFibGUgaW4gdGhlIGFyZWEgb2YgeW91cgogICAgICAgICAgICBjaG9vc2luZy48L3A+CgogICAgICAgICAgPHA+QnkgdXNpbmcgdGhlIHNlcnZpY2VzIG9mIFJlYWxhem9uLCB5b3Ugd2lsbCBiZSBhYmxlIHRvIGV4cGxhaW4gdGhlIGRlYWwgYmV0dGVyIHRvIHlvdXIgY2xpZW50LCBoYXZlIGhpZ2hlcgogICAgICAgICAgICBhY2N1cmFjeSBvZiBudW1iZXJzLCBleHRlbmQgeW91ciBhcmVhIG9mIGV4cGVydGlzZSBhbmQgaW5jcmVhc2UgeW91ciBwcm9kdWN0aXZpdHkuIEF0IHRoZSBzYW1lIHRpbWUKICAgICAgICAgICAgaW1wcm92aW5nIHlvdXIgZGVjaXNpb24gbWFraW5nIHByb2Nlc3MgYW5kIGVuaGFuY2luZyB0aGUgdmFsdWUgZm9yIHlvdXIgY3VzdG9tZXJzIGFzIHdlbGwgYXMgYnVpbGRpbmcgYmV0dGVyCiAgICAgICAgICAgIHJldmVudWUuPC9wPgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHNldElucHV0RWxlbWVudCh0b2tlbml6ZXJFbGVtKSB7CiAgICBpZiAoIXRoaXMuaW5wdXRFbGVtZW50KSB7CiAgICAgIHRoaXMuaW5wdXRFbGVtZW50ID0gdG9rZW5pemVyRWxlbS5xdWVyeVNlbGVjdG9yKHRoaXMuVE9LRU5JWkVSX0lOUFVUX1NFTEVDVE9SKTsKICAgICAgdGhpcy5pbnB1dEVsZW1lbnQuc2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsIHRoaXMucHJvcHMucGxhY2Vob2xkZXIpOwogICAgICBpbnB1dEF1dG9SZXNpemUodGhpcy5pbnB1dEVsZW1lbnQpOwogICAgfQogIH0KCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8VG9rZW5pemVyCiAgICAgICAgICAgICAgdG9rZW5zPXt0aGlzLnByb3BzLnZhbHVlfQogICAgICAgICAgICAgIHRva2VuaXplPXt0aGlzLnRva2VuaXplLmJpbmQodGhpcyl9CiAgICAgICAgICAgICAgcmVtb3ZlVG9rZW49e3RoaXMucmVtb3ZlVG9rZW4uYmluZCh0aGlzKX0KICAgICAgICAgIC8+CiAgICAgICAg</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3RoaXMucHJvcHMuY2xhc3NOYW1lfT4KICAgICAgICAgIDxUb2tlbml6ZXIKICAgICAgICAgICAgICB0b2tlbnM9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICAgICAgdG9rZW5pemU9e3RoaXMudG9rZW5pemUuYmluZCh0aGlzKX0KICAgICAgICAgICAgICByZW1vdmVUb2tlbj17dGhpcy5yZW1vdmVUb2tlbi5iaW5kKHRoaXMpfQogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionWordEndRight</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -872,23 +869,23 @@
         <entry>actionlist closeactive</entry>
         <entry>action CloseActiveTab</entry>
         <entry>q</entry>
-        <entry>action Back</entry>
-        <entry>action OptimizeImports</entry>
         <entry>.,.+1action GotoFile</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action AceAction</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
-        <entry>action RenameElement</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action VimMotionWordEndRight</entry>
+        <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
