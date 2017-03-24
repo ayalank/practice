@@ -358,8 +358,8 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1489842079866">
-        <mark key="'" line="30" column="18" />
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1490388133753">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
@@ -662,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="29" column="52" filename="$USER_HOME$/projects/sputnik/src/core/lib/calculator/calculators.ts" />
       <jump line="149" column="8" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="186" column="20" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
@@ -762,6 +761,7 @@
       <jump line="4" column="2" filename="$USER_HOME$/projects/sputnik/src/components/footer.tsx" />
       <jump line="5" column="13" filename="$USER_HOME$/projects/sputnik/src/components/footer.tsx" />
       <jump line="48" column="37" filename="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/sputnik/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -771,7 +771,7 @@
         <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>about</text>
+        <text>token</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGhlYWRlciBjbGFzc05hbWU9ImZvbnQtbWQgY2xlYXJmaXgiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC0xMiBiZy1uYXYgY2xlYXJmaXgiPgogICAgICAgIDxuYXYgY2xhc3NOYW1lPSJzaXRlLXdpZHRoIG14LWF1dG8gd2hpdGUgcmVsYXRpdmUgY2xlYXJmaXgiPgogICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBjb2wtMiBtbDAgc20taGlkZSB4cy1oaWRlIj4KICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgIDxpbWcgc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvZnVsbC1sb2dvLnBuZycpfSBhbHQ9IiIvPgogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICA8L25hdj4KICAgICAgPC9kaXY+CiAgICA8L2hlYWRlcj4=</text>
@@ -831,13 +831,13 @@
         <text encoding="base64">ICBwcml2YXRlIHNldElucHV0RWxlbWVudCh0b2tlbml6ZXJFbGVtKSB7CiAgICBpZiAoIXRoaXMuaW5wdXRFbGVtZW50KSB7CiAgICAgIHRoaXMuaW5wdXRFbGVtZW50ID0gdG9rZW5pemVyRWxlbS5xdWVyeVNlbGVjdG9yKHRoaXMuVE9LRU5JWkVSX0lOUFVUX1NFTEVDVE9SKTsKICAgICAgdGhpcy5pbnB1dEVsZW1lbnQuc2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsIHRoaXMucHJvcHMucGxhY2Vob2xkZXIpOwogICAgICBpbnB1dEF1dG9SZXNpemUodGhpcy5pbnB1dEVsZW1lbnQpOwogICAgfQogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>about</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>about</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>figure</entry>
         <entry>summary</entry>
         <entry>rendercompa</entry>
         <entry>compara</entry>
@@ -865,6 +864,7 @@
         <entry>realazon pricate</entry>
         <entry>private</entry>
         <entry>about</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist closeactive</entry>
@@ -878,7 +878,6 @@
         <entry>action EditorSplitLine</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
@@ -887,6 +886,7 @@
         <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
