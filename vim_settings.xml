@@ -107,6 +107,12 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/toggle.tsx" timestamp="1490601916710">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" timestamp="1489850088033">
         <mark key="'" line="30" column="3" />
         <mark key="[" line="34" column="0" />
@@ -793,10 +799,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -859,7 +865,7 @@
         <text encoding="base64">ICBlZGl0TW9kZTogYm9vbGVhbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -909,12 +915,12 @@
         <entry>nmap &quot; ci'</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
