@@ -153,11 +153,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1489914796826">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="11" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1491831037957">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486923758087">
         <mark key="[" line="12" column="72" />
@@ -222,10 +222,9 @@
         <mark key="^" line="82" column="22" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1490617433574">
-        <mark key="'" line="289" column="16" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="0" />
+        <mark key="." line="399" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -306,6 +305,12 @@
         <mark key="]" line="21" column="11" />
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/webpack/webpack.dev.config.js" timestamp="1491831089440">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+        <mark key="^" line="58" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1490254051510">
         <mark key="[" line="16" column="49" />
@@ -796,11 +801,11 @@
       <jump line="403" column="36" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgU09NRV9PUEVSQVRPUl9NT05PX1NISVRUVFQgPSAnc29tZSBvcGVyYXRvciBtb25vIHNoaXR0dHQnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>35.165.24.150:9200</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>35.165.24.150:9200</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -863,7 +868,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
@@ -914,11 +919,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
