@@ -153,11 +153,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1491831037957">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="25" />
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/quick-asset-search.ts" timestamp="1492014114927">
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="42" />
         <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+        <mark key="." line="88" column="42" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486923758087">
         <mark key="[" line="12" column="72" />
@@ -808,10 +808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -874,7 +874,7 @@
         <text encoding="base64">Y29uc3QgU09NRVRISU5HX0lOX1RIRV9XQVlfU0hFX01PVkVTID0gJ3NvbWV0aGluZyBpbiB0aGUgd2F5IHNoZSBtb3Zlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -917,19 +917,19 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action RenameElement</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>nmap &quot; ci'</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
