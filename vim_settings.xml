@@ -189,12 +189,12 @@
         <mark key="." line="39" column="112" />
         <mark key="^" line="39" column="112" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1490431377901">
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1491999851979">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="25" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="21" column="25" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="24" />
+        <mark key="^" line="64" column="39" />
+        <mark key="." line="64" column="24" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/api/filters.d.ts" timestamp="1490430427381">
         <mark key="'" line="16" column="4" />
@@ -331,11 +331,11 @@
         <mark key="^" line="92" column="40" />
         <mark key="." line="92" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1490431134288">
-        <mark key="[" line="177" column="33" />
-        <mark key="]" line="177" column="66" />
-        <mark key="." line="177" column="66" />
-        <mark key="^" line="177" column="66" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1491999863635">
+        <mark key="[" line="169" column="98" />
+        <mark key="]" line="169" column="98" />
+        <mark key="^" line="169" column="111" />
+        <mark key="." line="169" column="98" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1488892664955">
         <mark key="[" line="169" column="25" />
@@ -599,7 +599,7 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490605179705">
+      <file name="/Dummy.txt" timestamp="1491999275633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/order.js" timestamp="1484412130243">
@@ -672,6 +672,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/preloader.tsx" timestamp="1491999385706">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+        <mark key="^" line="20" column="77" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/reports.ts" timestamp="1488884347101">
         <mark key="[" line="8" column="60" />
@@ -802,10 +808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>35.165.24.150:9200</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>35.165.24.150:9200</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -838,37 +844,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgU09NRV9PUEVSQVRPUl9NT05PX1NISVRUVFQgPSAnc29tZSBvcGVyYXRvciBtb25vIHNoaXR0dHQnOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFNvbWV0aGluQXdlc29tZSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyLz4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEZvb3Rlci8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgU09NRV9PUEVSQVRPUl9NT05PX1NISVRUVFQgPSAnc29tZSBvcGVyYXRvciBtb25vIHNoaXR0dHQnOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU09NRVRISU5HX0lOX1RIRV9XQVlfU0hFX01PVkVTID0gJ3NvbWV0aGluZyBpbiB0aGUgd2F5IHNoZSBtb3Zlcyc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSVNfVEhBVF9TT01FVEhJTkdfVEhBVF9NQUtFU19ZT1VfR09fQ1JBWlkgPSAnaXMgdGhhdCBzb21ldGhpbmcgdGhhdCBtYWtlcyB5b3UgZ28gY3JhenknO0wK</text>
+        <text encoding="base64">aW50ZXJmYWNlIFNvbWV0aGluQXdlc29tZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgU09NRVRISU5HX0lOX1RIRV9XQVlfU0hFX01PVkVTID0gJ3NvbWV0aGluZyBpbiB0aGUgd2F5IHNoZSBtb3Zlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -911,19 +917,19 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>action VimMotionWordEndRight</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>nmap &quot; ci'</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
