@@ -217,10 +217,12 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1490617433574">
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="0" />
-        <mark key="." line="399" column="0" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1492100936119">
+        <mark key="'" line="151" column="57" />
+        <mark key="[" line="221" column="93" />
+        <mark key="]" line="221" column="103" />
+        <mark key="." line="221" column="103" />
+        <mark key="^" line="221" column="103" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -695,7 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="43" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="142" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="65" column="24" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
       <jump line="71" column="16" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
@@ -795,16 +796,17 @@
       <jump line="289" column="16" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="402" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="403" column="36" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
+      <jump line="151" column="57" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Comparable</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Comparable</text>
       </register>
       <register name="/" type="4">
-        <text>stat</text>
+        <text>cma</text>
       </register>
       <register name="0" type="4">
         <text>this.state.areAssumptionsOrFilterModified</text>
@@ -864,13 +866,13 @@
         <text encoding="base64">Y29uc3QgU09NRVRISU5HX0lOX1RIRV9XQVlfU0hFX01PVkVTID0gJ3NvbWV0aGluZyBpbiB0aGUgd2F5IHNoZSBtb3Zlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>stat</last-search>
+      <last-search>cma</last-search>
       <last-offset />
-      <last-pattern>stat</last-pattern>
+      <last-pattern>cma</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -878,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insurance</entry>
         <entry>zepto</entry>
         <entry>router</entry>
         <entry>history</entry>
@@ -898,6 +899,7 @@
         <entry>edit</entry>
         <entry>statistics</entry>
         <entry>stat</entry>
+        <entry>cma</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseActiveTab</entry>
@@ -917,9 +919,9 @@
         <entry>action Back</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
