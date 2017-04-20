@@ -217,11 +217,11 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1492711251117">
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1492715233059">
         <mark key="'" line="151" column="57" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
+        <mark key="]" line="393" column="1" />
+        <mark key="." line="393" column="1" />
+        <mark key="^" line="393" column="1" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge.tsx" timestamp="1484861483533">
         <mark key="'" line="52" column="56" />
@@ -865,7 +865,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -914,13 +914,13 @@
         <entry>action EditorCompleteStatement</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
