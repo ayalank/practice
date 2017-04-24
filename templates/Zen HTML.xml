@@ -1,0 +1,14 @@
+<templateSet group="Zen HTML">
+  <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="object" value="&lt;object data=&quot;$VAR0$&quot; type=&quot;$VAR1$&quot;&gt;$END$&lt;/object&gt;" description="&lt;object data=&quot;...&quot; type=&quot;...&quot;&gt;...&lt;/object&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="map" value="&lt;map name=&quot;$VAR0$&quot;&gt;$END$&lt;/map&gt;" description="&lt;map name=&quot;...&quot;&gt;...&lt;/map&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
