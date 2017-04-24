@@ -9,6 +9,12 @@
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1487443729425">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/actions/types.ts" timestamp="1489850366148">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -21,17 +27,47 @@
         <mark key="." line="58" column="22" />
         <mark key="^" line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/login-lightbox.tsx" timestamp="1490262434004">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="33" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-details.tsx" timestamp="1489941188356">
         <mark key="[" line="24" column="59" />
         <mark key="]" line="24" column="69" />
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/report-page-summary-bar.tsx" timestamp="1490432891946">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="27" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/clicked-outside-listener.tsx" timestamp="1489065579884">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493032686655">
+        <mark key="[" line="113" column="30" />
+        <mark key="]" line="113" column="30" />
+        <mark key="^" line="112" column="41" />
+        <mark key="." line="113" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1484859840411">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="57" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/register-form-lightbox.tsx" timestamp="1490262214446">
         <mark key="[" line="37" column="14" />
@@ -50,16 +86,43 @@
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1491999851979">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1490432125290">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/image.tsx" timestamp="1484993425332">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1487230686817">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="46" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-list.tsx" timestamp="1485940987876">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/middlewares/async-api.ts" timestamp="1489850333710">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1489867651507">
+        <mark key="[" line="115" column="55" />
+        <mark key="]" line="115" column="55" />
+        <mark key="." line="115" column="55" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/index.js" timestamp="1484400642914">
         <mark key="[" line="26" column="47" />
@@ -73,11 +136,40 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/user.ts" timestamp="1493018219702">
-        <mark key="[" line="5" column="72" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="75" />
-        <mark key="^" line="5" column="75" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-address-price.tsx" timestamp="1488131018997">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map.tsx" timestamp="1483531273233">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1491830162309">
+        <mark key="'" line="404" column="36" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/selectors/user.ts" timestamp="1493031621419">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486923758087">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="81" />
+        <mark key="." line="12" column="81" />
+        <mark key="^" line="12" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/preloader.tsx" timestamp="1491999385706">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+        <mark key="^" line="20" column="77" />
       </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/config/mongoose.json" timestamp="1484395812443">
         <mark key="[" line="3" column="11" />
@@ -91,11 +183,30 @@
         <mark key="." line="58" column="7" />
         <mark key="^" line="58" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1493016961111">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/api/comparable.d.ts" timestamp="1487248388696">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1488892664955">
+        <mark key="[" line="169" column="25" />
+        <mark key="]" line="169" column="24" />
+        <mark key="^" line="169" column="24" />
+        <mark key="." line="169" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/image.tsx.ts" timestamp="1484992073597">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/toggle.tsx" timestamp="1490601916710">
         <mark key="[" line="22" column="33" />
@@ -109,11 +220,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1492716697407">
-        <mark key="'" line="151" column="57" />
-        <mark key="]" line="393" column="1" />
-        <mark key="." line="393" column="1" />
-        <mark key="^" line="393" column="1" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1493032708728">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="181" column="37" />
+        <mark key="]" line="181" column="37" />
+        <mark key="." line="181" column="37" />
+        <mark key="^" line="184" column="37" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1490431958992">
         <mark key="[" line="242" column="11" />
@@ -139,6 +251,12 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487230390721">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="81" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-list-header.tsx" timestamp="1490431367986">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="37" />
@@ -163,191 +281,6 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/images/nav-profile.svg" timestamp="1487684318792">
-        <mark key="[" line="4" column="1219" />
-        <mark key="]" line="4" column="1223" />
-        <mark key="." line="4" column="1223" />
-        <mark key="^" line="4" column="1223" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx.ts" timestamp="1488564715504">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/slick.styl" timestamp="1484956687784">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1489615986485">
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="49" column="18" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="49" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/reset-password-form-ligthbox.tsx" timestamp="1490262493063">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="70" column="9" />
-        <mark key="." line="70" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1489866652261">
-        <mark key="[" line="39" column="110" />
-        <mark key="]" line="39" column="112" />
-        <mark key="." line="39" column="112" />
-        <mark key="^" line="39" column="112" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1490432119971">
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="26" column="58" />
-        <mark key="." line="40" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/register-lightbox.tsx" timestamp="1490262461824">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/index-page-search.tsx" timestamp="1487838531737">
-        <mark key="[" line="4" column="65" />
-        <mark key="]" line="4" column="67" />
-        <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1493017402262">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="29" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="80" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/gauge-cash.tsx" timestamp="1487443729425">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/login-lightbox.tsx" timestamp="1490262434004">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/report-page-summary-bar.tsx" timestamp="1490432891946">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="56" />
-        <mark key="^" line="43" column="41" />
-        <mark key="." line="27" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493017636766">
-        <mark key="[" line="112" column="60" />
-        <mark key="]" line="112" column="60" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="112" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1484859840411">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/list-page-map-list.tsx" timestamp="1491999851979">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/image.tsx" timestamp="1484993425332">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-list.tsx" timestamp="1485940987876">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="14" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/middlewares/async-api.ts" timestamp="1489850333710">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1489867651507">
-        <mark key="[" line="115" column="55" />
-        <mark key="]" line="115" column="55" />
-        <mark key="." line="115" column="55" />
-        <mark key="^" line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property-address-price.tsx" timestamp="1488131018997">
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map.tsx" timestamp="1483531273233">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1491830162309">
-        <mark key="'" line="404" column="36" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/file.tsx" timestamp="1486923758087">
-        <mark key="[" line="12" column="72" />
-        <mark key="]" line="12" column="81" />
-        <mark key="." line="12" column="81" />
-        <mark key="^" line="12" column="81" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/preloader.tsx" timestamp="1491999385706">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="77" />
-        <mark key="." line="20" column="77" />
-        <mark key="^" line="20" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/package.json" timestamp="1493016961111">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-list-map.tsx" timestamp="1488892664955">
-        <mark key="[" line="169" column="25" />
-        <mark key="]" line="169" column="24" />
-        <mark key="^" line="169" column="24" />
-        <mark key="." line="169" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/image.tsx.ts" timestamp="1484992073597">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487230390721">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="81" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-gauges.tsx" timestamp="1484861594458">
         <mark key="[" line="49" column="14" />
         <mark key="]" line="25" column="42" />
@@ -366,6 +299,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/images/nav-profile.svg" timestamp="1487684318792">
+        <mark key="[" line="4" column="1219" />
+        <mark key="]" line="4" column="1223" />
+        <mark key="." line="4" column="1223" />
+        <mark key="^" line="4" column="1223" />
+      </file>
       <file name="$USER_HOME$/projects/jb-mongoose/src/lib/models/dish.js" timestamp="1484413255369">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="48" />
@@ -378,6 +317,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/share-report-lightbox.tsx.ts" timestamp="1488564715504">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/numbers.ts" timestamp="1487443900131">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -389,6 +334,18 @@
         <mark key="]" line="8" column="76" />
         <mark key="^" line="8" column="76" />
         <mark key="." line="8" column="76" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/slick.styl" timestamp="1484956687784">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/about.tsx" timestamp="1493032638385">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/user-settings.tsx" timestamp="1487699756123">
         <mark key="[" line="21" column="23" />
@@ -417,11 +374,29 @@
       <file name="/Dummy.txt" timestamp="1491999275633">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/property-filters.ts" timestamp="1490431034252">
         <mark key="[" line="97" column="9" />
         <mark key="]" line="97" column="13" />
         <mark key="." line="97" column="13" />
         <mark key="^" line="97" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1489615986485">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/reset-password-form-ligthbox.tsx" timestamp="1490262493063">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="70" column="9" />
+        <mark key="." line="70" column="11" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/api/http.ts" timestamp="1489842460591">
         <mark key="[" line="3" column="14" />
@@ -435,11 +410,30 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1493032941712">
+        <mark key="'" line="51" column="42" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" timestamp="1493032831648">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/change-password-lightbox.tsx" timestamp="1490262423827">
         <mark key="[" line="40" column="64" />
         <mark key="]" line="40" column="66" />
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1490432119971">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="40" column="49" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/types/api/asset-filter.d.ts" timestamp="1489940542994">
         <mark key="[" line="0" column="25" />
@@ -447,17 +441,43 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/register-lightbox.tsx" timestamp="1490262461824">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/emails-tokenizer.tsx" timestamp="1488668010049">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/index-page-search.tsx" timestamp="1487838531737">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1493032678136">
+        <mark key="'" line="38" column="2" />
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="73" />
+        <mark key="." line="40" column="73" />
+        <mark key="^" line="40" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/search.ts" timestamp="1485947608059">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1493032698883">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="147" column="28" />
+        <mark key="]" line="147" column="29" />
+        <mark key="." line="147" column="29" />
+        <mark key="^" line="147" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forgot-password-lightbox.tsx" timestamp="1490261986720">
         <mark key="[" line="36" column="20" />
@@ -485,16 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="23" filename="$USER_HOME$/projects/sputnik/app.tsx" />
-      <jump line="113" column="4" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="24" column="15" filename="$USER_HOME$/projects/sputnik/src/pages/404.tsx" />
-      <jump line="41" column="47" filename="$USER_HOME$/projects/sputnik/app.tsx" />
-      <jump line="192" column="70" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/sputnik/src/components/input-tokenizer.tsx" />
-      <jump line="21" column="12" filename="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" />
-      <jump line="44" column="14" filename="$USER_HOME$/projects/sputnik/src/components/share-report-form.tsx" />
-      <jump line="21" column="40" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="23" column="11" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="22" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="20" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="24" column="10" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
@@ -580,21 +590,31 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="79" column="4" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="110" column="16" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="100" column="46" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
       <jump line="78" column="8" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="41" column="11" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="6" column="9" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="21" column="24" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="40" column="2" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="31" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="220" column="74" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
+      <jump line="150" column="30" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="1" column="7" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="51" column="42" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>.tsx</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>nav</text>
       </register>
       <register name="0" type="4">
         <text>webpack-dashboard -- webpack-dev-server</text>
@@ -623,44 +643,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkxvZ2luQ2xpY2s9eygpID0+IHRoaXMucmVkaXJlY3RUbyhMT0dJTl9VUkwpfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrU2V0dGluZ3M9eygpID0+IHRoaXMucmVkaXJlY3RUbygnL3BlcnNvbmFsLWFyZWEnKX0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">PG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibmF2LWxvZ28gY29sIGNvbC0yIG1sMCBzbS1oaWRlIHhzLWhpZGUiPgogICAgICAgICAgICA8TGluayB0bz0iLyI+CiAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZmlndXJlPgogICAgICAgIDwvbmF2Pg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBjb2wtMiBtbDAgc20taGlkZSB4cy1oaWRlIj4KICAgICAgICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgIDwvbmF2Pg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtMTAwIHJpZ2h0LTAiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctZ28zIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iL3BlcnNvbmFsL3Byb2ZpbGUiIGNsYXNzTmFtZT0iY29sIHB0MSB0ZXh0LWRlY29yYXRpb24tbm9uZSBwb2ludGVyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9e3RoaXMucHJvcHMudXNlck5hbWV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG5hdmlnYXRlVG8oZ29UbykgewogICAgaWYgKHRoaXMucHJvcHMudXNlcikgewogICAgICByZXR1cm4gcmVmcmVzaEF0KGdvVG8pOwogICAgfQogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPXt0aGlzLnByb3BzLnVzZXJOYW1lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLm9uQ2xpY2tTZXR0aW5ncygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLm9uQ2xpY2tTZXR0aW5ncygpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFVzZXIgPSBjcmVhdGVTZWxlY3RvcihhdXRoU3RhdGUsIGF1dGggPT4gYXV0aC5nZXQoJ3VzZXInKSkgc3RhdGUgPT4gc3RhdGUuYXV0aC5nZXQoJ3VzZXInKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -668,11 +688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>router</entry>
-        <entry>history</entry>
-        <entry>browserhis</entry>
-        <entry>menu</entry>
-        <entry>trim</entry>
         <entry>font-md</entry>
         <entry>className=&quot;font-md</entry>
         <entry encoding="base64">IGNsYXNzTmFtZT0iZm9udC1tZA==</entry>
@@ -688,28 +703,33 @@
         <entry>stat</entry>
         <entry>cma</entry>
         <entry>login</entry>
+        <entry>getuser</entry>
+        <entry>render</entry>
+        <entry>topnavbar</entry>
+        <entry>topnav</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorDown</entry>
-        <entry>actionlist usages</entry>
-        <entry encoding="base64">bm1hcCA8Qy1cPiA6YWN0aW9uIEZpbmRVc2FnZXNJbkZpbGU8Q1I+</entry>
         <entry>action FindUsagesInFile</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>vmap r $</entry>
         <entry>nmap ^k v$</entry>
-        <entry>action EditorUp</entry>
-        <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action MoveStatementUp</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action EditorUp</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action AceAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry encoding="base64">bm1hcCA8Qy1sPiBE</entry>
         <entry>action ReformatCode</entry>
-        <entry>action EditorCompleteStatement</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action GotoFile</entry>
-        <entry>action FileStructurePopup</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
