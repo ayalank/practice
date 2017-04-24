@@ -72,6 +72,7 @@
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="shift ctrl f7" />
     <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="MethodDown" />

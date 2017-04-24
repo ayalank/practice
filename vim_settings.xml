@@ -308,11 +308,12 @@
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1493015451152">
-        <mark key="'" line="20" column="2" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="410" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1493016451682">
+        <mark key="'" line="101" column="46" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-gallery.tsx" timestamp="1484994098045">
         <mark key="'" line="42" column="0" />
@@ -702,18 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="16" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="98" column="18" filename="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" />
-      <jump line="181" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
-      <jump line="36" column="69" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
-      <jump line="37" column="58" filename="$USER_HOME$/projects/sputnik/src/components/create-report-lightbox.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/package.json" />
-      <jump line="17" column="18" filename="$USER_HOME$/projects/sputnik/package.json" />
-      <jump line="12" column="47" filename="$USER_HOME$/projects/sputnik/package.json" />
-      <jump line="30" column="18" filename="$USER_HOME$/projects/sputnik/package.json" />
-      <jump line="28" column="6" filename="$USER_HOME$/projects/sputnik/app.tsx" />
-      <jump line="36" column="16" filename="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" />
-      <jump line="30" column="3" filename="$USER_HOME$/projects/sputnik/src/core/lib/api/ajax-error.ts" />
       <jump line="16" column="56" filename="$USER_HOME$/projects/sputnik/app.tsx" />
       <jump line="24" column="23" filename="$USER_HOME$/projects/sputnik/app.tsx" />
       <jump line="113" column="4" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -801,14 +790,26 @@
       <jump line="403" column="36" filename="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" />
       <jump line="151" column="57" filename="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" />
       <jump line="37" column="17" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
-      <jump line="20" column="2" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="117" column="76" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="8" column="9" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="79" column="4" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="110" column="16" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
+      <jump line="100" column="46" filename="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IFRvcE5hdmJhciBleHRlbmRzIFJlYWN0LjxUb3BOYXZiYXJQcm9wcywgVG9wTmF2YmFyU3RhdGU+IHsK</text>
+      <register name="&quot;" type="4">
+        <text>onLogoutClick</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>onLogoutClick</text>
       </register>
       <register name="/" type="4">
         <text>cma</text>
@@ -841,37 +842,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IFRvcE5hdmJhciBleHRlbmRzIFJlYWN0LjxUb3BOYXZiYXJQcm9wcywgVG9wTmF2YmFyU3RhdGU+IHsK</text>
+        <text encoding="base64">ICBwcml2YXRlIG5hdmlnYXRlVG8oZ29UbykgewogICAgaWYgKHRoaXMucHJvcHMudXNlcikgewogICAgICByZXR1cm4gcmVmcmVzaEF0KGdvVG8pOwogICAgfQogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLm9uQ2xpY2tTZXR0aW5ncygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLm9uQ2xpY2tTZXR0aW5ncygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBvbkxvZ2luQ2xpY2s/OiBDdXN0b21IYW5kbGVyPHZvaWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNvbWVNZXRob2RPZk1pbmUoKSB7Cg==</text>
+        <text encoding="base64">ICBvbkxvZ291dENsaWNrPzogQ3VzdG9tSGFuZGxlcjx2b2lkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvbkNsaWNrU2V0dGluZ3M/OiBDdXN0b21IYW5kbGVyPHZvaWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyLz4K</text>
+        <text encoding="base64">ICAgIG9uTG9naW5DbGljazogXy5ub29wLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEZvb3Rlci8+Cg==</text>
+        <text encoding="base64">ICAgIG9uTG9nb3V0Q2xpY2s6IF8ubm9vcCwK</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU09NRV9PUEVSQVRPUl9NT05PX1NISVRUVFQgPSAnc29tZSBvcGVyYXRvciBtb25vIHNoaXR0dHQnOwo=</text>
+        <text encoding="base64">IFRvcE5hdmJhciBleHRlbmRzIFJlYWN0LjxUb3BOYXZiYXJQcm9wcywgVG9wTmF2YmFyU3RhdGU+IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUp</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
@@ -907,26 +908,26 @@
         <entry>cma</entry>
       </history-search>
       <history-cmd>
-        <entry>action MoveStatementDown</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action EditorDuplicateLines</entry>
-        <entry>action VimMotionWordEndRight</entry>
         <entry>action RenameElement</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>nmap &quot; ci'</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action Back</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>actionlist usages</entry>
+        <entry encoding="base64">bm1hcCA8Qy1cPiA6YWN0aW9uIEZpbmRVc2FnZXNJbkZpbGU8Q1I+</entry>
+        <entry>action FindUsagesInFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
