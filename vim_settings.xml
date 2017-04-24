@@ -472,11 +472,11 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1493032698883">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="147" column="28" />
-        <mark key="]" line="147" column="29" />
-        <mark key="." line="147" column="29" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1493034315240">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="147" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forgot-password-lightbox.tsx" timestamp="1490261986720">
@@ -505,12 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="20" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="24" column="10" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="37" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="39" column="10" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
-      <jump line="61" column="13" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="62" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="71" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="72" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
@@ -605,16 +599,22 @@
       <jump line="1" column="7" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
       <jump line="51" column="42" filename="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" />
+      <jump line="204" column="10" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="294" column="22" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="33" column="2" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="48" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="126" column="40" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="16" column="9" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsb2dvdXQ/OiB0eXBlb2YgbG9nb3V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.tsx</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text>userName</text>
       </register>
       <register name="0" type="4">
         <text>webpack-dashboard -- webpack-dev-server</text>
@@ -643,44 +643,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBsb2dvdXQ/OiB0eXBlb2YgbG9nb3V0Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibmF2LWxvZ28gY29sIGNvbC0yIG1sMCBzbS1oaWRlIHhzLWhpZGUiPgogICAgICAgICAgICA8TGluayB0bz0iLyI+CiAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZmlndXJlPgogICAgICAgIDwvbmF2Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">PG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibmF2LWxvZ28gY29sIGNvbC0yIG1sMCBzbS1oaWRlIHhzLWhpZGUiPgogICAgICAgICAgICA8TGluayB0bz0iLyI+CiAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZmlndXJlPgogICAgICAgIDwvbmF2Pg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBjb2wtMiBtbDAgc20taGlkZSB4cy1oaWRlIj4KICAgICAgICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgIDwvbmF2Pg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctZ28zIj4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9e3RoaXMucHJvcHMudXNlck5hbWV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPXt0aGlzLnByb3BzLnVzZXJOYW1lfQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPXt0aGlzLnByb3BzLnVzZXJOYW1lfQo=</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFVzZXIgPSBjcmVhdGVTZWxlY3RvcihhdXRoU3RhdGUsIGF1dGggPT4gYXV0aC5nZXQoJ3VzZXInKSkgc3RhdGUgPT4gc3RhdGUuYXV0aC5nZXQoJ3VzZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>nav</last-search>
+      <last-search>userName</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern>userName</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -688,8 +688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font-md</entry>
-        <entry>className=&quot;font-md</entry>
         <entry encoding="base64">IGNsYXNzTmFtZT0iZm9udC1tZA==</entry>
         <entry>naor</entry>
         <entry>h2</entry>
@@ -702,12 +700,14 @@
         <entry>statistics</entry>
         <entry>stat</entry>
         <entry>cma</entry>
-        <entry>login</entry>
         <entry>getuser</entry>
         <entry>render</entry>
         <entry>topnavbar</entry>
         <entry>topnav</entry>
         <entry>nav</entry>
+        <entry>login</entry>
+        <entry>logout</entry>
+        <entry>userName</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsagesInFile</entry>
@@ -723,13 +723,13 @@
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8Qy1sPiBE</entry>
         <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
