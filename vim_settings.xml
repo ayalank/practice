@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/sputnik/templates/inspectlet.js" timestamp="1485536055131">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/jb/mongoose/index.js" timestamp="1484315155642">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="1" />
@@ -20,25 +14,6 @@
       </file>
       <file name="/a.dummy" timestamp="1486322861150">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.js2" timestamp="1486322248128">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1486324296923">
-        <mark key="'" line="26" column="52" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/inspectlet.tsx" timestamp="1485536438043">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1485534119675">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/specifics.styl" timestamp="1486295967160">
         <mark key="'" line="0" column="0" />
@@ -61,6 +36,31 @@
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/templates/inspectlet.js" timestamp="1485536055131">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+      </file>
+      <file name="/fragment.js2" timestamp="1486322248128">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1486324296923">
+        <mark key="'" line="26" column="52" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/components/inspectlet.tsx" timestamp="1485536438043">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1485534119675">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
