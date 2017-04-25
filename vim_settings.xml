@@ -51,11 +51,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493101533074">
-        <mark key="[" line="113" column="30" />
-        <mark key="]" line="113" column="30" />
-        <mark key="^" line="112" column="41" />
-        <mark key="." line="196" column="52" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493105452986">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
         <mark key="[" line="29" column="16" />
@@ -347,6 +347,9 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/node_modules/react-burger-menu/dist/react-burger-menu.js" timestamp="1493105549086">
+        <mark key="'" line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/user-settings.tsx" timestamp="1487699756123">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="23" />
@@ -505,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="14" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="71" column="17" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="72" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="81" column="21" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
@@ -605,6 +607,7 @@
       <jump line="48" column="12" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
       <jump line="126" column="40" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
       <jump line="16" column="9" filename="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" />
+      <jump line="17" column="19" filename="$USER_HOME$/projects/sputnik/node_modules/react-burger-menu/dist/react-burger-menu.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -614,7 +617,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>userName</text>
+        <text>slide</text>
       </register>
       <register name="0" type="4">
         <text>webpack-dashboard -- webpack-dev-server</text>
@@ -674,13 +677,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>userName</last-search>
+      <last-search>slide</last-search>
       <last-offset />
-      <last-pattern>userName</last-pattern>
+      <last-pattern>slide</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -688,7 +691,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IGNsYXNzTmFtZT0iZm9udC1tZA==</entry>
         <entry>naor</entry>
         <entry>h2</entry>
         <entry>realazon pricate</entry>
@@ -708,9 +710,9 @@
         <entry>login</entry>
         <entry>logout</entry>
         <entry>userName</entry>
+        <entry>slide</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindUsagesInFile</entry>
         <entry>q</entry>
         <entry>vmap r $</entry>
         <entry>nmap ^k v$</entry>
@@ -718,18 +720,19 @@
         <entry>action MoveStatementUp</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action EditorUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8Qy1sPiBE</entry>
         <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
