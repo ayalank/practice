@@ -371,7 +371,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491999275633">
+      <file name="/Dummy.txt" timestamp="1493104441176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-text-wrapper.tsx" timestamp="1484863979249">
@@ -674,7 +674,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -726,10 +726,10 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
