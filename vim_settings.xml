@@ -45,6 +45,12 @@
         <mark key="^" line="43" column="41" />
         <mark key="." line="27" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1493309755646">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="38" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/clicked-outside-listener.tsx" timestamp="1489065579884">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -579,10 +585,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2dvdXQ/OiB0eXBlb2YgbG9nb3V0Cg==</text>
+        <text encoding="base64">Y29uc3QgUm9vdCA9IHByb3BzID0+IDxkaXY+PC9kaXY+Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>isModel</text>
       </register>
       <register name="/" type="4">
         <text>slide</text>
@@ -615,37 +621,37 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgUm9vdCA9IHByb3BzID0+IDxkaXY+PC9kaXY+Owo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBsb2dvdXQ/OiB0eXBlb2YgbG9nb3V0Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTIgbWQtaGlkZSBsZy1oaWRlIHBiMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCBjb2wtMTAiPgogICAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBwdDIgcGwzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9ezE0NX0gc3JjPXtyZXF1aXJlPHN0cmluZz4oJ2Fzc2V0cy9pbWFnZXMvbmF2LWxvZ28uc3ZnJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTIgZm9udC14eGxnIHB0MyBwbDMiPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goJ2xpc3QnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Im1hZ25pZnkgcHQxIHdoaXRlIGFsaWduLW1pZGRsZSBpY29uIHRhYmxlLWNlbGwgYmxvY2sgcHkxIHRleHQtZGVjb3JhdGlvbi1ub25lIHBvaW50ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxUb3BOYXZiYXIgY2xhc3NOYW1lPSJ4cy1oaWRlIHNtLWhpZGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGlja0Fib3V0PXtfLm5vb3B9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj17dGhpcy5nZXRVc2VyTmFtZSgpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTG9nb3V0Q2xpY2s9eygpID0+IHRoaXMucHJvcHMubG9nb3V0KCl9Lz4=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICA8ZmlndXJlIGNsYXNzTmFtZT0ibmF2LWxvZ28gY29sIGNvbC0yIG1sMCBzbS1oaWRlIHhzLWhpZGUiPgogICAgICAgICAgICA8TGluayB0bz0iLyI+CiAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZmlndXJlPgogICAgICAgIDwvbmF2Pg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPG5hdiBjbGFzc05hbWU9InNpdGUtd2lkdGggbXgtYXV0byB3aGl0ZSByZWxhdGl2ZSBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzc05hbWU9Im5hdi1sb2dvIGNvbCBjb2wtMiBtbDAgc20taGlkZSB4cy1oaWRlIj4KICAgICAgICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmU8c3RyaW5nPignYXNzZXRzL2ltYWdlcy9mdWxsLWxvZ28ucG5nJyl9IGFsdD0iIi8+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgIDwvbmF2Pg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctZ28zIj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9e3RoaXMucHJvcHMudXNlck5hbWV9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPXt0aGlzLnByb3BzLnVzZXJOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctZ28zIj4K</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9e3RoaXMucHJvcHMudXNlck5hbWV9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action OptimizeImports</text>
       </register>
     </registers>
     <search>
@@ -681,7 +687,6 @@
         <entry>slide</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>vmap r $</entry>
         <entry>nmap ^k v$</entry>
         <entry>w</entry>
@@ -691,16 +696,17 @@
         <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8Qy1sPiBE</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>imap \ {</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry>action RenameElement</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action OptimizeImports</entry>
       </history-cmd>
       <history-expr />
       <history-input />
