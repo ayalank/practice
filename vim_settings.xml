@@ -216,10 +216,6 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/property-page.tsx" timestamp="1493032708728">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="181" column="37" />
-        <mark key="]" line="181" column="37" />
-        <mark key="." line="181" column="37" />
-        <mark key="^" line="184" column="37" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1490431958992">
         <mark key="[" line="242" column="11" />
@@ -407,11 +403,10 @@
         <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/personal-area.tsx" timestamp="1493032941712">
-        <mark key="'" line="51" column="42" />
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="28" />
-        <mark key="^" line="52" column="28" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/change-password-lightbox.tsx" timestamp="1490262423827">
         <mark key="[" line="40" column="64" />
@@ -454,10 +449,6 @@
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
         <mark key="^" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1493034315240">
-        <mark key="'" line="16" column="9" />
-        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forgot-password-lightbox.tsx" timestamp="1490261986720">
         <mark key="[" line="36" column="20" />
