@@ -120,4 +120,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="rj" value="return ($END$);" description="return jsx" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
