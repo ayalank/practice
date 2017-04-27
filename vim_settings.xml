@@ -51,12 +51,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493105452986">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="32" column="18" />
@@ -342,10 +336,9 @@
         <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/about.tsx" timestamp="1493032638385">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="1" column="25" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/node_modules/react-burger-menu/dist/react-burger-menu.js" timestamp="1493105549086">
         <mark key="'" line="17" column="19" />
@@ -420,12 +413,6 @@
         <mark key="." line="52" column="28" />
         <mark key="^" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" timestamp="1493032831648">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/change-password-lightbox.tsx" timestamp="1490262423827">
         <mark key="[" line="40" column="64" />
         <mark key="]" line="40" column="66" />
@@ -462,13 +449,6 @@
         <mark key="^" line="4" column="75" />
         <mark key="." line="4" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/top-navbar.tsx" timestamp="1493032678136">
-        <mark key="'" line="38" column="2" />
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="73" />
-        <mark key="." line="40" column="73" />
-        <mark key="^" line="40" column="73" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/search.ts" timestamp="1485947608059">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -477,10 +457,7 @@
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/list-page.tsx" timestamp="1493034315240">
         <mark key="'" line="16" column="9" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="147" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forgot-password-lightbox.tsx" timestamp="1490261986720">
         <mark key="[" line="36" column="20" />
@@ -677,7 +654,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrQWJvdXQ9e18ubm9vcH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -728,11 +705,11 @@
         <entry>action EditorCompleteStatement</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
