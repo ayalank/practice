@@ -33,4 +33,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="s" value="() =&gt; $END$" description="lambda" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ll" value="($params$) =&gt; $END$" description="lambda with params" toReformat="true" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
