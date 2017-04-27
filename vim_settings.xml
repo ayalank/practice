@@ -45,11 +45,11 @@
         <mark key="^" line="43" column="41" />
         <mark key="." line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1493309755646">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="38" column="9" />
+      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1493313489825">
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="88" column="60" />
+        <mark key="." line="88" column="60" />
+        <mark key="^" line="88" column="60" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/clicked-outside-listener.tsx" timestamp="1489065579884">
         <mark key="[" line="21" column="0" />
