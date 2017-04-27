@@ -44,4 +44,17 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="c" value="const $var_name$ = $END$;" description="const" toReformat="true" toShortenFQNames="true">
+    <variable name="var_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="const $name$ = $args$ =&gt; $END$;" description="const with lambda" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
