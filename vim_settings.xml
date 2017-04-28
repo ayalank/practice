@@ -379,11 +379,10 @@
         <mark key="." line="14" column="111" />
         <mark key="^" line="14" column="111" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493382933690">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="30" column="14" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/home.tsx" timestamp="1493383074703">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/user-settings.tsx" timestamp="1487699756123">
         <mark key="[" line="21" column="23" />
@@ -546,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="226" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="231" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="236" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
@@ -646,10 +644,11 @@
       <jump line="534" column="27" filename="$USER_HOME$/projects/sputnik/node_modules/@types/redux-form/lib/reduxForm.d.ts" />
       <jump line="112" column="4" filename="$USER_HOME$/projects/sputnik/node_modules/@types/redux-form/lib/reduxForm.d.ts" />
       <jump line="15" column="8" filename="$USER_HOME$/projects/sputnik/src/components/calculator-box.tsx" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdj5IZWxsbzwvZGl2Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGRpdj5IZWxsbzwvZGl2Pg==</text>
@@ -685,37 +684,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxGZWVkYmFja0Zvcm0gb25TdWJtaXQ9e3ZhbHVlcyA9PiBjb25zb2xlLmxvZyh2YWx1ZXMpfS8+Ki99Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExpZ2h0Qm94IGZyb20gJy4vbGlnaHRib3gnOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBlbmFibGVSZWluaXRpYWxpemU6IGJvb2xlYW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvblN1Ym1pdDogYW55Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQ/OiBhbnk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZTogKHZhbHVlczogQXNzdW1wdGlvbnMpID0+IHZvaWQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKjxGZWVkYmFja0Zvcm0gb25TdWJtaXQ9e3ZhbHVlcyA9PiBjb25zb2xlLmxvZyh2YWx1ZXMpfS8+Ki99Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IExpZ2h0Qm94IGZyb20gJy4vbGlnaHRib3gnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBlbmFibGVSZWluaXRpYWxpemU6IGJvb2xlYW4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvblN1Ym1pdDogYW55Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBoYW5kbGVTdWJtaXQ/OiBhbnk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvbkNoYW5nZTogKHZhbHVlczogQXNzdW1wdGlvbnMpID0+IHZvaWQ7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8RmllbGQgY29tcG9uZW50PXtmZWVkYmFja0lucHV0fSBuYW1lPSJmZWVkYmFjayIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>CustomHandler</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgID07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQgY29tcG9uZW50PXtmZWVkYmFja0lucHV0fSBuYW1lPSJmZWVkYmFjayIvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">aW1hcCA8RXNjPiAo</text>
+        <text>imap \ (</text>
       </register>
     </registers>
     <search>
@@ -751,7 +750,6 @@
         <entry>onSubmit</entry>
       </history-search>
       <history-cmd>
-        <entry>action MoveStatementUp</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action EditorUp</entry>
         <entry encoding="base64">bm1hcCA8Qy1sPiBE</entry>
@@ -771,6 +769,7 @@
         <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">aW1hcCA8RXNjPiAo</entry>
+        <entry>imap \ (</entry>
       </history-cmd>
       <history-expr />
       <history-input />
