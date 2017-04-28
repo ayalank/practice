@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/sputnik/src/components/feedback-form.tsx" timestamp="1493389078455">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="52" />
+      <file name="$USER_HOME$/projects/sputnik/src/components/feedback-form.tsx" timestamp="1493391541656">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/forms/validation.ts" timestamp="1490254051510">
         <mark key="[" line="16" column="49" />
@@ -45,10 +45,11 @@
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/root-layout.tsx" timestamp="1493389275576">
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="80" />
-        <mark key="." line="36" column="80" />
+      <file name="$USER_HOME$/projects/sputnik/src/pages/root-layout.tsx" timestamp="1493391604837">
+        <mark key="'" line="36" column="83" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
         <mark key="^" line="36" column="80" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/report-page-summary-bar.tsx" timestamp="1490432891946">
@@ -534,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="231" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="236" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
       <jump line="245" column="18" filename="$USER_HOME$/projects/sputnik/src/pages/private-policy.tsx" />
@@ -634,13 +634,14 @@
       <jump line="15" column="8" filename="$USER_HOME$/projects/sputnik/src/components/calculator-box.tsx" />
       <jump line="69" column="5" filename="$USER_HOME$/projects/sputnik/package.json" />
       <jump line="104" column="69" filename="$USER_HOME$/projects/sputnik/app.tsx" />
+      <jump line="36" column="83" filename="$USER_HOME$/projects/sputnik/src/pages/root-layout.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>match</text>
+        <text encoding="base64">bWVzc2FnZTogJ1NvbWUgTWVzc2FnZScsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text encoding="base64">bWVzc2FnZTogJ1NvbWUgTWVzc2FnZScsIA==</text>
       </register>
       <register name="/" type="4">
         <text>scripts</text>
@@ -703,7 +704,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -750,7 +751,6 @@
         <entry>.,.+5action GotoDeclaration</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
         <entry>action ReformatCode</entry>
@@ -759,6 +759,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
