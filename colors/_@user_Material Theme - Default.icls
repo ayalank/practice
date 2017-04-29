@@ -1,19 +1,19 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-12-23T10:57:38</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-24T09:34:45</property>
+    <property name="modified">2017-04-28T15:35:04</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="MonacoB2" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
