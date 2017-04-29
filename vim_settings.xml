@@ -295,12 +295,12 @@
         <mark key="^" line="43" column="41" />
         <mark key="." line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1493392240089">
+      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1493488172134">
         <mark key="'" line="102" column="54" />
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="29" column="31" />
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+        <mark key="." line="100" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/tokenizer.styl" timestamp="1490387349448">
         <mark key="[" line="29" column="16" />
@@ -689,13 +689,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkkkkjj</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Button</text>
@@ -755,7 +755,7 @@
         <text encoding="base64">Y29uc3QgID07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -792,7 +792,6 @@
       </history-search>
       <history-cmd>
         <entry>action CloseAllEditorsButActive</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>nmap q qq</entry>
         <entry>nmap q q</entry>
         <entry>action OptimizeImports</entry>
@@ -800,7 +799,6 @@
         <entry>imap ; ;</entry>
         <entry encoding="base64">bWFwIDxDLXM+IDxFbmQ+LDxDUj4=</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCompleteStatement</entry>
@@ -811,6 +809,8 @@
         <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
