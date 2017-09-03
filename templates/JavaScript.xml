@@ -1,0 +1,19 @@
+<templateSet group="JavaScript">
+  <template name="tt" value="$expression$ ? $ifTrue$ : $ifFalse$$END$" description="tranery if" toReformat="false" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ifTrue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ifFalse" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="con" value="$key$: $val$$END$" description="scream const keyval" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="capitalizeAndUnderscore(val)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

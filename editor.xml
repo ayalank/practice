@@ -1,0 +1,14 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
+</application>
