@@ -1,0 +1,8 @@
+<templateSet group="stylus">
+  <template name="fore" value="for $var$ in $END$" description="for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

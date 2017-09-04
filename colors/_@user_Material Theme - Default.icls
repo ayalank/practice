@@ -1,19 +1,19 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-12-23T10:57:38</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-28T15:35:04</property>
+    <property name="created">2016-12-26T11:56:32</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2017-06-11T17:25:49</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -54,7 +54,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="54757c" />
+    <option name="SELECTION_BACKGROUND" value="5d868f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
@@ -391,7 +391,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7497a8" />
+        <option name="FOREGROUND" value="617e8c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -418,7 +418,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7497a8" />
+        <option name="FOREGROUND" value="546e7a" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -477,7 +477,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7fa6b8" />
+        <option name="FOREGROUND" value="7aa0b2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -737,7 +737,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="526974" />
+        <option name="BACKGROUND" value="34434a" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -784,6 +784,16 @@
     </option>
     <option name="Instance field">
       <value />
+    </option>
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="b0caff" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="c3a6df" />
+      </value>
     </option>
     <option name="JAVA_COMMA">
       <value>
@@ -1774,7 +1784,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5e7985" />
+        <option name="BACKGROUND" value="34434a" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="1" />
       </value>

@@ -1,0 +1,7 @@
+<templateSet group="scala">
+  <template name="im" value="import $END$" description="import" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

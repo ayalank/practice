@@ -1,28 +1,18 @@
 <templateSet group="JavaScript">
-  <template name="fun" value="function $NAME$($PARAMS$) {$END$}" description="Function" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="l" value="$PARAMS$ =&gt; $END$" description="lambda" toReformat="false" toShortenFQNames="true">
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="tt" value="$expression$ ? $ifTrue$ : $ifFalse$$END$" description="tranery if" toReformat="false" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ifTrue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ifFalse" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ia" value="**/*.$END$" description="import all glob" toReformat="false" toShortenFQNames="true">
+  <template name="con" value="$key$: $val$$END$" description="scream const keyval" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="capitalizeAndUnderscore(val)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="con" value="$constKey$: '$constValue$'$END$" description="const pair" toReformat="true" toShortenFQNames="true">
-    <variable name="constValue" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="constKey" expression="capitalizeAndUnderscore(constValue)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>

@@ -1,127 +1,152 @@
 <templateSet group="React">
-  <template name="scomp" value="interface $name$Props {&#10;    $END$&#10;}&#10;&#10;export default function $name$($args$: $name$Props) {&#10;    &#10;}" description="Stateless Component" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="cwp" value="componentWillReceiveProps(nextProps) {&#10;  $END$&#10;}" description="componentWillReceiveProps" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cwu" value="componentWillUpdate($nextProps$$nextState$) {&#10;  $END$&#10;}" description="componentWillUpdate" toReformat="false" toShortenFQNames="true">
-    <variable name="nextProps" expression="" defaultValue="&quot;nextProps&quot;" alwaysStopAt="true" />
-    <variable name="nextState" expression="" defaultValue="&quot;, nextState&quot;" alwaysStopAt="true" />
+  <template name="cwu" value="componentWillUpdate(nextProps, nextState) {&#10;  $END$&#10;}" description="componentWillUpdate" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="scu" value="shouldComponentUpdate(nextProps, nextState) {&#10;  $END$&#10;}" description="shouldComponentUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="componentWillMount" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="scu" value="shouldComponentUpdate($nextProps$$nextState$) {&#10;  $END$&#10;}" description="shouldComponentUpdate" toReformat="false" toShortenFQNames="true">
-    <variable name="nextProps" expression="" defaultValue="&quot;nextProps&quot;" alwaysStopAt="true" />
-    <variable name="nextState" expression="" defaultValue="&quot;, nextState&quot;" alwaysStopAt="true" />
+  <template name="ccmp" value="import {connect} from 'react-redux';&#10;interface $name$Props {&#10;&#10;}&#10;&#10;const mapStateToProps = state =&gt; ({&#10;&#10;});&#10;&#10;export class $name$ extends React.PureComponent&lt;$name$Props, void&gt; {&#10;&#10;}&#10;&#10;export default connect&lt;any, $name$Props, any&gt;(mapStateToProps)($name$);&#10;&#10;" description="React Connected Component" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="r" value="render() {&#10;  $END$&#10;}" description="render" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="cdu" value="componentDidUpdate($prevProps$$prevState$) {&#10;  $END$&#10;}" description="componentDidUpdate" toReformat="false" toShortenFQNames="true">
+  <template name="cdu" value="componentDidUpdate($prevProps$$prevState$) {&#10;  $END$&#10;}" description="React Component Did Update" toReformat="false" toShortenFQNames="true">
     <variable name="prevProps" expression="" defaultValue="&quot;prevProps&quot;" alwaysStopAt="true" />
     <variable name="prevState" expression="" defaultValue="&quot;, prevState&quot;" alwaysStopAt="true" />
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ff" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default function $name$({}: $name$Props) {&#10;&#10;}" description="Functional Compoent" toReformat="false" toShortenFQNames="true">
+  <template name="r" value="render() {&#10;  $END$&#10;}" description="React component render" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="f" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default function $name$({$props$}: $name$Props) {&#10;&#10;} " description="stateless component" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="pc" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default class $name$ extends React.PureComponent&lt;$name$Props$state$&gt; {&#10;&#10;}" description="React PureComponent" toReformat="false" toShortenFQNames="true">
+  <template name="pr" value="interface $name$Props {&#10;  $END$&#10;}&#10;&#10;export default class $name$ extends React.PureComponent&lt;$name$Props$state$&gt; {&#10;  $END$&#10;} " description="React PureComponent" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ic" value="onChange?: CustomHandler&lt;$type$&gt;&#10;value?: $type$" description="Input Component" toReformat="false" toShortenFQNames="true">
-    <variable name="type" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+  <template name="fp" value="onChange?: CustomHandler&lt;$type$&gt;&#10;value?: $type$" description="Form Props" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cld" value="children" description="children" toReformat="false" toShortenFQNames="true">
+  <template name="clp" value="className?: string" description="className prop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cn" value="className$END$" description="className=" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="componentDIdMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="tp" value="this.props." description="this.props." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="tl" value="() =&gt; this.$END$" description="this handler" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dp" value="const {$END$} = this.props;" description="destructure props" toReformat="false" toShortenFQNames="true">
+  <template name="rr" value="return (&#10;    $END$&#10;    );&#10;" description="return JSX" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cln" value="className={classNames($PROP$$END$)}" description="className with override" toReformat="true" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="&quot;className&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="dfp" value="static defaultProps = {$END$}" description="Default Props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ds" value="const {$END$} = this.state;" description="destructure state" toReformat="false" toShortenFQNames="true">
+  <template name="ts" value="this.state." description="This state" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="d" value="const {$END$} = $variable$;" description="destructure" toReformat="false" toShortenFQNames="true">
-    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="tss" value="this.setState({$END$})" description="this setState" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="msp" value="const mapStateToProps = state =&gt; ({&#10;$END$&#10;});&#10;&#10;" description="mapStateToProps" toReformat="true" toShortenFQNames="true">
+  <template name="swma" value="&lt;$tag$ className=&quot;site-width mx-auto$more$&quot;&gt;$END$&lt;/$tag$&gt;" description="site-width.mx-auto" toReformat="true" toShortenFQNames="true">
+    <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="more" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cwp" value="componentWillReceiveProps($nextProps$) {&#10;  $END$&#10;}" description="componentDidUpdate" toReformat="false" toShortenFQNames="true">
-    <variable name="nextProps" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="st" value="style={{$END$}}" description="style" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="sd" value="static defaultProps = { $END$ }" description="static defaultProps" toReformat="false" toShortenFQNames="true">
+  <template name="pth" value="require&lt;string&gt;($END$)" description="path with require" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="tp" value="this.props.$param$" description="this.props" toReformat="false" toShortenFQNames="true">
-    <variable name="param" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+  <template name="ic" value="const $name$ = ({$args$}) =&gt; (&#10;    $END$&#10;);" description="Inline comonent" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="ts" value="this.state.$param$" description="this.state." toReformat="false" toShortenFQNames="true">
-    <variable name="param" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="cn" value="className=&quot;$END$&quot;" description="className" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="clm" value=".col.col-" description="col" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="rt" value="React." description="React." toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="rj" value="return ($END$);" description="return jsx" toReformat="false" toShortenFQNames="true">
-    <context>
+      <option name="JSX_HTML" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>

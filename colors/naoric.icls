@@ -1,0 +1,14 @@
+<scheme name="naoric" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-12-18T11:34:33</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2016-12-25T12:34:02</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+</scheme>
