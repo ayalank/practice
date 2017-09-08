@@ -637,6 +637,12 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="18" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/public/index.html" timestamp="1504510490913">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-summary-bar.tsx" timestamp="1494919573656">
         <mark key="'" line="7" column="21" />
         <mark key="[" line="3" column="13" />
@@ -908,6 +914,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="9" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/App/AppStore.ts" timestamp="1504535281439">
+        <mark key="'" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/template-parts/realazon/signup-form.php" timestamp="1497968863047">
         <mark key="[" line="14" column="0" />
@@ -1193,7 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
       <jump line="88" column="53" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
       <jump line="119" column="13" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
       <jump line="93" column="7" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
@@ -1293,6 +1301,7 @@
       <jump line="4" column="24" filename="$USER_HOME$/projects/bp-scraper/com.realazon.main/build.sbt" />
       <jump line="3" column="24" filename="$USER_HOME$/projects/bp-scraper/com.realazon.main/build.sbt" />
       <jump line="9" column="72" filename="$USER_HOME$/projects/bp-scraper/com.realazon.main/src/main/scala/Main.scala" />
+      <jump line="10" column="5" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/AppStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1504,7 +1513,6 @@
         <entry>require</entry>
       </history-search>
       <history-cmd>
-        <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8QS1TLWo+IDphY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM8Q1I+IA==</entry>
@@ -1524,6 +1532,7 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action AceAction</entry>
+        <entry>action ChangesView.Commit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
