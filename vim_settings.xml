@@ -336,11 +336,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/hello_cargo/src/main.rs" timestamp="1504886923870">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/hello_cargo/src/main.rs" timestamp="1504887577691">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/hamburger-menu.tsx" timestamp="1496926726441">
         <mark key="'" line="63" column="27" />
@@ -1424,7 +1424,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
+        <text encoding="base64">ICBsZXQgbXV0IGd1ZXNzID0gU3RyaW5nOjpuZXcoKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1456,19 +1456,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDMK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm4gbWFpbigpIHsKICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTEyIGNsZWFyZml4Ij4KICAgICAgICAgICAgPFRvcE5hdmJhciAvPgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Zm4gbWFpbigpIHsKICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQaWN0dXJlVHlwZS5hc0luc3RhbmNlT2ZbSW50ZWdlcl0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLTEyIGNsZWFyZml4Ij4KICAgICAgICAgICAgPFRvcE5hdmJhciAvPgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1481,13 +1481,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBQaWN0dXJlVHlwZS5hc0luc3RhbmNlT2ZbSW50ZWdlcl0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBGaWVsZCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -1541,8 +1541,8 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action AceAction</entry>
         <entry>action ChangesView.Commit</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
