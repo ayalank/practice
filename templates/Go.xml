@@ -13,4 +13,10 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="pl" value="println($VAL$)" description="println" toReformat="true" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
 </templateSet>
