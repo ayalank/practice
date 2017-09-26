@@ -159,10 +159,10 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506426989160">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/top-assets/asset-box.tsx" timestamp="1499115240186">
         <mark key="[" line="52" column="76" />
@@ -1316,7 +1316,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWFsbCgnYScsICJzZGZzZGYiLCAyMzIzKQo=</text>
+        <text encoding="base64">CSJyZWZsZWN0Igo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1401,7 +1401,7 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWFsbCgnYScsICJzZGZzZGYiLCAyMzIzKQo=</text>
+        <text encoding="base64">CSJyZWZsZWN0Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1422,7 +1422,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnby90eXBlcyIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1454,19 +1454,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CWFsbCgnYScsICJzZGZzZGYiLCAyMzIzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oYXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5WYXIpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5UeXBlKSB7Cg==</text>
+        <text encoding="base64">CXByaW50bG4oYXJncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5WYXIpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1479,10 +1479,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oKQo=</text>
+        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5UeXBlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJEb3dubG9hZGluZyAiLCBmaWxlLnVybFBhdGguU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
