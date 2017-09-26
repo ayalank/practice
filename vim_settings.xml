@@ -952,12 +952,11 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506437124034">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="66" column="22" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506438055073">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1322,8 +1321,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmVyc2lvbnMgOj0g</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1399,7 +1398,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">dmVyc2lvbnMgOj0g</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -1429,7 +1428,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1461,19 +1460,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUFycmF5IFtdc3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBKc29uU3RyaW5nIHN0cnVjdCB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vanNvbi5Vbm1hcnNoYWwoYnl0ZXMsICZzKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4oc3RyaW5nKGJ5dGVzKSkK</text>
+        <text encoding="base64">ZnVuYyBuYW1lKGFyZ3MpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+        <text encoding="base64">CXByaW50bG4oc2hvdWxkTGlzdCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1486,13 +1485,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBzCg==</text>
+        <text encoding="base64">CWZvciBrLCB2IDo9IHJhbmdlIGFyciB7CgkJcHJpbnRsbihrLCB2KQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJzdHJpbmdzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
@@ -1536,11 +1535,9 @@
         <entry encoding="base64">aW1hcCA8TS1zPiA8RW5kPiw8Q1I+</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ChangesView.Commit</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
@@ -1548,6 +1545,8 @@
         <entry>action EditorUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />

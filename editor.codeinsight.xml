@@ -2,4 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="PARAMETER_INFO_DELAY" value="0" />
   </component>
+  <component name="Go">
+    <option name="formatOnSave" value="GOFMT" />
+  </component>
 </application>
