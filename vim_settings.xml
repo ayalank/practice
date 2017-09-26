@@ -159,11 +159,10 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506424833680">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="39" />
-        <mark key="^" line="55" column="39" />
-        <mark key="." line="55" column="39" />
+      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506426989160">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/top-assets/asset-box.tsx" timestamp="1499115240186">
         <mark key="[" line="52" column="76" />
@@ -1316,8 +1315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>fileName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWFsbCgnYScsICJzZGZzZGYiLCAyMzIzKQo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1393,7 +1392,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>fileName</text>
+        <text>reflect.Type</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -1402,7 +1401,7 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZpbGVOYW1lIDo9IHBhdGhQYXJ0c1tsZW4ocGF0aFBhcnRzKS0xXQo=</text>
+        <text encoding="base64">CWFsbCgnYScsICJzZGZzZGYiLCAyMzIzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1423,7 +1422,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBhdGhQYXJ0cyA6PSBzdHJpbmdzLlNwbGl0KHBhdGgsICIvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1455,19 +1454,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vdmVyLCBfIDo9IHJlYWRlci5SZWFkU3RyaW5nKCdcbicpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vcHJpbnRsbigiUGxlYXNlIGNob29zZSB2ZXJzaW9uIikK</text>
+        <text encoding="base64">CXByaW50bG4oYXJncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vcmVhZGVyIDo9IGJ1ZmlvLk5ld1JlYWRlcihvcy5TdGRpbikK</text>
+        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5WYXIpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
+        <text encoding="base64">ZnVuYyBhbGwoYXJncyAuLi50eXBlcy5UeXBlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXN5bmMuV2FpdEdyb3VwLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1480,13 +1479,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
+        <text encoding="base64">CXByaW50bG4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMgPC0gMAo=</text>
+        <text encoding="base64">CQlwcmludGxuKCJEb3dubG9hZGluZyAiLCBmaWxlLnVybFBhdGguU3RyaW5nKCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1536,12 +1535,12 @@
         <entry>action ChangesView.Commit</entry>
         <entry>action EditorUp</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
         <entry>action EditorDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
