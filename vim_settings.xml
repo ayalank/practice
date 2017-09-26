@@ -159,11 +159,11 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506352626362">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="50" column="19" />
+      <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506424833680">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/top-assets/asset-box.tsx" timestamp="1499115240186">
         <mark key="[" line="52" column="76" />
@@ -1316,8 +1316,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>fileName</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1393,7 +1393,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>fileName</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -1402,7 +1402,7 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
+        <text encoding="base64">CWZpbGVOYW1lIDo9IHBhdGhQYXJ0c1tsZW4ocGF0aFBhcnRzKS0xXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1423,7 +1423,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWMgPC0gMAo=</text>
+        <text encoding="base64">CXBhdGhQYXJ0cyA6PSBzdHJpbmdzLlNwbGl0KHBhdGgsICIvIikK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1455,19 +1455,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWMgOj0gbWFrZShjaGFuIGludCwgbGVuKHNvdXJjZUZpbGVzKSkK</text>
+        <text encoding="base64">CS8vdmVyLCBfIDo9IHJlYWRlci5SZWFkU3RyaW5nKCdcbicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8LSBjCg==</text>
+        <text encoding="base64">CS8vcHJpbnRsbigiUGxlYXNlIGNob29zZSB2ZXJzaW9uIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8LSBjCg==</text>
+        <text encoding="base64">CS8vcmVhZGVyIDo9IGJ1ZmlvLk5ld1JlYWRlcihvcy5TdGRpbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8LSBjCg==</text>
+        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8LSBjCg==</text>
+        <text encoding="base64">CXN5bmMuV2FpdEdyb3VwLgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1480,13 +1480,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTwtYwo=</text>
+        <text encoding="base64">CWdyb3VwLkRvbmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CV8sIF8gOj0gPC1jLCA8LWMK</text>
+        <text encoding="base64">CWMgPC0gMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDown</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1522,8 +1522,6 @@
         <entry>require</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>actionlist newline</entry>
         <entry>actionlist startnewline</entry>
         <entry encoding="base64">aW1hcCA7IDxTLUNSPg==</entry>
@@ -1537,11 +1535,13 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ChangesView.Commit</entry>
         <entry>action EditorUp</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
         <entry>action EditorDown</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
