@@ -952,12 +952,11 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506500011575">
+      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506502544995">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="54" column="7" />
-        <mark key="]" line="54" column="7" />
-        <mark key="." line="54" column="7" />
-        <mark key="^" line="54" column="7" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1322,8 +1321,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1399,7 +1398,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3NcPg==</text>
@@ -1408,13 +1407,13 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
+        <text encoding="base64">bmFtZSA6PSAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1446,19 +1445,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgKmhlbGxvIHN0cmluZyA9ICYiZGZkZmRmIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
+        <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1471,13 +1470,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBuYW1lKGFyZ3MpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4oc2hvdWxkTGlzdCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1526,13 +1525,13 @@
         <entry>action GotoDeclaration</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+IGIqPEVzYz4g</entry>
-        <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+PEMtbz4=</entry>
         <entry>jump</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
