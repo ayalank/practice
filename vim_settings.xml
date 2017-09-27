@@ -952,11 +952,12 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506497892151">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506500011575">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="54" column="7" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1216,43 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="2" filename="$USER_HOME$/projects/sputnik/client/app.tsx" />
-      <jump line="69" column="15" filename="$USER_HOME$/projects/4inrow/src/main/Logic.java" />
-      <jump line="41" column="2" filename="$USER_HOME$/projects/4inrow/src/main/ServerThread.java" />
-      <jump line="211" column="2" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
-      <jump line="89" column="2" filename="$USER_HOME$/projects/4inrow/src/main/AI.java" />
-      <jump line="13" column="20" filename="$USER_HOME$/projects/4inrow/src/main/Sequence.java" />
-      <jump line="103" column="27" filename="$USER_HOME$/projects/4inrow/src/main/Gui.java" />
-      <jump line="14" column="79" filename="$USER_HOME$/projects/sputnik/index.pug" />
-      <jump line="13" column="68" filename="$USER_HOME$/projects/sputnik/index.pug" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" />
-      <jump line="4244" column="16" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" />
-      <jump line="0" column="42" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/template-parts/realazon/content-signup-form.php" />
-      <jump line="20" column="82" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/inc/realazon.php" />
-      <jump line="4247" column="0" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" />
-      <jump line="21" column="6" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/template-parts/realazon/content-signup-form.php" />
-      <jump line="38" column="57" filename="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/template-parts/realazon/content-signup-form.php" />
-      <jump line="121" column="25" filename="$USER_HOME$/projects/sputnik/src/components/report/report-page.tsx" />
-      <jump line="63" column="0" filename="$USER_HOME$/projects/sputnik/src/components/search/list-page-filter.tsx" />
-      <jump line="16" column="47" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-analysis-container.tsx" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-analysis-container.tsx" />
-      <jump line="325" column="19" filename="$USER_HOME$/projects/sputnik/src/components/report/report-page.tsx" />
-      <jump line="333" column="0" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="335" column="8" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="43" column="26" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="45" column="26" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="46" column="26" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="47" column="20" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="48" column="20" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="49" column="23" filename="$USER_HOME$/projects/sputnik/src/components/forms/range.tsx" />
-      <jump line="170" column="80" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="38" column="9" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="88" column="2" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="57" column="31" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="148" column="78" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-map.tsx" />
-      <jump line="152" column="16" filename="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-map.tsx" />
       <jump line="152" column="32" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
       <jump line="4" column="55" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
       <jump line="80" column="6" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
@@ -1315,14 +1279,51 @@
       <jump line="57" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="31" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="32" column="77" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="29" column="6" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="30" column="22" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="32" column="24" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="43" column="23" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="49" column="25" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="50" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="61" column="23" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="65" column="67" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="71" column="8" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="111" column="21" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="109" column="18" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="76" column="18" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="100" column="13" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="106" column="15" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="9" column="7" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="17" column="16" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="105" column="10" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="117" column="62" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="73" column="42" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="103" column="36" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="102" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="116" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="72" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="78" column="9" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="79" column="2" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="101" column="24" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="91" column="49" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="51" column="14" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="88" column="9" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="83" column="2" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="18" column="11" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="21" column="20" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="64" column="28" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="25" column="79" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="26" column="78" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="22" column="50" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="67" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>fetchVersions</text>
+        <text>*</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1398,10 +1399,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>fetchVersions</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>require</text>
+        <text encoding="base64">XDxjc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8LSBjICAK</text>
@@ -1410,22 +1411,7 @@
         <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="47" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
@@ -1491,13 +1477,13 @@
         <text encoding="base64">CXByaW50bG4oc2hvdWxkTGlzdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+</text>
       </register>
     </registers>
     <search>
-      <last-search>require</last-search>
+      <last-search encoding="base64">XDxjc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>require</last-pattern>
+      <last-pattern encoding="base64">XDxjc3NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1505,37 +1491,31 @@
     </search>
     <history>
       <history-search>
-        <entry>setya</entry>
-        <entry>yariv</entry>
-        <entry>logic.board</entry>
-        <entry>a:visited</entry>
-        <entry>assetgallery</entry>
-        <entry>inputrange</entry>
-        <entry>this.props.</entry>
-        <entry>username</entry>
-        <entry>comparablelist</entry>
-        <entry>map</entry>
-        <entry encoding="base64">IGNsYXNzTmFtZT0iIg==</entry>
-        <entry encoding="base64">PGgyIGNsYXNzTmFtZT0i</entry>
-        <entry>take a leap</entry>
-        <entry>take the leap</entry>
-        <entry>typescript</entry>
-        <entry>nextcss</entry>
-        <entry>grad</entry>
-        <entry>title</entry>
-        <entry>property</entry>
-        <entry>require</entry>
+        <entry encoding="base64">XDxlcnJcPg==</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxXYWl0R3JvdXBcPg==</entry>
+        <entry encoding="base64">XDxhcnJcPg==</entry>
+        <entry encoding="base64">XDx2YXJcPg==</entry>
+        <entry encoding="base64">XDx2MVw+</entry>
+        <entry encoding="base64">XDxtb2RlbGRlcml2YXRpdmVcPg==</entry>
+        <entry encoding="base64">XDx2aWV3aW5nc2VydmljZVw+</entry>
+        <entry encoding="base64">XDx2Mlw+</entry>
+        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDx2aWV3ZXJzXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxjc3NcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist startnewline</entry>
-        <entry encoding="base64">aW1hcCA7IDxTLUNSPg==</entry>
-        <entry>actionlist editorstartnewline</entry>
-        <entry encoding="base64">aW1hcCA7IDphY3Rpb24gRWRpdG9yU3RhcnROZXdMaW5lPENSPg==</entry>
         <entry encoding="base64">aW1hcCA7IDxFc2M+bw==</entry>
         <entry encoding="base64">aW1hcCA8TS1zPiA8RW5kPiw8Q1I+</entry>
         <entry>wq</entry>
-        <entry>action GotoFile</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ChangesView.Commit</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
@@ -1544,9 +1524,15 @@
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+IGIqPEVzYz4g</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+PEMtbz4=</entry>
+        <entry>jump</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1641,6 +1627,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift meta pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
