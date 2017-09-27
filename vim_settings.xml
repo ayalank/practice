@@ -952,11 +952,11 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506438055073">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="32" />
-        <mark key="." line="37" column="32" />
-        <mark key="^" line="37" column="32" />
+      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506497892151">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="39" column="24" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1216,7 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="24" filename="$USER_HOME$/projects/sputnik/client/app.tsx" />
       <jump line="60" column="2" filename="$USER_HOME$/projects/sputnik/client/app.tsx" />
       <jump line="69" column="15" filename="$USER_HOME$/projects/4inrow/src/main/Logic.java" />
       <jump line="41" column="2" filename="$USER_HOME$/projects/4inrow/src/main/ServerThread.java" />
@@ -1316,13 +1315,14 @@
       <jump line="57" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="31" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
+      <jump line="32" column="77" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmVyc2lvbnMgOj0g</text>
+        <text>fetchVersions</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1398,7 +1398,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVyc2lvbnMgOj0g</text>
+        <text>fetchVersions</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -1407,7 +1407,7 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1428,7 +1428,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
+        <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1463,16 +1463,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBuYW1lKGFyZ3MpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50bG4oc2hvdWxkTGlzdCkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1485,13 +1485,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciBrLCB2IDo9IHJhbmdlIGFyciB7CgkJcHJpbnRsbihrLCB2KQoJfQo=</text>
+        <text encoding="base64">ZnVuYyBuYW1lKGFyZ3MpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4oc2hvdWxkTGlzdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -1544,9 +1544,9 @@
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action AceAction</entry>
-        <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
