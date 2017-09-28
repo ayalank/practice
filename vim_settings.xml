@@ -952,11 +952,12 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506505042289">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" timestamp="1506610459728">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="103" column="55" />
+        <mark key="]" line="103" column="55" />
+        <mark key="." line="103" column="55" />
+        <mark key="^" line="103" column="56" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1321,8 +1322,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1398,7 +1399,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3NcPg==</text>
