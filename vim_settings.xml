@@ -82,6 +82,9 @@
       <file name="$USER_HOME$/projects/sputnik/src/components/property/property-address-price.tsx" timestamp="1498643437314">
         <mark key="[" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/peri-15floor.ts" timestamp="1513093153390">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/tidhar.ts" timestamp="1513089736829">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -158,12 +161,12 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513092146381">
-        <mark key="'" line="8" column="58" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="25" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513093293247">
+        <mark key="'" line="11" column="58" />
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
@@ -527,7 +530,7 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="/fragment.ts" timestamp="1513091983110">
+      <file name="/fragment.ts" timestamp="1513093237319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/actions/user.ts" timestamp="1497815939885">
@@ -571,11 +574,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1506436053701">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/pages/about.tsx" timestamp="1500837124865">
-        <mark key="[" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="79" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forms/input-text-wrapper.tsx" timestamp="1497101009131">
         <mark key="[" line="0" column="19" />
@@ -935,6 +933,12 @@
         <mark key="]" line="79" column="49" />
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513092989372">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513089692089">
         <mark key="[" line="1" column="0" />
@@ -1430,7 +1434,7 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0aWMgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1471,18 +1475,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBBRFByb3BlcnRpZXMgPSBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgcGFyc2VQcm9wKHByb3A6IEF1dG9kZXNrLlZpZXdpbmcuUHJvcGVydHkpOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gbnVsbAogIH0KfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gc3VwZXIucGFyc2VQcm9wcyhwcm9wcykKICB9Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1495,7 +1497,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyB7CiAgICBsZXQgbGV2ZWxJRDogYm9vbGVhbiB8IHN0cmluZyA9IGZhbHNlCiAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQogICAgZm9yIChsZXQgcGkgPSBwcm9wcy5sZW5ndGg7IHBpID49IDA7IC0tcGkpIHsKICAgICAgbGV0IHByb3AgPSBwcm9wc1sgcGkgXQogICAgICBsZXZlbElEID0gbGV2ZWxJRCB8fCAodGhpcy5zaG91bGREZXRlY3RMZXZlbElEKCkgJiYKICAgICAgICBFYnVyeS5pc0xldmVsSURQcm9wKHByb3ApICYmCiAgICAgICAgcHJvcC5kaXNwbGF5VmFsdWUucmVwbGFjZShFYnVyeS5TT1VSQ0VfRklMRV9FWFQsICcnKSkKICAgICAgaXNGbG9vck5vZGUgPSBpc0Zsb29yTm9kZSB8fCB0aGlzLnNob3VsZEluc2VydEZsb29ycyAmJgogICAgICAgIEVidXJ5LmlzRmxvb3JOb2RlUHJvcChwcm9wKQogICAgfQogICAgcmV0dXJuIHsgbGV2ZWxJRCwgaXNGbG9vck5vZGUgfQogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1537,7 +1539,6 @@
         <entry encoding="base64">XDxjc3NcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+aDphY3Rpb24gSW50cm9kdWNlVmFyaWFibGU8Y3I+aQ==</entry>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5pIA==</entry>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
@@ -1546,14 +1547,15 @@
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
         <entry>action ChangesView.Commit</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUmVhcnJhbmdlQ29kZTxDUj4=</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action RearrangeCode</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action RearrangeCode</entry>
+        <entry>nmap @ viw</entry>
+        <entry>action RenameElement</entry>
+        <entry>action IntroduceVariable</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceField</entry>
         <entry>action ReformatCode</entry>
