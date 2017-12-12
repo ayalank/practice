@@ -158,12 +158,12 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513089793982">
-        <mark key="'" line="7" column="58" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513092146381">
+        <mark key="'" line="8" column="58" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
@@ -404,6 +404,12 @@
         <mark key="^" line="15" column="84" />
         <mark key="." line="15" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/au2017.ts" timestamp="1513092131165">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/report-notes.tsx" timestamp="1496776783619">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="16" column="52" />
@@ -521,7 +527,7 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="/fragment.ts" timestamp="1513088198011">
+      <file name="/fragment.ts" timestamp="1513091983110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/actions/user.ts" timestamp="1497815939885">
@@ -1424,7 +1430,7 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1462,21 +1468,21 @@
         </keys>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dHlwZSBBRFByb3BlcnRpZXMgPSBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
 
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gc3VwZXIucGFyc2VQcm9wcyhwcm9wcykKICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyB7CiAgICBsZXQgbGV2ZWxJRDogYm9vbGVhbiB8IHN0cmluZyA9IGZhbHNlCiAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQogICAgZm9yIChsZXQgcGkgPSBwcm9wcy5sZW5ndGg7IHBpID49IDA7IC0tcGkpIHsKICAgICAgbGV0IHByb3AgPSBwcm9wc1sgcGkgXQogICAgICBsZXZlbElEID0gbGV2ZWxJRCB8fCAodGhpcy5zaG91bGREZXRlY3RMZXZlbElEKCkgJiYKICAgICAgICBFYnVyeS5pc0xldmVsSURQcm9wKHByb3ApICYmCiAgICAgICAgcHJvcC5kaXNwbGF5VmFsdWUucmVwbGFjZShFYnVyeS5TT1VSQ0VfRklMRV9FWFQsICcnKSkKICAgICAgaXNGbG9vck5vZGUgPSBpc0Zsb29yTm9kZSB8fCB0aGlzLnNob3VsZEluc2VydEZsb29ycyAmJgogICAgICAgIEVidXJ5LmlzRmxvb3JOb2RlUHJvcChwcm9wKQogICAgfQogICAgcmV0dXJuIHsgbGV2ZWxJRCwgaXNGbG9vck5vZGUgfQogIH0KCg==</text>
+        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gc3VwZXIucGFyc2VQcm9wcyhwcm9wcykKICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1489,13 +1495,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyB7CiAgICBsZXQgbGV2ZWxJRDogYm9vbGVhbiB8IHN0cmluZyA9IGZhbHNlCiAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQogICAgZm9yIChsZXQgcGkgPSBwcm9wcy5sZW5ndGg7IHBpID49IDA7IC0tcGkpIHsKICAgICAgbGV0IHByb3AgPSBwcm9wc1sgcGkgXQogICAgICBsZXZlbElEID0gbGV2ZWxJRCB8fCAodGhpcy5zaG91bGREZXRlY3RMZXZlbElEKCkgJiYKICAgICAgICBFYnVyeS5pc0xldmVsSURQcm9wKHByb3ApICYmCiAgICAgICAgcHJvcC5kaXNwbGF5VmFsdWUucmVwbGFjZShFYnVyeS5TT1VSQ0VfRklMRV9FWFQsICcnKSkKICAgICAgaXNGbG9vck5vZGUgPSBpc0Zsb29yTm9kZSB8fCB0aGlzLnNob3VsZEluc2VydEZsb29ycyAmJgogICAgICAgIEVidXJ5LmlzRmxvb3JOb2RlUHJvcChwcm9wKQogICAgfQogICAgcmV0dXJuIHsgbGV2ZWxJRCwgaXNGbG9vck5vZGUgfQogIH0KCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1538,19 +1544,19 @@
         <entry encoding="base64">dm5vcmVtYXAgKCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VGaWVsZDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgcCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VDb25zdGFudDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
-        <entry>action IntroduceField</entry>
         <entry>action ChangesView.Commit</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUmVhcnJhbmdlQ29kZTxDUj4=</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RearrangeCode</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action IntroduceField</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
