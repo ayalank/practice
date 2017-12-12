@@ -161,11 +161,11 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513093293247">
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513093656252">
         <mark key="'" line="11" column="58" />
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="15" column="57" />
         <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
@@ -197,6 +197,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1513094368119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1497118076746">
         <mark key="'" line="19" column="30" />
@@ -934,11 +940,11 @@
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513092989372">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513093979925">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="56" />
+        <mark key="^" line="20" column="56" />
+        <mark key="." line="20" column="56" />
       </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513089692089">
         <mark key="[" line="1" column="0" />
@@ -991,13 +997,14 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513088316317">
-        <mark key="'" line="226" column="35" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="109" column="4" />
-        <mark key="." line="252" column="35" />
-        <mark key="^" line="252" column="35" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513094013661">
+        <mark key="'" line="157" column="8" />
+        <mark key="[" line="161" column="12" />
+        <mark key="]" line="161" column="37" />
+        <mark key="." line="161" column="37" />
+        <mark key="^" line="161" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/.idea/httpRequests/http-requests-log.http" timestamp="1513094395421" />
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
         <mark key="]" line="3" column="83" />
@@ -1243,9 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="13" column="45" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
-      <jump line="137" column="60" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="72" column="14" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
       <jump line="10" column="91" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
       <jump line="35" column="22" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
@@ -1343,13 +1347,16 @@
       <jump line="15" column="23" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="19" column="26" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="8" column="58" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="160" column="30" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="275" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="157" column="8" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>POST</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1425,22 +1432,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjc3NcPg==</text>
+        <text>isstring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IHByb3BlcnR5IG9mIHJlc3VsdC5wcm9wZXJ0aWVzKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1471,20 +1478,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIGlmIChNT0RFTF9UWVBFID09IE1vZGVsVmVuZG9yLmVidXJ5KSB7CiAgICAgICAgICAgIGlmICgoaW5zZXJ0Tm9kZXMgfHwgaW5zZXJ0Rmxvb3JzKSAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnU291cmNlIEZpbGUnKSB7CiAgICAgICAgICAgICAgbGV2ZWxJZCA9IHByb3BlcnR5LmRpc3BsYXlWYWx1ZS5zbGljZSgwLCAtNCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluc2VydEZsb29ycyAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnQXN0cmFsaW5rJyAmJiBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgPT0gJ0Zsb29yJykgewogICAgICAgICAgICAgIGlzRmxvb3JOb2RlID0gdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgaWYgKE1PREVMX1RZUEUgPT0gTW9kZWxWZW5kb3IuZXNzZXgpIHsKICAgICAgICAgICAgaWYgKChpbnNlcnROb2RlcyB8fCBpbnNlcnRGbG9vcnMpICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdTb3VyY2UgRmlsZScpIHsKICAgICAgICAgICAgICBsZXZlbElkID0gcHJvcGVydHkuZGlzcGxheVZhbHVlLnNsaWNlKDAsIC00KQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoaW5zZXJ0Rmxvb3JzICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdBc3RyYWxpbmsnICYmIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSA9PSAnRmxvb3InKSB7CiAgICAgICAgICAgICAgaXNGbG9vck5vZGUgPSB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZSBpZiAoTU9ERUxfVFlQRSA9PSBNb2RlbFZlbmRvci50aWRoYXIpIHsKICAgICAgICAgICAgaWYgKChpbnNlcnROb2RlcyB8fCBpbnNlcnRGbG9vcnMpICYmIChwcm9wZXJ0eS5kaXNwbGF5Q2F0ZWdvcnkgPT0gJ0l0ZW0nICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdMYXllcicpKSB7CiAgICAgICAgICAgICAgbGV2ZWxJZCA9IHBhcnNlSW50KHByb3BlcnR5LmRpc3BsYXlWYWx1ZSkudG9TdHJpbmcoKQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoaW5zZXJ0Rmxvb3JzICYmIHByb3BlcnR5LmRpc3BsYXlDYXRlZ29yeSA9PSAnSXRlbScgJiYgcHJvcGVydHkuZGlzcGxheU5hbWUgPT0gJ05hbWUnICYmIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSA9PSAnRmxvb3InKSB7CiAgICAgICAgICAgICAgaXNGbG9vck5vZGUgPSB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdTb3VyY2UgRmlsZScpIHsKICAgICAgICAgICAgICBsYXllcklkID0gdGlkaGFyTGF5ZXJNYXBbIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSBdCgogICAgICAgICAgICAgIGlmICghbGF5ZXJJZCkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1Vua25vd24gU291cmNlIEZpbGUgcHJvcGVydHkgdmFsdWU6IFsnICsgcHJvcGVydHkuZGlzcGxheVZhbHVlICsgJ10nKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfSBlbHNlIGlmIChNT0RFTF9UWVBFID09IE1vZGVsVmVuZG9yLndpbGxtb3R0KSB7CiAgICAgICAgICAgIGlmICgoaW5zZXJ0Tm9kZXMgfHwgaW5zZXJ0Rmxvb3JzKSAmJiAocHJvcGVydHkuZGlzcGxheUNhdGVnb3J5ID09ICdJdGVtJyAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnTGF5ZXInKSkgewogICAgICAgICAgICAgIGxldmVsSWQgPSBwYXJzZUludChwcm9wZXJ0eS5kaXNwbGF5VmFsdWUsIDEwKS50b1N0cmluZygpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChpbnNlcnRGbG9vcnMgJiYgcHJvcGVydHkuZGlzcGxheUNhdGVnb3J5ID09ICdJdGVtJyAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnTmFtZScgJiYgcHJvcGVydHkuZGlzcGxheVZhbHVlID09ICdGbG9vcicpIHsKICAgICAgICAgICAgICBpc0Zsb29yTm9kZSA9IHRydWUKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdTb3VyY2UgRmlsZScpIHsKICAgICAgICAgICAgICBsYXllcklkID0gd2lsbG1vdHRMYXllck1hcFsgcHJvcGVydHkuZGlzcGxheVZhbHVlIF0KCiAgICAgICAgICAgICAgaWYgKCFsYXllcklkKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnVW5rbm93biBTb3VyY2UgRmlsZSBwcm9wZXJ0eSB2YWx1ZTogWycgKyBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgKyAnXScpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgaWYgKE1PREVMX1RZUEUgPT0gTW9kZWxWZW5kb3IuYXUyMDE3KSB7CiAgICAgICAgICAgIGlmICgoaW5zZXJ0Tm9kZXMgfHwgaW5zZXJ0Rmxvb3JzKSkgewogICAgICAgICAgICAgIGxldmVsSWQgPSAnTGV2ZWwgMScKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluc2VydEZsb29ycyAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnQXN0cmFsaW5rJyAmJiBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgPT0gJ0Zsb29yJykgewogICAgICAgICAgICAgIGlzRmxvb3JOb2RlID0gdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgaWYgKE1PREVMX1RZUEUgPT0gTW9kZWxWZW5kb3IuZGFnZXNoKSB7CiAgICAgICAgICAgIGlmICgoaW5zZXJ0Tm9kZXMgfHwgaW5zZXJ0Rmxvb3JzKSAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnU291cmNlIEZpbGUnKSB7CiAgICAgICAgICAgICAgbGV2ZWxJZCA9IHByb3BlcnR5LmRpc3BsYXlWYWx1ZS5zbGljZSgwLCAtNCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluc2VydEZsb29ycyAmJiBwcm9wZXJ0eS5kaXNwbGF5TmFtZSA9PSAnQXN0cmFsaW5rJyAmJiBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgPT0gJ0Zsb29yJykgewogICAgICAgICAgICAgIGlzRmxvb3JOb2RlID0gdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgaWYgKE1PREVMX1RZUEUgPT0gTW9kZWxWZW5kb3IucGVyaTE1Rmxvb3IpIHsKICAgICAgICAgICAgbGV2ZWxJZCA9ICdMZXZlbCAxJwoKICAgICAgICAgICAgaWYgKG5vZGVJZCA9PSAzODcxKSB7CiAgICAgICAgICAgICAgaXNGbG9vck5vZGUgPSB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZSBpZiAoTU9ERUxfVFlQRSA9PSBNb2RlbFZlbmRvci5mbG9vcjE1KSB7CiAgICAgICAgICAgIGxldmVsSWQgPSAnTGV2ZWwgMScKCiAgICAgICAgICAgIGlmIChub2RlSWQgPT0gMzg3MCkgewogICAgICAgICAgICAgIGlzRmxvb3JOb2RlID0gdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGF5ZXJJZDogc3RyaW5nIHwgbnVsbCA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGV2ZWxJZDogc3RyaW5nIHwgbnVsbCA9IG51bGwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgcGFyc2VQcm9wKHByb3A6IEF1dG9kZXNrLlZpZXdpbmcuUHJvcGVydHkpOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gbnVsbAogIH0KfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0aWMgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1507,9 +1514,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjc3NcPg==</last-search>
+      <last-search>isstring</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjc3NcPg==</last-pattern>
+      <last-pattern>isstring</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1517,7 +1524,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcnJcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx7XD4=</entry>
@@ -1537,6 +1543,7 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxjc3NcPg==</entry>
+        <entry>isstring</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5pIA==</entry>
@@ -1547,17 +1554,17 @@
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
         <entry>action ChangesView.Commit</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUmVhcnJhbmdlQ29kZTxDUj4=</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ExtractMethod</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action RearrangeCode</entry>
         <entry>nmap @ viw</entry>
         <entry>action RenameElement</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceField</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
