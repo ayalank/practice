@@ -82,6 +82,11 @@
       <file name="$USER_HOME$/projects/sputnik/src/components/property/property-address-price.tsx" timestamp="1498643437314">
         <mark key="[" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/tidhar.ts" timestamp="1513089736829">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/4InARow/Client.java" timestamp="1497121810100">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="22" />
@@ -153,12 +158,12 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513088584036">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513089793982">
+        <mark key="'" line="7" column="58" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
@@ -925,6 +930,12 @@
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513089692089">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-map-filter.tsx" timestamp="1498643295900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1222,8 +1233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="16" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="158" column="40" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="73" column="19" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="13" column="45" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
       <jump line="137" column="60" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -1322,6 +1331,8 @@
       <jump line="251" column="126" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="226" column="35" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="15" column="23" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="19" column="26" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="8" column="58" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1410,18 +1421,16 @@
         <text encoding="base64">XDxjc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdpbGxtb3R0TGF5ZXJNYXA6IHsgW2luZGV4OiBzdHJpbmddOiBzdHJpbmcgfSA9IHsKICAgICAgJzE1MzEtRkFJLVMtMkEtWlotTTMtU3RydWN0dXJlLnJ2dCc6ICdTdHJ1Y3R1cmUnLAogICAgICAnMTUzMS1BQVItQS0yQS1aWi1NMy1NYWluX21vZGVsX1dTXzIwMTYucnZ0JzogJ0FyY2hpdGVjdHVyZScsCiAgICAgICdNRVAgMjAxNyBoYWxmIG1vZGVsLnJ2dCc6ICdNRVAnLAogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1453,19 +1462,21 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gc3VwZXIucGFyc2VQcm9wcyhwcm9wcykKICB9Cg==</text>
+        <text encoding="base64">dHlwZSBBRFByb3BlcnRpZXMgPSBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyB7CiAgICBsZXQgbGV2ZWxJRDogYm9vbGVhbiB8IHN0cmluZyA9IGZhbHNlCiAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQogICAgZm9yIChsZXQgcGkgPSBwcm9wcy5sZW5ndGg7IHBpID49IDA7IC0tcGkpIHsKICAgICAgbGV0IHByb3AgPSBwcm9wc1sgcGkgXQogICAgICBsZXZlbElEID0gbGV2ZWxJRCB8fCAodGhpcy5zaG91bGREZXRlY3RMZXZlbElEKCkgJiYKICAgICAgICBFYnVyeS5pc0xldmVsSURQcm9wKHByb3ApICYmCiAgICAgICAgcHJvcC5kaXNwbGF5VmFsdWUucmVwbGFjZShFYnVyeS5TT1VSQ0VfRklMRV9FWFQsICcnKSkKICAgICAgaXNGbG9vck5vZGUgPSBpc0Zsb29yTm9kZSB8fCB0aGlzLnNob3VsZEluc2VydEZsb29ycyAmJgogICAgICAgIEVidXJ5LmlzRmxvb3JOb2RlUHJvcChwcm9wKQogICAgfQogICAgcmV0dXJuIHsgbGV2ZWxJRCwgaXNGbG9vck5vZGUgfQogIH0KCg==</text>
+      <register name="4" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CiAgICByZXR1cm4gc3VwZXIucGFyc2VQcm9wcyhwcm9wcykKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBwcm9wID0gcHJvcHNbIHBpIF0K</text>
+        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyB7CiAgICBsZXQgbGV2ZWxJRDogYm9vbGVhbiB8IHN0cmluZyA9IGZhbHNlCiAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQogICAgZm9yIChsZXQgcGkgPSBwcm9wcy5sZW5ndGg7IHBpID49IDA7IC0tcGkpIHsKICAgICAgbGV0IHByb3AgPSBwcm9wc1sgcGkgXQogICAgICBsZXZlbElEID0gbGV2ZWxJRCB8fCAodGhpcy5zaG91bGREZXRlY3RMZXZlbElEKCkgJiYKICAgICAgICBFYnVyeS5pc0xldmVsSURQcm9wKHByb3ApICYmCiAgICAgICAgcHJvcC5kaXNwbGF5VmFsdWUucmVwbGFjZShFYnVyeS5TT1VSQ0VfRklMRV9FWFQsICcnKSkKICAgICAgaXNGbG9vck5vZGUgPSBpc0Zsb29yTm9kZSB8fCB0aGlzLnNob3VsZEluc2VydEZsb29ycyAmJgogICAgICAgIEVidXJ5LmlzRmxvb3JOb2RlUHJvcChwcm9wKQogICAgfQogICAgcmV0dXJuIHsgbGV2ZWxJRCwgaXNGbG9vck5vZGUgfQogIH0KCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1478,13 +1489,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdCBwYXJzZVByb3BzKHByb3BzOiBBRFByb3BlcnRpZXMpOiBOb2RlRGV0YWlscyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1527,19 +1538,19 @@
         <entry encoding="base64">dm5vcmVtYXAgKCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VGaWVsZDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgcCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VDb25zdGFudDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
-        <entry>action RenameElement</entry>
         <entry>action IntroduceField</entry>
         <entry>action ChangesView.Commit</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUmVhcnJhbmdlQ29kZTxDUj4=</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action RearrangeCode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RearrangeCode</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
