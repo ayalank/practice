@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="1.4.1" />
+    <option name="accentColor" value="7CB342" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />

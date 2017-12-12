@@ -109,20 +109,11 @@
         <mark key="^" line="53" column="89" />
         <mark key="." line="53" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" timestamp="1498675070143">
-        <mark key="'" line="398" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/containers/feedback-lightbox.tsx" timestamp="1497101280827">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="47" />
         <mark key="." line="1" column="47" />
         <mark key="^" line="1" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1499710705817">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/style.styl" timestamp="1499117710566">
         <mark key="'" line="63" column="13" />
@@ -159,6 +150,12 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513079067160">
+        <mark key="[" line="74" column="29" />
+        <mark key="]" line="76" column="1" />
+        <mark key="^" line="76" column="1" />
+        <mark key="." line="76" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -182,9 +179,6 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/landing/teasers.tsx" timestamp="1499278221464">
-        <mark key="'" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/feedback/feedback-form.tsx" timestamp="1497100985815">
         <mark key="[" line="1" column="21" />
@@ -317,9 +311,6 @@
         <mark key="]" line="20" column="55" />
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/app.tsx" timestamp="1498925853988">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1496754737646">
         <mark key="'" line="12" column="0" />
@@ -690,6 +681,12 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="25" column="14" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1499710705817">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/labeled-box.tsx" timestamp="1496305897564">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="22" column="33" />
@@ -778,9 +775,6 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/core/lib/route-paths.ts" timestamp="1499113497265">
-        <mark key="'" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/OpeningScreen.java" timestamp="1497471355113">
         <mark key="'" line="29" column="43" />
@@ -1003,9 +997,6 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-analysis-container.tsx" timestamp="1498629312909">
-        <mark key="'" line="110" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/Sequence.java" timestamp="1497468010877">
         <mark key="'" line="13" column="20" />
         <mark key="[" line="13" column="11" />
@@ -1094,9 +1085,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-map.tsx" timestamp="1498645213744">
-        <mark key="'" line="150" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/input-range.tsx" timestamp="1484654246654">
         <mark key="'" line="36" column="16" />
@@ -1322,8 +1310,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiInJwo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1399,7 +1387,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3NcPg==</text>
@@ -1408,13 +1396,13 @@
         <text encoding="base64">CQk8LSBjICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">IiInJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZSA6PSAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1446,19 +1434,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgKmhlbGxvIHN0cmluZyA9ICYiZGZkZmRmIgo=</text>
+        <text encoding="base64">bmFtZSA6PSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
+        <text encoding="base64">Y29uc3QgKmhlbGxvIHN0cmluZyA9ICYiZGZkZmRmIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
+        <text encoding="base64">CWZsYWcuU3RyaW5nVmFyKCZzaG91bGREb3dubG9hZCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZsYWcuQm9vbFZhcigmc2hvdWxkTGlzdCwgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1471,13 +1459,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgXywgdmVyIDo9IHJhbmdlIHZlcnNpb25zIHsKCQkJcHJpbnRsbih2ZXIpCgkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>inoremap : ;</text>
       </register>
     </registers>
     <search>
@@ -1513,17 +1501,12 @@
         <entry encoding="base64">XDxjc3NcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCA7IDxFc2M+bw==</entry>
-        <entry encoding="base64">aW1hcCA8TS1zPiA8RW5kPiw8Q1I+</entry>
-        <entry>wq</entry>
-        <entry>action ChangesView.Commit</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+IGIqPEVzYz4g</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
@@ -1533,6 +1516,11 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+IGJpKjxFc2M+</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>inoremap ' &quot;</entry>
+        <entry>inoremap &quot; '</entry>
+        <entry>inoremap ; :</entry>
+        <entry>inoremap : ;</entry>
       </history-cmd>
       <history-expr />
       <history-input />
