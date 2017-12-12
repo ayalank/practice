@@ -50,6 +50,9 @@
         <mark key="." line="78" column="43" />
         <mark key="^" line="78" column="43" />
       </file>
+      <file name="/a.dummy" timestamp="1513085540295">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/AIThread.java" timestamp="1497474509139">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="49" column="12" />
@@ -150,12 +153,12 @@
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513081097489">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="21" />
-        <mark key="." line="72" column="21" />
-        <mark key="^" line="72" column="21" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513085789119">
+        <mark key="'" line="60" column="66" />
+        <mark key="[" line="52" column="72" />
+        <mark key="]" line="48" column="2" />
+        <mark key="." line="48" column="2" />
+        <mark key="^" line="52" column="71" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
@@ -512,6 +515,9 @@
         <mark key="]" line="52" column="35" />
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
+      </file>
+      <file name="/fragment.ts" timestamp="1513085540289">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/actions/user.ts" timestamp="1497815939885">
         <mark key="'" line="4" column="0" />
@@ -1213,12 +1219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="6" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="394" column="4" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page.tsx" />
-      <jump line="53" column="52" filename="$USER_HOME$/projects/sputnik/src/components/property/property-page-summary-bar.tsx" />
-      <jump line="9" column="63" filename="$USER_HOME$/projects/sputnik/src/components/widgets/blur.tsx" />
-      <jump line="10" column="48" filename="$USER_HOME$/projects/sputnik/src/components/widgets/blur.tsx" />
-      <jump line="78" column="35" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
       <jump line="96" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="98" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
       <jump line="124" column="24" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -1313,13 +1313,19 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="72" column="34" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="81" column="47" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="55" column="46" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
+      <jump line="57" column="66" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChzZCkge30K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1395,7 +1401,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiBzdXBlci5wYXJzZVByb3BzKHByb3BzKTs=</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3NcPg==</text>
@@ -1404,13 +1410,15 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKChpbnNlcnROb2RlcyB8fCBpbnNlcnRGbG9vcnMpICYmIChwcm9wZXJ0eS5kaXNwbGF5Q2F0ZWdvcnkgPT0gJ0l0ZW0nICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdMYXllcicpKSB7CiAgICAgICAgICAgICAgbGV2ZWxJZCA9IHBhcnNlSW50KHByb3BlcnR5LmRpc3BsYXlWYWx1ZSkudG9TdHJpbmcoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluc2VydEZsb29ycyAmJiBwcm9wZXJ0eS5kaXNwbGF5Q2F0ZWdvcnkgPT0gJ0l0ZW0nICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdOYW1lJyAmJiBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgPT0gJ0Zsb29yJykgewogICAgICAgICAgICAgIGlzRmxvb3JOb2RlID0gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAocHJvcGVydHkuZGlzcGxheU5hbWUgPT0gJ1NvdXJjZSBGaWxlJykgewogICAgICAgICAgICAgIGxheWVySWQgPSB0aWRoYXJMYXllck1hcFtwcm9wZXJ0eS5kaXNwbGF5VmFsdWVdOwoKICAgICAgICAgICAgICBpZiAoIWxheWVySWQpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdVbmtub3duIFNvdXJjZSBGaWxlIHByb3BlcnR5IHZhbHVlOiBbJyArIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSArICddJyk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChzZCkge30K</text>
+        <text encoding="base64">ICAgIHByb3BzLmZvckVhY2gocCA9PiBwLmRpc3BsYXlDYXRlZ29yeSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text>for (const prop of props) {
+
+    }</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1441,20 +1449,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBMRVZFTHpfSURTOiB7IFtpbmRleDogc3RyaW5nXTogc3RyaW5nIH0gPSB7CiAgICAnUkEtUy1CdWlsZGluZzIwMTcucnZ0JzogJ1N0cnVjdHVyZScsCiAgICAnUkEtQS1CdWlsZGluZy5ydnQnOiAnQXJjaGl0ZWN0dXJlJwogIH07CgogIHBhcnNlUHJvcHMocHJvcHM6IEFEUHJvcGVydGllcyk6IE5vZGVEZXRhaWxzIHsKICAgIGNvbnN0IGdyb3VwZWRQcm9wcyA9IHByb3BzTWFwRnJvbShwcm9wcyk7CiAgICBjb25zdCBsdmxJRFByb3AgPSB0aGlzLnNob3VsZERldGVjdExldmVsSUQoKSAmJiBnZXQoJ0xheWVyLmRpc3BsYXlDYXRlZ29yeScpID09PSAnSXRlbScgJiYgZ3JvdXBlZFByb3BzLkxheWVyOyAKICAgIGNvbnN0IGxldmVsSUQgPSBsdmxJRFByb3AgJiYgcGFyc2VJbnQobHZsSURQcm9wLmRpc3BsYXlWYWx1ZSwgMTApLnRvU3RyaW5nKCk7CgogICAgY29uc3QgaXNGbG9vck5vZGUgPSAhIVRpZGhhci5kZXRlY3RGbG9vck5vZGUocHJvcHMpOwoKICAgIHJldHVybiB7IGxldmVsSUQsIGlzRmxvb3JOb2RlIH07CgogICAgaWYgKHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdTb3VyY2UgRmlsZScpIHsKICAgICAgbGF5ZXJJZCA9IHRpZGhhckxheWVyTWFwWyBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgXTsKCiAgICAgIGlmICghbGF5ZXJJZCkgewogICAgICAgIGNvbnNvbGUubG9nKCdVbmtub3duIFNvdXJjZSBGaWxlIHByb3BlcnR5IHZhbHVlOiBbJyArIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSArICddJyk7CiAgICAgIH0KICAgIH0KICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwYXJzZVByb3BzKHByb3BzOiBBdXRvZGVzay5WaWV3aW5nLlByb3BlcnR5W10pOiBOb2RlRGV0YWlscyB7CgogICAgaWYgKChpbnNlcnROb2RlcyB8fCBpbnNlcnRGbG9vcnMpICYmIChwcm9wZXJ0eS5kaXNwbGF5Q2F0ZWdvcnkgPT0gJ0l0ZW0nICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdMYXllcicpKSB7CiAgICAgIGxldmVsSWQgPSBwYXJzZUludChwcm9wZXJ0eS5kaXNwbGF5VmFsdWUpLnRvU3RyaW5nKCk7CiAgICB9CgogICAgaWYgKGluc2VydEZsb29ycyAmJiBwcm9wZXJ0eS5kaXNwbGF5Q2F0ZWdvcnkgPT0gJ0l0ZW0nICYmIHByb3BlcnR5LmRpc3BsYXlOYW1lID09ICdOYW1lJyAmJiBwcm9wZXJ0eS5kaXNwbGF5VmFsdWUgPT0gJ0Zsb29yJykgewogICAgICBpc0Zsb29yTm9kZSA9IHRydWU7CiAgICB9CiAgICBpZiAocHJvcGVydHkuZGlzcGxheU5hbWUgPT0gJ1NvdXJjZSBGaWxlJykgewogICAgICBsYXllcklkID0gdGlkaGFyTGF5ZXJNYXBbIHByb3BlcnR5LmRpc3BsYXlWYWx1ZSBdOwoKICAgICAgaWYgKCFsYXllcklkKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1Vua25vd24gU291cmNlIEZpbGUgcHJvcGVydHkgdmFsdWU6IFsnICsgcHJvcGVydHkuZGlzcGxheVZhbHVlICsgJ10nKTsKICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGV0ZWN0Rmxvb3JOb2RlID0gZmluZCh7IGRpc3BsYXlDYXRlZ29yeTogJ0l0ZW0nLCBkaXNwbGF5TmFtZTogJ05hbWUnLCBkaXNwbGF5VmFsdWU6ICdGbG9vcicgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb3BzTWFwID0gcHJvcHNNYXBGcm9tKHByb3BzKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGV0ZWN0TGV2ZWxJRCA9IGdldCgnTGF5ZXIuZGlzcGxheUNhdGVnb3J5JykgZmluZCh7IGRpc3BsYXlDYXRlZ29yeTogJ0l0ZW0nLCBkaXNwbGF5TmFtZTogJ0xheWVyJyB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwZWRQcm9wcyA9IHByb3BzTWFwRnJvbShwcm9wcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiInJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2hvdWxkRGV0ZWN0TGV2ZWxJRCgpICYmIHByb3BzTWFwLkxheWVyICYmIHByb3BzTWFwLkxheWVyWzBdLmRpc3BsYXlDYXRlZ29yeSA9PT0gJ0l0ZW0nICYmIHBhcnNlSW50KHByb3BzTWFwLkxheWVyLmRpc3BsYXlWYWx1ZSwgMTApLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1467,13 +1475,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZSA6PSAK</text>
+        <text encoding="base64">ICAgIGlmIChzZCkge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgKmhlbGxvIHN0cmluZyA9ICYiZGZkZmRmIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1509,26 +1517,26 @@
         <entry encoding="base64">XDxjc3NcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>inoremap ; :</entry>
-        <entry>inoremap : ;</entry>
-        <entry>inoremap ' '</entry>
-        <entry encoding="base64">aW5vcmVtYXAgNyAmIGlub3JlbWFwICYgNyBpbm9yZW1hcCA4ICogaW5vcmVtYXAgKiA4IA==</entry>
-        <entry encoding="base64">aW5vcmVtYXAgNyAm</entry>
-        <entry encoding="base64">aW5vcmVtYXAgJiA3</entry>
-        <entry>inoremap 8 *</entry>
-        <entry>inoremap * 8</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry encoding="base64">aW1hcCA8TS1vPiA6YWN0aW9uIEltcGxlbWVudE1ldGhvZHM8Q1I+</entry>
-        <entry>actionlist implement</entry>
-        <entry>q</entry>
-        <entry>action GotoFile</entry>
-        <entry encoding="base64">aW1hcCA8Qy1vPiA6YWN0aW9uIEltcGxlbWVudE1ldGhvZHM8Q1I+</entry>
-        <entry encoding="base64">aW1hcCA8Qy1vPiA6YWN0aW9uIE92ZXJyaWRlTWV0aG9kczxDUj4=</entry>
-        <entry>action ReformatCode</entry>
+        <entry>actionlist introduce</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj4=</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA6PGJzPjxicz48YnM+PGJzPjxicz48YnM+YWN0aW9uIFZpbVZpc3VhbFN3YXBTZWxlY3Rpb25zPGNyPjphY3Rpb24gSW50cm9kdWNlVmFyaWFibGU8Y3I+aQ==</entry>
+        <entry encoding="base64">dm1hcCA8c3BhY2U+IDo8YnM+PGJzPjxicz48YnM+PGJzPmFjdGlvbiBWaW1WaXN1YWxTd2FwU2VsZWN0aW9uczxjcj46YWN0aW9uIEludHJvZHVjZVZhcmlhYmxlPGNyPmk=</entry>
         <entry>action AceAction</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+IDphY3Rpb24gSW50cm9kdWNlVmFyaWFibGU8Q1I+</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+IDphY3Rpb24gSW50cm9kdWNlVmFyaWFibGU8Q1I+aQ==</entry>
+        <entry>action ExtractMethod</entry>
+        <entry>action IntroduceConstant</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+aDphY3Rpb24gSW50cm9kdWNlVmFyaWFibGU8Y3I+aQ==</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5pIA==</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry encoding="base64">dm5vcmVtYXAgKCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VGaWVsZDxjcj5p</entry>
+        <entry encoding="base64">dm5vcmVtYXAgcCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VDb25zdGFudDxjcj5p</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action IntroduceField</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
