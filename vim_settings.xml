@@ -996,12 +996,12 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513176164538">
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513176331501">
         <mark key="'" line="157" column="8" />
         <mark key="[" line="139" column="50" />
-        <mark key="]" line="139" column="50" />
-        <mark key="." line="139" column="50" />
-        <mark key="^" line="139" column="34" />
+        <mark key="]" line="139" column="54" />
+        <mark key="." line="139" column="54" />
+        <mark key="^" line="139" column="54" />
       </file>
       <file name="$USER_HOME$/projects/chopper/.idea/httpRequests/http-requests-log.http" timestamp="1513094395421" />
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
@@ -1355,7 +1355,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ebury</text>
+        <text>willmott</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1431,7 +1431,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ebury</text>
+        <text>willmott</text>
       </register>
       <register name="/" type="4">
         <text>isstring</text>
