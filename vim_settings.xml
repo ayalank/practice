@@ -996,12 +996,12 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513176331501">
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513180227848">
         <mark key="'" line="157" column="8" />
-        <mark key="[" line="139" column="50" />
-        <mark key="]" line="139" column="54" />
-        <mark key="." line="139" column="54" />
-        <mark key="^" line="139" column="54" />
+        <mark key="[" line="149" column="13" />
+        <mark key="]" line="149" column="13" />
+        <mark key="." line="149" column="13" />
+        <mark key="^" line="149" column="13" />
       </file>
       <file name="$USER_HOME$/projects/chopper/.idea/httpRequests/http-requests-log.http" timestamp="1513094395421" />
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
@@ -1355,7 +1355,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>willmott</text>
+        <text>boundingBox.max.z</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1431,7 +1431,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>willmott</text>
+        <text>boundingBox.max.z</text>
       </register>
       <register name="/" type="4">
         <text>isstring</text>
@@ -1509,7 +1509,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1553,7 +1553,6 @@
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUmVhcnJhbmdlQ29kZTxDUj4=</entry>
         <entry>action ExtractMethod</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action RearrangeCode</entry>
         <entry>nmap @ viw</entry>
         <entry>action RenameElement</entry>
         <entry>action IntroduceField</entry>
@@ -1561,10 +1560,11 @@
         <entry>action IntroduceVariable</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RearrangeCode</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
