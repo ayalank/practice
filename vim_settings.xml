@@ -939,11 +939,11 @@
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513093979925">
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513160100044">
         <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="56" />
-        <mark key="^" line="20" column="56" />
-        <mark key="." line="20" column="56" />
+        <mark key="]" line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="20" column="68" />
       </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513089692089">
         <mark key="[" line="1" column="0" />
@@ -1509,7 +1509,7 @@
         <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1545,7 +1545,6 @@
         <entry>isstring</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5pIA==</entry>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgKCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VGaWVsZDxjcj5p</entry>
@@ -1565,6 +1564,7 @@
         <entry>action EditorSplitLine</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
