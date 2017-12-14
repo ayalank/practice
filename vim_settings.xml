@@ -604,7 +604,7 @@
         <mark key="]" line="73" column="24" />
         <mark key="." line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/Scene.tsx" timestamp="1513240386791" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/Scene.tsx" timestamp="1513241674382" />
       <file name="$USER_HOME$/projects/4inrow/src/main/Gui.java" timestamp="1497469774217">
         <mark key="[" line="108" column="25" />
         <mark key="]" line="108" column="27" />
@@ -1510,7 +1510,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action RearrangeCode</text>
       </register>
     </registers>
     <search>
@@ -1563,9 +1563,9 @@
         <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action RearrangeCode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RearrangeCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
