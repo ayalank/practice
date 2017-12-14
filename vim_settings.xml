@@ -1021,12 +1021,11 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513245342404">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513246042645">
+        <mark key="'" line="87" column="44" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
@@ -1273,13 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
-      <jump line="8" column="11" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
-      <jump line="14" column="8" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
-      <jump line="21" column="8" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-assets/top-assets.tsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/sputnik/src/components/top-assets/top-assets.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/sputnik/src/core/lib/route-paths.ts" />
       <jump line="14" column="26" filename="$USER_HOME$/projects/sputnik/src/core/lib/route-paths.ts" />
       <jump line="106" column="25" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -1373,13 +1365,20 @@
       <jump line="131" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="82" column="73" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="9" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="118" column="30" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="22" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="143" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="23" column="11" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="19" column="11" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="87" column="44" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>...</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1455,22 +1454,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
-        <text>model.layer</text>
+        <text>nolevelnode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5hbGwocHJvbWlzZXMpLnRoZW4oKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkpCg==</text>
+        <text encoding="base64">ICAgIHNvcnRlZExldmVscy5mb3JFYWNoKGxldmVsID0+IHsKICAgICAgCiAgICB9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1502,19 +1501,21 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXRlcmF0b3JSZXN1bHQgPSBsZXZlbC5mbG9vck5vZGVzLnZhbHVlcygpLm5leHQoKQogICAgICBpZiAoaXRlcmF0b3JSZXN1bHQuZG9uZSkgewogICAgICAgIGNvbnNvbGUud2FybignTm8gRmxvb3Igbm9kZXMgZm9yIGxldmVsIFsnICsgbGV2ZWwuaWQgKyAnXS4gRGlkIG5vdCBjYWxjdWxhdGUgZmxvb3IgaGVpZ2h0IGZvciB0aGlzIGxldmVsLicpCiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgY29uc3QgZmxvb3JOb2RlID0gaXRlcmF0b3JSZXN1bHQudmFsdWUKICAgICAgbGV2ZWwuZmxvb3JIZWlnaHQgPSBhd2FpdCBnZXROb2RlSGVpZ2h0KHRoaXMudmlld2VyIS5tb2RlbCwgZmxvb3JOb2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIHNvbWV0aGluZzogRW1wdHlQcm9taXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGxheWVyUHJvcGVydHlOYW1lTWFwOiB7IFtpbmRleDogc3RyaW5nXTogc3RyaW5nIH0gPSB7CiAgICAvLyAgICAgJ0xHLUxvd2VyIEdyb3VuZCc6ICdBTEwtTEcnLAogICAgLy8gICAgICdSRVNJIEdGLUdyb3VuZCBGbG9vcic6ICdSRVNJLUdGJywKICAgIC8vICAgICAnUkVTSSAwMS1MZXZlbCAxJzogJ1JFU0ktMDEnLAogICAgLy8gICAgICdSRVNJIDAyLUxldmVsIDInOiAnUkVTSS0wMicsCiAgICAvLyAgICAgJ1JFU0kgMDMtTGV2ZWwgMyc6ICdSRVNJLTAzJywKICAgIC8vICAgICAnUkVTSSAwNC1MZXZlbCA0JzogJ1JFU0ktMDQnLAogICAgLy8gICAgICdSRVNJIDA1LUxldmVsIDUnOiAnUkVTSS0wNScsCiAgICAvLyAgICAgJ1JFU0kgMDYtTGV2ZWwgNic6ICdSRVNJLTA2JywKICAgIC8vICAgICAnUkVTSSAwNy1MZXZlbCA3JzogJ1JFU0ktMDcnLAogICAgLy8gICAgICdSRVNJIDA4LUxldmVsIDgnOiAnUkVTSS0wOCcsCiAgICAvLyAgICAgJ1JFU0kgMDktTGV2ZWwgOSc6ICdSRVNJLTA5JywKICAgIC8vICAgICAnUkVTSSAxMC1MZXZlbDEwJzogJ1JFU0ktMTAnLAogICAgLy8gICAgICdSRVNJIFJGLVJvb2YgTGV2ZWwnOiAnUkVTSS1SRicsCiAgICAvLyAgICAgJ1JFU0kgUFJGLVBsYW50IFJvb2YnOiAnUkVTSS1SRicsCiAgICAvLyAgICAgJ1VUQyBHRi1Hcm91bmQgRmxvb3InOiAnVVRDLUdGJywKICAgIC8vICAgICAnVVRDLUxldmVsIDEnOiAnVVRDLTAxJywKICAgIC8vICAgICAnVVRDIDAyLUxldmVsIDInOiAnVVRDLTAyJywKICAgIC8vICAgICAnVVRDIDAzLUxldmVsIDMnOiAnVVRDLTAzJywKICAgIC8vICAgICAnVVRDIDA0LUxldmVsIDQnOiAnVVRDLTA0JywKICAgIC8vICAgICAnVVRDIDA1LUxldmVsIDUnOiAnVVRDLTA1JywKICAgIC8vICAgICAnVVRDIFJGLVJvb2YnOiAnVVRDLVJGJwogICAgLy8gfQoK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG5hbWVNYXA6IHsgW2luZGV4OiBzdHJpbmddOiBzdHJpbmcgfSA9IHsKICAgIC8vICAgICAnTGV2ZWw6IFJFU0kgR1JPVU5EIExFVkVMJzogJ1JFU0ktR0YnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCAxJzogJ1JFU0ktMDEnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCAyJzogJ1JFU0ktMDInLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCAzJzogJ1JFU0ktMDMnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA0JzogJ1JFU0ktMDQnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA1JzogJ1JFU0ktMDUnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA2JzogJ1JFU0ktMDYnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA3JzogJ1JFU0ktMDcnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA4JzogJ1JFU0ktMDgnLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCA5JzogJ1JFU0ktMDknLAogICAgLy8gICAgICdMZXZlbDogUkVTSSBMRVZFTCAxMCc6ICdSRVNJLTEwJywKICAgIC8vICAgICAnTGV2ZWw6IFJFU0kgUk9PRic6ICdSRVNJLVJGJywKICAgIC8vICAgICAnTGV2ZWw6IExPV0VSIEdST1VORCBMRVZFTCc6ICdVVEMtTEcnLAogICAgLy8gICAgICdMZXZlbDogVVRDIEdST1VORCBMRVZFTCc6ICdVVEMtR0YnLAogICAgLy8gICAgICdMZXZlbDogVVRDIExFVkVMIDEnOiAnVVRDLTAxJywKICAgIC8vICAgICAnTGV2ZWw6IFVUQyBMRVZFTCAyJzogJ1VUQy0wMicsCiAgICAvLyAgICAgJ0xldmVsOiBVVEMgTEVWRUwgMyc6ICdVVEMtMDMnLAogICAgLy8gICAgICdMZXZlbDogVVRDIExFVkVMIDQnOiAnVVRDLTA0JywKICAgIC8vICAgICAnTGV2ZWw6IFVUQyBMRVZFTCA1JzogJ1VUQy0wNScsCiAgICAvLyAgICAgJ0xldmVsOiBVVEMgUk9PRic6ICdVVEMtUkYnCiAgICAvLyB9OwoK</text>
+      <register name="6" type="4">
+        <text>{
+
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc29tZXRoaW5nIGluIHRoZSB3YXkgc2hlIG1vdmVzCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGEuaWQgPCBiLmlkKSB7CiAgICAgICAgcmV0dXJuIC0xCiAgICAgIH0gZWxzZSBpZiAoYS5pZCA+IGIuaWQpIHsKICAgICAgICByZXR1cm4gMQogICAgICB9CiAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1527,19 +1528,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRpc3Bvc2VyczogQXJyYXk8SVJlYWN0aW9uRGlzcG9zZXI+ID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdpbGxtb3R0TGF5ZXJNYXA6IHsgW2luZGV4OiBzdHJpbmddOiBzdHJpbmcgfSA9IHsKICAgICAgJzE1MzEtRkFJLVMtMkEtWlotTTMtU3RydWN0dXJlLnJ2dCc6ICdTdHJ1Y3R1cmUnLAogICAgICAnMTUzMS1BQVItQS0yQS1aWi1NMy1NYWluX21vZGVsX1dTXzIwMTYucnZ0JzogJ0FyY2hpdGVjdHVyZScsCiAgICAgICdNRVAgMjAxNyBoYWxmIG1vZGVsLnJ2dCc6ICdNRVAnLAogICAgfQoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAgICBpZiAoYS5pZCA8IGIuaWQpIHsKICAgICAgICByZXR1cm4gLTEKICAgICAgfSBlbHNlIGlmIChhLmlkID4gYi5pZCkgewogICAgICAgIHJldHVybiAxCiAgICAgIH0KCiAgICAgIHJldHVybiAwCiAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageUp</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>model.layer</last-search>
+      <last-search>nolevelnode</last-search>
       <last-offset />
-      <last-pattern>model.layer</last-pattern>
+      <last-pattern>nolevelnode</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1547,8 +1548,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxXYWl0R3JvdXBcPg==</entry>
         <entry encoding="base64">XDxhcnJcPg==</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry encoding="base64">XDx2MVw+</entry>
@@ -1567,6 +1566,8 @@
         <entry>nodedetails</entry>
         <entry>start</entry>
         <entry>model.layer</entry>
+        <entry>window.</entry>
+        <entry>nolevelnode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
@@ -1584,11 +1585,11 @@
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
