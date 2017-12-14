@@ -1021,11 +1021,12 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513246042645">
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513246593328">
         <mark key="'" line="87" column="44" />
-        <mark key="]" line="53" column="7" />
-        <mark key="." line="53" column="7" />
-        <mark key="^" line="53" column="7" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
@@ -1377,8 +1378,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>...</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1463,7 +1464,7 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvcnRlZExldmVscy5mb3JFYWNoKGxldmVsID0+IHsKICAgICAgCiAgICB9KQo=</text>
+        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1501,21 +1502,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXRlcmF0b3JSZXN1bHQgPSBsZXZlbC5mbG9vck5vZGVzLnZhbHVlcygpLm5leHQoKQogICAgICBpZiAoaXRlcmF0b3JSZXN1bHQuZG9uZSkgewogICAgICAgIGNvbnNvbGUud2FybignTm8gRmxvb3Igbm9kZXMgZm9yIGxldmVsIFsnICsgbGV2ZWwuaWQgKyAnXS4gRGlkIG5vdCBjYWxjdWxhdGUgZmxvb3IgaGVpZ2h0IGZvciB0aGlzIGxldmVsLicpCiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgY29uc3QgZmxvb3JOb2RlID0gaXRlcmF0b3JSZXN1bHQudmFsdWUKICAgICAgbGV2ZWwuZmxvb3JIZWlnaHQgPSBhd2FpdCBnZXROb2RlSGVpZ2h0KHRoaXMudmlld2VyIS5tb2RlbCwgZmxvb3JOb2RlKQo=</text>
+        <text encoding="base64">ICAgIHNvcnRlZExldmVscy5mb3JFYWNoKGxldmVsID0+IHsKICAgICAgCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXRlcmF0b3JSZXN1bHQgPSBsZXZlbC5mbG9vck5vZGVzLnZhbHVlcygpLm5leHQoKQogICAgICBpZiAoaXRlcmF0b3JSZXN1bHQuZG9uZSkgewogICAgICAgIGNvbnNvbGUud2FybignTm8gRmxvb3Igbm9kZXMgZm9yIGxldmVsIFsnICsgbGV2ZWwuaWQgKyAnXS4gRGlkIG5vdCBjYWxjdWxhdGUgZmxvb3IgaGVpZ2h0IGZvciB0aGlzIGxldmVsLicpCiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgY29uc3QgZmxvb3JOb2RlID0gaXRlcmF0b3JSZXN1bHQudmFsdWUKICAgICAgbGV2ZWwuZmxvb3JIZWlnaHQgPSBhd2FpdCBnZXROb2RlSGVpZ2h0KHRoaXMudmlld2VyIS5tb2RlbCwgZmxvb3JOb2RlKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGEuaWQgPCBiLmlkKSB7CiAgICAgICAgcmV0dXJuIC0xCiAgICAgIH0gZWxzZSBpZiAoYS5pZCA+IGIuaWQpIHsKICAgICAgICByZXR1cm4gMQogICAgICB9CiAgICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1527,14 +1526,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICBpZiAoYS5pZCA8IGIuaWQpIHsKICAgICAgICByZXR1cm4gLTEKICAgICAgfSBlbHNlIGlmIChhLmlkID4gYi5pZCkgewogICAgICAgIHJldHVybiAxCiAgICAgIH0KCiAgICAgIHJldHVybiAwCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGEuaWQgPCBiLmlkKSB7CiAgICAgICAgcmV0dXJuIC0xCiAgICAgIH0gZWxzZSBpZiAoYS5pZCA+IGIuaWQpIHsKICAgICAgICByZXR1cm4gMQogICAgICB9CiAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
@@ -1580,16 +1581,16 @@
         <entry>action RearrangeCode</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
