@@ -643,6 +643,12 @@
         <mark key="^" line="20" column="36" />
         <mark key="." line="20" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/utils/output.ts" timestamp="1513242351007">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1496906953047">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="97" column="53" />
@@ -940,17 +946,18 @@
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513160100044">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="68" />
-        <mark key="^" line="20" column="68" />
-        <mark key="." line="20" column="68" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513242921611">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513177492502">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513242821050">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-map-filter.tsx" timestamp="1498643295900">
         <mark key="[" line="0" column="0" />
@@ -1250,8 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="14" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
-      <jump line="10" column="91" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
       <jump line="35" column="22" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
       <jump line="42" column="38" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
       <jump line="44" column="28" filename="$USER_HOME$/projects/sputnik/src/components/landing/how-it-works.tsx" />
@@ -1350,13 +1355,15 @@
       <jump line="160" column="30" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="275" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="157" column="8" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
+      <jump line="16" column="38" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" />
+      <jump line="0" column="25" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>boundingBox.max.z</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1432,10 +1439,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>boundingBox.max.z</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>isstring</text>
+        <text>nodedetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
@@ -1510,13 +1517,13 @@
         <text encoding="base64">ICAgICAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RearrangeCode</text>
+        <text>action EditorDuplicateLines</text>
       </register>
     </registers>
     <search>
-      <last-search>isstring</last-search>
+      <last-search>nodedetails</last-search>
       <last-offset />
-      <last-pattern>isstring</last-pattern>
+      <last-pattern>nodedetails</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1524,7 +1531,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -1544,9 +1550,9 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxjc3NcPg==</entry>
         <entry>isstring</entry>
+        <entry>nodedetails</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VWYXJpYWJsZTxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgKCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VGaWVsZDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgcCA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBJbnRyb2R1Y2VDb25zdGFudDxjcj5p</entry>
         <entry encoding="base64">dm5vcmVtYXAgPGVudGVyPiA8RXNjPmd2aGg6PGJzPjxicz48YnM+PGJzPjxicz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM8Y3I+OmFjdGlvbiBFeHRyYWN0TWV0aG9kPGNyPmk=</entry>
@@ -1558,14 +1564,15 @@
         <entry>action RenameElement</entry>
         <entry>action IntroduceField</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RearrangeCode</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action EditorDuplicateLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1669,6 +1676,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta alt pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
