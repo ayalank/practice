@@ -1534,7 +1534,7 @@
         <text encoding="base64">ewogICAgICBpZiAoYS5pZCA8IGIuaWQpIHsKICAgICAgICByZXR1cm4gLTEKICAgICAgfSBlbHNlIGlmIChhLmlkID4gYi5pZCkgewogICAgICAgIHJldHVybiAxCiAgICAgIH0KCiAgICAgIHJldHVybiAwCiAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1581,7 +1581,6 @@
         <entry>action IntroduceVariable</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
@@ -1590,6 +1589,7 @@
         <entry>action ReformatCode</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
