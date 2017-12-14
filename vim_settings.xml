@@ -604,6 +604,7 @@
         <mark key="]" line="73" column="24" />
         <mark key="." line="73" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/Scene.tsx" timestamp="1513240386791" />
       <file name="$USER_HOME$/projects/4inrow/src/main/Gui.java" timestamp="1497469774217">
         <mark key="[" line="108" column="25" />
         <mark key="]" line="108" column="27" />
@@ -996,7 +997,7 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513180227848">
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513240109161">
         <mark key="'" line="157" column="8" />
         <mark key="[" line="149" column="13" />
         <mark key="]" line="149" column="13" />
@@ -1509,7 +1510,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgaXNGbG9vck5vZGUgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1562,9 +1563,9 @@
         <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RearrangeCode</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
