@@ -723,11 +723,11 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1499710705817">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513247341122">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/labeled-box.tsx" timestamp="1496305897564">
         <mark key="'" line="9" column="21" />
@@ -1021,12 +1021,12 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513246593328">
-        <mark key="'" line="87" column="44" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513246908801">
+        <mark key="'" line="93" column="44" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
@@ -1378,8 +1378,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>2048</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1455,7 +1455,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>2048</text>
       </register>
       <register name="/" type="4">
         <text>nolevelnode</text>
