@@ -1021,11 +1021,11 @@
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513247556354">
-        <mark key="'" line="87" column="4" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513500146063">
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="27" />
+        <mark key="." line="71" column="27" />
+        <mark key="^" line="71" column="27" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
@@ -1377,8 +1377,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5vZGVDb3VudA==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1454,7 +1454,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text encoding="base64">IG5vZGVDb3VudA==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -1532,7 +1532,7 @@
         <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action IntroduceVariable</text>
       </register>
     </registers>
     <search>
@@ -1574,9 +1574,7 @@
         <entry>action ExtractMethod</entry>
         <entry>nmap @ viw</entry>
         <entry>action IntroduceField</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action RearrangeCode</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
@@ -1588,6 +1586,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action IntroduceVariable</entry>
       </history-cmd>
       <history-expr />
       <history-input />
