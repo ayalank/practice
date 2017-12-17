@@ -43,6 +43,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/.gitignore" timestamp="1513521248118">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/reducers/property.ts" timestamp="1489329868100">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="78" column="41" />
@@ -160,12 +166,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="25" column="89" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" timestamp="1513095178190">
-        <mark key="'" line="11" column="58" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/go/viewer-fetcher/main.go" timestamp="1506431534253">
         <mark key="[" line="9" column="0" />
@@ -444,12 +444,6 @@
         <mark key="^" line="33" column="64" />
         <mark key="." line="33" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/utils/viewer.ts" timestamp="1513244987829">
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="57" column="13" />
-        <mark key="." line="57" column="13" />
-        <mark key="^" line="57" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/report-page.tsx" timestamp="1497101329224">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="44" />
@@ -610,12 +604,6 @@
         <mark key="]" line="73" column="24" />
         <mark key="." line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/Scene.tsx" timestamp="1513244201532">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/Gui.java" timestamp="1497469774217">
         <mark key="[" line="108" column="25" />
         <mark key="]" line="108" column="27" />
@@ -653,12 +641,6 @@
         <mark key="]" line="20" column="36" />
         <mark key="^" line="20" column="36" />
         <mark key="." line="20" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/chopper/src/utils/output.ts" timestamp="1513242351007">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-page-summary-bar.tsx" timestamp="1496906953047">
         <mark key="'" line="1" column="7" />
@@ -801,9 +783,9 @@
       </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/willmott.ts" timestamp="1513243947945">
         <mark key="[" line="12" column="3" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/client/src/components/feedback/feedback-lightbox.tsx" timestamp="1497352640640">
         <mark key="[" line="33" column="74" />
@@ -963,18 +945,8 @@
         <mark key="." line="79" column="49" />
         <mark key="^" line="79" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/base-node-mapper.ts" timestamp="1513242921611">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="24" column="42" />
-        <mark key="." line="4" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/ebury.ts" timestamp="1513242821050">
         <mark key="'" line="0" column="25" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-map-filter.tsx" timestamp="1498643295900">
         <mark key="[" line="0" column="0" />
@@ -1020,12 +992,6 @@
         <mark key="]" line="118" column="53" />
         <mark key="^" line="118" column="53" />
         <mark key="." line="118" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" timestamp="1513500146063">
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="71" column="27" />
-        <mark key="." line="71" column="27" />
-        <mark key="^" line="71" column="27" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/content/terms.json" timestamp="1497511748668">
         <mark key="[" line="3" column="83" />
@@ -1377,8 +1343,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5vZGVDb3VudA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1463,13 +1429,13 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKHRyZWUuZ2V0Um9vdElkKCkpCg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1501,19 +1467,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LnZzY29kZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvcnRlZExldmVscy5mb3JFYWNoKGxldmVsID0+IHsKICAgICAgCiAgICB9KQo=</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXRlcmF0b3JSZXN1bHQgPSBsZXZlbC5mbG9vck5vZGVzLnZhbHVlcygpLm5leHQoKQogICAgICBpZiAoaXRlcmF0b3JSZXN1bHQuZG9uZSkgewogICAgICAgIGNvbnNvbGUud2FybignTm8gRmxvb3Igbm9kZXMgZm9yIGxldmVsIFsnICsgbGV2ZWwuaWQgKyAnXS4gRGlkIG5vdCBjYWxjdWxhdGUgZmxvb3IgaGVpZ2h0IGZvciB0aGlzIGxldmVsLicpCiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgY29uc3QgZmxvb3JOb2RlID0gaXRlcmF0b3JSZXN1bHQudmFsdWUKICAgICAgbGV2ZWwuZmxvb3JIZWlnaHQgPSBhd2FpdCBnZXROb2RlSGVpZ2h0KHRoaXMudmlld2VyIS5tb2RlbCwgZmxvb3JOb2RlKQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKHRyZWUuZ2V0Um9vdElkKCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1526,13 +1492,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceVariable</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1581,13 +1547,13 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
