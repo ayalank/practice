@@ -476,6 +476,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/chopper/src/modules/Scene/Layer.ts" timestamp="1514111300583">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="0" column="31" />
@@ -1344,7 +1350,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1429,13 +1435,13 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1467,19 +1473,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">LmlkZWEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LnZzY29kZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LmlkZWEK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKHRyZWUuZ2V0Um9vdElkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1492,13 +1498,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRyYXZlcnNlKHRyZWUuZ2V0Um9vdElkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action IntroduceVariable</text>
       </register>
     </registers>
     <search>
@@ -1552,8 +1558,8 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action GotoFile</entry>
+        <entry>action IntroduceVariable</entry>
       </history-cmd>
       <history-expr />
       <history-input />
