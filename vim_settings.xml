@@ -72,6 +72,12 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/.gitignore" timestamp="1516034301827">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-flip-asset.ts" timestamp="1496051285498">
         <mark key="'" line="36" column="25" />
         <mark key="[" line="26" column="70" />
@@ -972,6 +978,11 @@
         <mark key="." line="216" column="16" />
         <mark key="^" line="216" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516034704400">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/layout-block.tsx" timestamp="1488098679527">
         <mark key="'" line="6" column="54" />
         <mark key="[" line="2" column="7" />
@@ -1253,6 +1264,9 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/tslint.json" timestamp="1516034420126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-buy-hold-asset.ts" timestamp="1496137415433">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="15" column="15" />
@@ -1398,8 +1412,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1484,13 +1498,13 @@
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1522,19 +1536,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
+        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5zY2VuZS5zZWxlY3RMZXZlbCh0aGlzLnNjZW5lLnNlbGVjdGVkTGV2ZWwhLmxldmVsLmlkLCBmYWxzZSwgZmFsc2UpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1547,10 +1561,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5zY2VuZS5zZWxlY3RMZXZlbCh0aGlzLnNjZW5lLnNlbGVjdGVkTGV2ZWwhLmxldmVsLmlkLCBmYWxzZSwgZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OptimizeImports</text>
@@ -1604,10 +1618,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
+        <entry>action GotoFile</entry>
         <entry>action OptimizeImports</entry>
       </history-cmd>
       <history-expr />
