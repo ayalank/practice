@@ -56,11 +56,12 @@
         <mark key="." line="78" column="43" />
         <mark key="^" line="78" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" timestamp="1516019784731">
-        <mark key="[" line="122" column="81" />
-        <mark key="]" line="123" column="31" />
-        <mark key="." line="123" column="31" />
-        <mark key="^" line="123" column="31" />
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" timestamp="1516029672744">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1513085540295">
         <mark key="[" line="0" column="0" />
@@ -693,7 +694,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" timestamp="1516019855277">
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" timestamp="1516029301889">
         <mark key="'" line="152" column="9" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/make-offer.tsx" timestamp="1496836169958">
@@ -1269,9 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="36" filename="$USER_HOME$/projects/sputnik/src/components/landing/all-investors.tsx" />
-      <jump line="18" column="26" filename="$USER_HOME$/projects/sputnik/src/components/landing/all-investors.tsx" />
-      <jump line="37" column="26" filename="$USER_HOME$/projects/sputnik/src/components/landing/all-investors.tsx" />
       <jump line="54" column="21" filename="$USER_HOME$/projects/sputnik/src/components/landing/testimonials.tsx" />
       <jump line="51" column="50" filename="$USER_HOME$/projects/sputnik/src/assets/css/lib/styles/backgrounds.styl" />
       <jump line="54" column="31" filename="$USER_HOME$/projects/sputnik/src/pages/home.tsx" />
@@ -1369,13 +1367,16 @@
       <jump line="198" column="12" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="152" column="9" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/Bridge/Bridge.ts" />
+      <jump line="113" column="4" filename="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" />
+      <jump line="125" column="19" filename="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" />
+      <jump line="74" column="2" filename="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5zY2VuZS5zZWxlY3RMZXZlbCh0aGlzLnNjZW5lLnNlbGVjdGVkTGV2ZWwhLmxldmVsLmlkLCBmYWxzZSwgZmFsc2UpCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1451,22 +1452,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Level</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>prevlevelsele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5zY2VuZS5zZWxlY3RMZXZlbCh0aGlzLnNjZW5lLnNlbGVjdGVkTGV2ZWwhLmxldmVsLmlkLCBmYWxzZSwgZmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1498,16 +1499,16 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">LnZzY29kZQo=</text>
@@ -1529,13 +1530,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>prevlevelsele</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>prevlevelsele</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1543,7 +1544,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbGRlcml2YXRpdmVcPg==</entry>
         <entry encoding="base64">XDx2aWV3aW5nc2VydmljZVw+</entry>
         <entry encoding="base64">XDx2Mlw+</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
@@ -1563,6 +1563,7 @@
         <entry>async</entry>
         <entry>selectedlevel</entry>
         <entry>level</entry>
+        <entry>prevlevelsele</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -1580,11 +1581,11 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>actionlist optimize</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
+        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action OptimizeImports</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
