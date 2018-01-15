@@ -290,6 +290,11 @@
       <file name="/HTML File.txt.ft" timestamp="1513080717716">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.dev.config.js" timestamp="1516036324567">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/link-button.tsx" timestamp="1495455471301">
         <mark key="'" line="10" column="9" />
         <mark key="[" line="12" column="93" />
@@ -520,6 +525,12 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516036294113">
+        <mark key="[" line="11" column="101" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="0" column="31" />
@@ -637,6 +648,7 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" timestamp="1516036378540" />
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-description.tsx" timestamp="1497101886241">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="30" />
@@ -720,6 +732,13 @@
       </file>
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" timestamp="1516029301889">
         <mark key="'" line="152" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" timestamp="1516035814307">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/make-offer.tsx" timestamp="1496836169958">
         <mark key="'" line="81" column="50" />
@@ -925,6 +944,12 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/dev/plugins.js" timestamp="1516036347911">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487496062760">
         <mark key="'" line="30" column="11" />
         <mark key="[" line="9" column="35" />
@@ -978,7 +1003,7 @@
         <mark key="." line="216" column="16" />
         <mark key="^" line="216" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516034704400">
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516036446438">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -1307,8 +1332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="31" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="29" column="6" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="30" column="22" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="32" column="24" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
@@ -1407,13 +1430,15 @@
       <jump line="12" column="3" filename="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" />
       <jump line="174" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" />
       <jump line="9" column="19" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/App.tsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
+      <jump line="39" column="2" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1489,22 +1514,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>forge-viewer-adapter</text>
       </register>
       <register name="/" type="4">
-        <text>prevlevelsele</text>
+        <text>searchablelevel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1536,19 +1561,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1561,19 +1586,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5zY2VuZS5zZWxlY3RMZXZlbCh0aGlzLnNjZW5lLnNlbGVjdGVkTGV2ZWwhLmxldmVsLmlkLCBmYWxzZSwgZmFsc2UpCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>prevlevelsele</last-search>
+      <last-search>searchablelevel</last-search>
       <last-offset />
-      <last-pattern>prevlevelsele</last-pattern>
+      <last-pattern>searchablelevel</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1581,7 +1606,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3aW5nc2VydmljZVw+</entry>
         <entry encoding="base64">XDx2Mlw+</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
@@ -1601,6 +1625,7 @@
         <entry>selectedlevel</entry>
         <entry>level</entry>
         <entry>prevlevelsele</entry>
+        <entry>searchablelevel</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -1615,14 +1640,14 @@
         <entry>action ReformatCode</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>actionlist optimize</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
-        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
