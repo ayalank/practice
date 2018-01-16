@@ -976,6 +976,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" timestamp="1516097125922">
+        <mark key="'" line="54" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/server/package.json" timestamp="1497177739499">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
@@ -1409,11 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="55" column="46" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="57" column="66" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="51" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="54" column="26" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="70" column="12" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="251" column="126" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="226" column="35" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1509,6 +1507,11 @@
       <jump line="17372" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/@types/lodash/index.d.ts" />
       <jump line="6" column="21" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.prod.config.js" />
       <jump line="30" column="11" filename="$USER_HOME$/projects/forge-viewer-adapter/package.json" />
+      <jump line="13" column="57" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
+      <jump line="43" column="13" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
+      <jump line="51" column="20" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
+      <jump line="52" column="25" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
+      <jump line="54" column="30" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,7 +1597,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>wgs</text>
       </register>
       <register name="0" type="4">
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
@@ -1669,13 +1672,13 @@
         <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>wgs</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>wgs</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1683,7 +1686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nolevelnode</entry>
         <entry>async</entry>
         <entry>selectedlevel</entry>
         <entry>level</entry>
@@ -1703,6 +1705,7 @@
         <entry>class viewer3</entry>
         <entry>declare</entry>
         <entry>main</entry>
+        <entry>wgs</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceField</entry>
@@ -1713,7 +1716,6 @@
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
         <entry>action MoveStatementUp</entry>
@@ -1725,6 +1727,7 @@
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
