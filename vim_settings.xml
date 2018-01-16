@@ -56,12 +56,12 @@
         <mark key="." line="78" column="43" />
         <mark key="^" line="78" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" timestamp="1516115339589">
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/AR/ARStore.ts" timestamp="1516115543083">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="3" column="55" />
-        <mark key="." line="3" column="55" />
-        <mark key="^" line="3" column="55" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1513085540295">
         <mark key="[" line="0" column="0" />
@@ -351,6 +351,11 @@
         <mark key="." line="352" column="82" />
         <mark key="^" line="356" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" timestamp="1516115818632">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/landing/wow-number.tsx.ts" timestamp="1498930213709">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="18" column="8" />
@@ -431,6 +436,13 @@
         <mark key="]" line="28" column="36" />
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/Model.ts" timestamp="1516115604772">
+        <mark key="'" line="17" column="34" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/Opponent.java" timestamp="1497455698016">
         <mark key="[" line="4" column="30" />
@@ -1438,7 +1450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="19" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="195" column="23" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="236" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="200" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1538,13 +1549,14 @@
       <jump line="147" column="81" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="149" column="22" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="41" column="45" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/AppStore.ts" />
+      <jump line="17" column="34" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/Model.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXJlYU5hbWUgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyL2FyZWFzJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd29ybGQgfSA9IHRoaXMuc2VsZWN0ZWRQb2ludAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1620,22 +1632,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>../ViewerAdapter/types/viewer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXJlYU5hbWUgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyL2FyZWFzJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd29ybGQgfSA9IHRoaXMuc2VsZWN0ZWRQb2ludAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlyc3RBbGlnbm1lbnREYXRhIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci9hbGlnbm1lbnQnCg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ0Bhc3RyYWxpbmsvJwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1667,19 +1679,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWFuaWZlc3RKU09OIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci90eXBlcy92aWV3ZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTm9kZUlEIH0gZnJvbSAnLi4vLi4vU2NlbmUvVmlld2VyQ29udHJvbGxlcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVmYXVsdCBhcyBlbWJlZFZpZXdlckluLCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTm9kZUlEIH0gZnJvbSAnLi4vLi4vVmlld2VyQWRhcHRlci90eXBlcy92aWV3ZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2FtZXJhUG9zZSwgTWFuaWZlc3RKU09OLCBOb2RlSUQgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyL3R5cGVzL3ZpZXdlcicK</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlld2VyM0RBZGFwdGVyIH0gZnJvbSAnLi4vLi4vVmlld2VyQWRhcHRlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXJlYU5hbWUgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyL2FyZWFzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwcmVwYWNrIjogIm5wbSBydW4gYnVpbGQiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlyc3RBbGlnbm1lbnREYXRhIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci9hbGlnbm1lbnQnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1692,13 +1704,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hZGFwdGVyL3R5cGVzL3RocmVlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTWFuaWZlc3RKU09OIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci90eXBlcy92aWV3ZXInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZGVmYXVsdCBhcyBlbWJlZFZpZXdlckluLCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1752,8 +1764,8 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
