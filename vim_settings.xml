@@ -191,6 +191,12 @@
         <mark key="." line="52" column="79" />
         <mark key="^" line="52" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/events.ts" timestamp="1516090195899">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/4inrow/src/AI.java" timestamp="1498329666230">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="45" />
@@ -216,11 +222,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" timestamp="1516089159514">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="96" />
-        <mark key="^" line="2" column="96" />
-        <mark key="." line="2" column="96" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" timestamp="1516090042381">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1497118076746">
         <mark key="'" line="19" column="30" />
@@ -301,6 +308,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/selection.ts" timestamp="1516090230079">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/link-button.tsx" timestamp="1495455471301">
         <mark key="'" line="10" column="9" />
         <mark key="[" line="12" column="93" />
@@ -327,8 +340,8 @@
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516088579125">
-        <mark key="'" line="440" column="15" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516090109489">
+        <mark key="'" line="6101" column="26" />
         <mark key="[" line="248" column="79" />
         <mark key="]" line="248" column="79" />
         <mark key="." line="248" column="79" />
@@ -448,6 +461,12 @@
         <mark key="^" line="95" column="31" />
         <mark key="." line="95" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/nodes.ts" timestamp="1516090217630">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/navigation/hamburger.tsx" timestamp="1497109046782">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="36" column="67" />
@@ -538,9 +557,9 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516088589578">
-        <mark key="[" line="10" column="57" />
-        <mark key="]" line="10" column="57" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516089201659">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="42" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="10" column="57" />
       </file>
@@ -606,6 +625,11 @@
       <file name="/fragment.ts" timestamp="1513093237319">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/convert.ts" timestamp="1516090200063">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/actions/user.ts" timestamp="1497815939885">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="64" column="47" />
@@ -661,7 +685,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" timestamp="1516036378540" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" timestamp="1516089901379">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-description.tsx" timestamp="1497101886241">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="30" />
@@ -1103,7 +1132,13 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" timestamp="1516088108677" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" timestamp="1516090211048">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/functions.php" timestamp="1497969305513">
         <mark key="[" line="567" column="0" />
         <mark key="]" line="570" column="0" />
@@ -1165,6 +1200,11 @@
       </file>
       <file name="$USER_HOME$/projects/elixir/lib/naor.ex" timestamp="1499712217096">
         <mark key="[" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/areas.ts" timestamp="1516090204634">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/Marker.java" timestamp="1497207692496">
         <mark key="[" line="7" column="2" />
@@ -1264,6 +1304,9 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/panels/index.ts" timestamp="1516090263869">
+        <mark key="[" line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/report-list-view.tsx" timestamp="1487080629897">
         <mark key="'" line="46" column="52" />
         <mark key="[" line="21" column="24" />
@@ -1346,12 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="21" column="20" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="64" column="28" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="25" column="79" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="26" column="78" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="22" column="50" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="72" column="34" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
@@ -1446,13 +1483,19 @@
       <jump line="42" column="2" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="352" column="28" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="440" column="15" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="3" column="40" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" />
+      <jump line="6" column="107" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" />
+      <jump line="11" column="8" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" />
+      <jump line="6540" column="6" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="6101" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>index</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1528,22 +1571,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVZJU0lPTlw+</text>
+        <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlcyI6ICJkdHMtZ2VuZXJhdG9yIC0tbmFtZSBAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyIC0tcHJvamVjdCAuIC0tb3V0IGRpc3QvaW5kZXguZC50cyIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjbGVhbiI6ICJybSAiCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1575,19 +1618,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgIG5ldyB0c2J1bmRsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
+        <text encoding="base64">ICAgICJ0eXBlcyI6ICJkdHMtZ2VuZXJhdG9yIC0tbmFtZSBAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyIC0tcHJvamVjdCAuIC0tb3V0IGRpc3QvaW5kZXguZC50cyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjbGVhbiI6ICJybSAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1600,19 +1643,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRVZJU0lPTlw+</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVZJU0lPTlw+</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1620,9 +1663,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjc3NcPg==</entry>
-        <entry>isstring</entry>
-        <entry>nodedetails</entry>
         <entry>start</entry>
         <entry>model.layer</entry>
         <entry>window.</entry>
@@ -1640,6 +1680,9 @@
         <entry>class Viewer3DAdapter</entry>
         <entry>class viewer3d</entry>
         <entry encoding="base64">XDxSRVZJU0lPTlw+</entry>
+        <entry>compi</entry>
+        <entry>leaf_object</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -1650,18 +1693,18 @@
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>actionlist optimize</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action RenameElement</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
