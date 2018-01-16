@@ -216,6 +216,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/ts-bundler.js" timestamp="1516089159514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="96" />
+        <mark key="^" line="2" column="96" />
+        <mark key="." line="2" column="96" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/selectors/properties.ts" timestamp="1497118076746">
         <mark key="'" line="19" column="30" />
         <mark key="[" line="91" column="40" />
@@ -321,8 +327,12 @@
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516085710950">
-        <mark key="'" line="7115" column="14" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516088579125">
+        <mark key="'" line="440" column="15" />
+        <mark key="[" line="248" column="79" />
+        <mark key="]" line="248" column="79" />
+        <mark key="." line="248" column="79" />
+        <mark key="^" line="231" column="78" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/landing/wow-number.tsx.ts" timestamp="1498930213709">
         <mark key="[" line="9" column="6" />
@@ -528,11 +538,11 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516036294113">
-        <mark key="[" line="11" column="101" />
-        <mark key="]" line="5" column="21" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516088589578">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="57" />
         <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+        <mark key="." line="10" column="57" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
@@ -1093,6 +1103,7 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" timestamp="1516088108677" />
       <file name="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/functions.php" timestamp="1497969305513">
         <mark key="[" line="567" column="0" />
         <mark key="]" line="570" column="0" />
@@ -1335,31 +1346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="61" column="23" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="65" column="67" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="71" column="8" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="111" column="21" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="109" column="18" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="76" column="18" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="100" column="13" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="106" column="15" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="9" column="7" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="17" column="16" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="105" column="10" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="117" column="62" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="73" column="42" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="103" column="36" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="102" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="116" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="72" column="12" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="78" column="9" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="79" column="2" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="101" column="24" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="91" column="49" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="51" column="14" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="88" column="9" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="83" column="2" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="18" column="11" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="21" column="20" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="64" column="28" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
@@ -1430,18 +1416,43 @@
       <jump line="9" column="19" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/App.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
       <jump line="39" column="2" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
-      <jump line="1" column="19" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="7115" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="9" column="18" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="1" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="2" column="54" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
-      <jump line="9" column="18" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
-      <jump line="7115" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="68" column="55" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="56" column="48" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="67" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="75" column="45" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="78" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="114" column="48" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="117" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="136" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="125" column="35" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="124" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="113" column="21" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="112" column="35" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="111" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="100" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="74" column="35" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="73" column="38" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="72" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="55" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="54" column="35" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="17" column="16" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="352" column="28" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="440" column="15" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1517,22 +1528,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>forge-viewer-adapter</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>promisefactory</text>
+        <text encoding="base64">XDxSRVZJU0lPTlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgICJ0eXBlcyI6ICJkdHMtZ2VuZXJhdG9yIC0tbmFtZSBAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyIC0tcHJvamVjdCAuIC0tb3V0IGRpc3QvaW5kZXguZC50cyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
+        <text encoding="base64">ICAgICJjbGVhbiI6ICJybSAiCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1564,19 +1575,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1589,19 +1600,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrRGlyZWN0aW9uIH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
+        <text encoding="base64">dmlld2VySW4oZG9jdW1lbnQuYm9keSwgbWFuaWZlc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAndGhyZWUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgUGlja0xvY2F0aW9uLCBQaWNrVGFyZ2V0IH0gPSBBUlN0b3JlLlN0YXRlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>promisefactory</last-search>
+      <last-search encoding="base64">XDxSRVZJU0lPTlw+</last-search>
       <last-offset />
-      <last-pattern>promisefactory</last-pattern>
+      <last-pattern encoding="base64">XDxSRVZJU0lPTlw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1609,13 +1620,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
-        <entry encoding="base64">XDxjb25zdFw+</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry encoding="base64">XDx2aWV3ZXJzXD4=</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxjc3NcPg==</entry>
         <entry>isstring</entry>
         <entry>nodedetails</entry>
@@ -1629,6 +1633,13 @@
         <entry>prevlevelsele</entry>
         <entry>searchablelevel</entry>
         <entry>promisefactory</entry>
+        <entry encoding="base64">XDxQcm9taXNlRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxwcm9taXNlRmFjdG9yeVw+</entry>
+        <entry>viewer3dadapter</entry>
+        <entry>@astralink</entry>
+        <entry>class Viewer3DAdapter</entry>
+        <entry>class viewer3d</entry>
+        <entry encoding="base64">XDxSRVZJU0lPTlw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -1649,8 +1660,8 @@
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
