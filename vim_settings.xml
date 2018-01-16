@@ -1061,10 +1061,10 @@
         <mark key="." line="216" column="16" />
         <mark key="^" line="216" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516092095981">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516109848583">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/layout-block.tsx" timestamp="1488098679527">
         <mark key="'" line="6" column="54" />
@@ -1528,7 +1528,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hZGFwdGVyL3R5cGVzL3RocmVlJwo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1604,7 +1604,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>naor@astralink.io</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>aut</text>
@@ -1613,13 +1613,13 @@
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hZGFwdGVyL3R5cGVzL3RocmVlJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1651,19 +1651,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZnNlID0gcmVxdWlyZSgnZnMtZXh0cmEnKQo=</text>
+        <text encoding="base64">ZXhwb3J0IHtWaWV3ZXIzREFkYXB0ZXJ9IGZyb20gJy4vYWRhcHRlcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCByZWxUb1ZlbmRvciA9IHBhdGgucmVsYXRpdmUocGF0aHMudmVuZG9yLCBwYXRoLmRpcm5hbWUocCkpOwogIGNvbnN0IGJhc2VuYW1lID0gcGF0aC5iYXNlbmFtZShwKQogIGNvbnN0IHJlcyA9IFVnbGlmeUpTLm1pbmlmeSh7WyBiYXNlbmFtZSBdOiBjb250ZW50cy50b1N0cmluZygpfSwgewogICAgc291cmNlTWFwOiB7CiAgICAgIHVybDogYCR7YmFzZW5hbWV9Lm1hcGAsCiAgICAgIGZpbGVuYW1lOiBiYXNlbmFtZQogICAgfQogIH0pCgogIGlmICghcmVzLmVycm9yKSB7CiAgICBjb25zdCBmaWxlUGF0aCA9IHBhdGguam9pbihwYXRocy5idWlsZCwgcmVsVG9WZW5kb3IsIGAke2Jhc2VuYW1lfS5tYXBgKQogICAgY29uc29sZS5sb2coJ3dyaXRpbmcnLCBmaWxlUGF0aCkKICAgIGZzZS5lbnN1cmVEaXJTeW5jKHBhdGguZGlybmFtZShmaWxlUGF0aCkpCiAgICBmcy53cml0ZUZpbGVTeW5jKGZpbGVQYXRoLCByZXMubWFwLCAocmVzLCBlcnIpID0+IGVyciAmJiBjb25zb2xlLmxvZygnQ291bGQgbm90IHdyaXRlICcgKyBmaWxlUGF0aCkpCiAgICByZXR1cm4gcmVzLmNvZGUKICB9CiAgY29uc29sZS5lcnJvcihyZXMuZXJyb3IpCiAgcmV0dXJuIGNvbnRlbnRzCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZzLndyaXRlRmlsZVN5bmMoZmlsZVBhdGgpCg==</text>
+        <text encoding="base64">Y29uc3QgZnNlID0gcmVxdWlyZSgnZnMtZXh0cmEnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVsYXRpdmUgPSByZXF1aXJlKCdyZWxhdGl2ZScpCg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1676,13 +1676,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzCg==</text>
+        <text encoding="base64">ICBjb25zdCByZWxUb1ZlbmRvciA9IHBhdGgucmVsYXRpdmUocGF0aHMudmVuZG9yLCBwYXRoLmRpcm5hbWUocCkpOwogIGNvbnN0IGJhc2VuYW1lID0gcGF0aC5iYXNlbmFtZShwKQogIGNvbnN0IHJlcyA9IFVnbGlmeUpTLm1pbmlmeSh7WyBiYXNlbmFtZSBdOiBjb250ZW50cy50b1N0cmluZygpfSwgewogICAgc291cmNlTWFwOiB7CiAgICAgIHVybDogYCR7YmFzZW5hbWV9Lm1hcGAsCiAgICAgIGZpbGVuYW1lOiBiYXNlbmFtZQogICAgfQogIH0pCgogIGlmICghcmVzLmVycm9yKSB7CiAgICBjb25zdCBmaWxlUGF0aCA9IHBhdGguam9pbihwYXRocy5idWlsZCwgcmVsVG9WZW5kb3IsIGAke2Jhc2VuYW1lfS5tYXBgKQogICAgY29uc29sZS5sb2coJ3dyaXRpbmcnLCBmaWxlUGF0aCkKICAgIGZzZS5lbnN1cmVEaXJTeW5jKHBhdGguZGlybmFtZShmaWxlUGF0aCkpCiAgICBmcy53cml0ZUZpbGVTeW5jKGZpbGVQYXRoLCByZXMubWFwLCAocmVzLCBlcnIpID0+IGVyciAmJiBjb25zb2xlLmxvZygnQ291bGQgbm90IHdyaXRlICcgKyBmaWxlUGF0aCkpCiAgICByZXR1cm4gcmVzLmNvZGUKICB9CiAgY29uc29sZS5lcnJvcihyZXMuZXJyb3IpCiAgcmV0dXJuIGNvbnRlbnRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZzLndyaXRlRmlsZVN5bmMoZmlsZVBhdGgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1720,15 +1720,12 @@
       <history-cmd>
         <entry>action RearrangeCode</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>actionlist optimize</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action IntroduceVariable</entry>
@@ -1736,8 +1733,11 @@
         <entry>action ExtractMethod</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDown</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
