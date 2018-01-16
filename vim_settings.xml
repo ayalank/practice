@@ -321,6 +321,9 @@
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516085710950">
+        <mark key="'" line="7115" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/landing/wow-number.tsx.ts" timestamp="1498930213709">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="18" column="8" />
@@ -1332,11 +1335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="30" column="22" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="32" column="24" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="43" column="23" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="49" column="25" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="50" column="29" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="61" column="23" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="65" column="67" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
@@ -1432,6 +1430,11 @@
       <jump line="9" column="19" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/App.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
       <jump line="39" column="2" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" />
+      <jump line="1" column="19" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="2" column="54" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="4" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="9" column="18" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="7115" column="14" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1517,7 +1520,7 @@
         <text>forge-viewer-adapter</text>
       </register>
       <register name="/" type="4">
-        <text>searchablelevel</text>
+        <text>promisefactory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHttYXRjaGVzUHJvcGVydHksIG1hdGNoZXN9IGZyb20gJ2xvZGFzaC9mcCc7Cg==</text>
@@ -1596,9 +1599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>searchablelevel</last-search>
+      <last-search>promisefactory</last-search>
       <last-offset />
-      <last-pattern>searchablelevel</last-pattern>
+      <last-pattern>promisefactory</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1606,7 +1609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2Mlw+</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
@@ -1626,6 +1628,7 @@
         <entry>level</entry>
         <entry>prevlevelsele</entry>
         <entry>searchablelevel</entry>
+        <entry>promisefactory</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
