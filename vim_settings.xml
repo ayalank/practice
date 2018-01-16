@@ -340,12 +340,12 @@
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516090109489">
-        <mark key="'" line="6101" column="26" />
-        <mark key="[" line="248" column="79" />
-        <mark key="]" line="248" column="79" />
-        <mark key="." line="248" column="79" />
-        <mark key="^" line="231" column="78" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" timestamp="1516091244591">
+        <mark key="'" line="253" column="18" />
+        <mark key="[" line="352" column="82" />
+        <mark key="]" line="352" column="82" />
+        <mark key="." line="352" column="82" />
+        <mark key="^" line="356" column="81" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/landing/wow-number.tsx.ts" timestamp="1498930213709">
         <mark key="[" line="9" column="6" />
@@ -1389,7 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
       <jump line="72" column="34" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
@@ -1489,13 +1488,14 @@
       <jump line="6540" column="6" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="6101" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" />
+      <jump line="253" column="18" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1571,10 +1571,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>class viewer3</text>
       </register>
       <register name="0" type="4">
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
@@ -1649,13 +1649,13 @@
         <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>class viewer3</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>class viewer3</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1663,7 +1663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>model.layer</entry>
         <entry>window.</entry>
         <entry>nolevelnode</entry>
@@ -1683,6 +1682,7 @@
         <entry>compi</entry>
         <entry>leaf_object</entry>
         <entry>index</entry>
+        <entry>class viewer3</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -1696,15 +1696,15 @@
         <entry>action ReformatCode</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>actionlist optimize</entry>
-        <entry>action VimMotionScrollHalfPageUp</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
