@@ -191,6 +191,9 @@
         <mark key="." line="52" column="79" />
         <mark key="^" line="52" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/node_modules/@types/lodash/index.d.ts" timestamp="1516091959438">
+        <mark key="'" line="17372" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/events.ts" timestamp="1516090195899">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -247,12 +250,6 @@
         <mark key="^" line="40" column="83" />
         <mark key="." line="40" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/App/App.tsx" timestamp="1516033271543">
-        <mark key="'" line="9" column="19" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/dom-utils.ts" timestamp="1487071551632">
         <mark key="'" line="22" column="21" />
         <mark key="[" line="26" column="47" />
@@ -266,6 +263,12 @@
         <mark key="]" line="10" column="71" />
         <mark key="." line="10" column="71" />
         <mark key="^" line="10" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/plugins.js" timestamp="1516093253367">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/report-list-view.tsx" timestamp="1488817578741">
         <mark key="'" line="117" column="36" />
@@ -382,17 +385,17 @@
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516032828387">
-        <mark key="'" line="15" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/PanelWithBackground.java" timestamp="1497454620803">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="55" />
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/common/unsafe-vendor-plugin.js" timestamp="1516095282729">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/list-page-filter.tsx" timestamp="1496754737646">
         <mark key="'" line="12" column="0" />
@@ -557,11 +560,12 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516089201659">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="10" column="57" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516095483989">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
@@ -607,6 +611,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="9" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/dist/index.html" timestamp="1516095671196">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" timestamp="1498459098404">
         <mark key="'" line="0" column="0" />
@@ -684,12 +693,6 @@
         <mark key="]" line="24" column="41" />
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" timestamp="1516089901379">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-description.tsx" timestamp="1497101886241">
         <mark key="[" line="5" column="27" />
@@ -986,11 +989,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/dev/plugins.js" timestamp="1516036347911">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/dev/plugins.js" timestamp="1516095948967">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487496062760">
         <mark key="'" line="30" column="11" />
@@ -1045,10 +1048,10 @@
         <mark key="." line="216" column="16" />
         <mark key="^" line="216" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516036446438">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.ts" timestamp="1516092095981">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/layout-block.tsx" timestamp="1488098679527">
         <mark key="'" line="6" column="54" />
@@ -1158,6 +1161,17 @@
         <mark key="." line="103" column="15" />
         <mark key="^" line="103" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/tsconfig.json" timestamp="1516093597047">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/src/index.html" timestamp="1516095698047">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/utilities/scroll-element.tsx" timestamp="1497101235204">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="38" />
@@ -1183,6 +1197,12 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="16" column="76" />
         <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.prod.config.js" timestamp="1516092957788">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/webpack/plugins.js" timestamp="1496477367549">
         <mark key="'" line="15" column="27" />
@@ -1389,11 +1409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/projects/go/src/github.com/naoric/viewer-fetcher/main.go" />
-      <jump line="72" column="34" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="81" column="47" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="55" column="46" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="57" column="66" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
@@ -1489,13 +1504,18 @@
       <jump line="6101" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/camera.ts" />
       <jump line="253" column="18" filename="$USER_HOME$/projects/forge-viewer-adapter/dist/index.d.ts" />
+      <jump line="14098" column="26" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/@types/lodash/index.d.ts" />
+      <jump line="252" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/@types/lodash/index.d.ts" />
+      <jump line="17372" column="0" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/@types/lodash/index.d.ts" />
+      <jump line="6" column="21" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.prod.config.js" />
+      <jump line="30" column="11" filename="$USER_HOME$/projects/forge-viewer-adapter/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBuZXcgQ29weVdlYnBhY2tQbHVnaW4oW3sKICAgIGZyb206ICd2ZW5kb3IvJywKICB9LCB7CiAgICBmcm9tOiAnc3JjL2Fzc2V0cy9tb2RlbC8nLAogICAgdG86ICdtb2RlbC8nCiAgfV0pLAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1571,22 +1591,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>class viewer3</text>
+        <text>main</text>
       </register>
       <register name="0" type="4">
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBuZXcgQ29weVdlYnBhY2tQbHVnaW4oW3sKICAgIGZyb206ICd2ZW5kb3IvJywKICB9LCB7CiAgICBmcm9tOiAnc3JjL2Fzc2V0cy9tb2RlbC8nLAogICAgdG86ICdtb2RlbC8nCiAgfV0pLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2F1dG9kZXNrL3dncy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1618,19 +1638,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyB0c2J1bmRsZQo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2F1dG9kZXNrL3dncy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhdGguZXh0bmFtZSgnLmpzJykpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0eXBlcyI6ICJkdHMtZ2VuZXJhdG9yIC0tbmFtZSBAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyIC0tcHJvamVjdCAuIC0tb3V0IGRpc3QvaW5kZXguZC50cyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjbGVhbiI6ICJybSAiCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoLmV4dG5hbWUocCkgPT09ICcuanMnID8gVWdsaWZ5SlMubWluaWZ5KGNvbnRlbnRzLnRvU3RyaW5nKCkpLmNvZGUgOiBjb250ZW50cywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgICJkZWNsYXJhdGlvbiI6IHRydWUsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1643,19 +1663,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQpjb25zdCBDYXNlU2Vuc2l0aXZlUGF0aHNXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2FzZS1zZW5zaXRpdmUtcGF0aHMtd2VicGFjay1wbHVnaW4nKQpjb25zdCBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENvcHlXZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY29weS13ZWJwYWNrLXBsdWdpbicpCmNvbnN0IENsZWFuV2VicGFja1BsdWdpbiA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJykKY29uc3QgVWdsaWZ5SlMgPSByZXF1aXJlKCd1Z2xpZnktanMnKQpjb25zdCBIYXJkU291cmNlUGx1Z2luID0gcmVxdWlyZSgnaGFyZC1zb3VyY2Utd2VicGFjay1wbHVnaW4nKQoKCg==</text>
+        <text encoding="base64">Y29uc3QgVHNCdW5kbGVQbHVnaW4gPSByZXF1aXJlKCcuLi9jb21tb24vdHMtYnVuZGxlcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbWFuaWZlc3QgZnJvbSAnLi9hc3NldHMvbW9kZWwvYXN0cmFsaW5rX21hbmlmZXN0Lmpzb24nCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action VimMotionScrollHalfPageDown</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>class viewer3</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>class viewer3</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1663,8 +1683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model.layer</entry>
-        <entry>window.</entry>
         <entry>nolevelnode</entry>
         <entry>async</entry>
         <entry>selectedlevel</entry>
@@ -1683,28 +1701,30 @@
         <entry>leaf_object</entry>
         <entry>index</entry>
         <entry>class viewer3</entry>
+        <entry>declare</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry>action ExtractMethod</entry>
-        <entry>nmap @ viw</entry>
         <entry>action IntroduceField</entry>
         <entry>action RearrangeCode</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action MoveStatementUp</entry>
-        <entry>action EditorDuplicateLines</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>actionlist optimize</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action RenameElement</entry>
-        <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action OptimizeImports</entry>
+        <entry>action MoveStatementUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action EditorDown</entry>
+        <entry>action EditorUp</entry>
+        <entry>action EditorDuplicateLines</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
