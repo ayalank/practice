@@ -561,12 +561,12 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516103613892">
-        <mark key="'" line="30" column="11" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516109052431">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
@@ -697,6 +697,12 @@
         <mark key="]" line="24" column="41" />
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" timestamp="1516108878634">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gauge-description.tsx" timestamp="1497101886241">
         <mark key="[" line="5" column="27" />
@@ -1416,9 +1422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="35" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="15" column="23" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="19" column="26" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="8" column="58" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="160" column="30" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="275" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1516,13 +1519,16 @@
       <jump line="54" column="30" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
       <jump line="39" column="44" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/copy-webpack-plugin/dist/writeFile.js" />
       <jump line="64" column="17" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/copy-webpack-plugin/dist/writeFile.js" />
+      <jump line="28" column="3" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" />
+      <jump line="21" column="43" filename="$USER_HOME$/projects/forge-viewer-adapter/webpack/prod/plugins.js" />
+      <jump line="9" column="25" filename="$USER_HOME$/projects/forge-viewer-adapter/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>static/js/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1598,22 +1604,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>static/js/</text>
+        <text>naor@astralink.io</text>
       </register>
       <register name="/" type="4">
-        <text>transform</text>
+        <text>aut</text>
       </register>
       <register name="0" type="4">
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZXcgQ29weVdlYnBhY2tQbHVnaW4oW3sKICAgIGZyb206ICd2ZW5kb3IvJywKICB9LCB7CiAgICBmcm9tOiAnc3JjL2Fzc2V0cy9tb2RlbC8nLAogICAgdG86ICdtb2RlbC8nCiAgfV0pLAo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2F1dG9kZXNrL3dncy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1645,19 +1651,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2F1dG9kZXNrL3dncy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Y29uc3QgZnNlID0gcmVxdWlyZSgnZnMtZXh0cmEnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhdGguZXh0bmFtZSgnLmpzJykpIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZWxUb1ZlbmRvciA9IHBhdGgucmVsYXRpdmUocGF0aHMudmVuZG9yLCBwYXRoLmRpcm5hbWUocCkpOwogIGNvbnN0IGJhc2VuYW1lID0gcGF0aC5iYXNlbmFtZShwKQogIGNvbnN0IHJlcyA9IFVnbGlmeUpTLm1pbmlmeSh7WyBiYXNlbmFtZSBdOiBjb250ZW50cy50b1N0cmluZygpfSwgewogICAgc291cmNlTWFwOiB7CiAgICAgIHVybDogYCR7YmFzZW5hbWV9Lm1hcGAsCiAgICAgIGZpbGVuYW1lOiBiYXNlbmFtZQogICAgfQogIH0pCgogIGlmICghcmVzLmVycm9yKSB7CiAgICBjb25zdCBmaWxlUGF0aCA9IHBhdGguam9pbihwYXRocy5idWlsZCwgcmVsVG9WZW5kb3IsIGAke2Jhc2VuYW1lfS5tYXBgKQogICAgY29uc29sZS5sb2coJ3dyaXRpbmcnLCBmaWxlUGF0aCkKICAgIGZzZS5lbnN1cmVEaXJTeW5jKHBhdGguZGlybmFtZShmaWxlUGF0aCkpCiAgICBmcy53cml0ZUZpbGVTeW5jKGZpbGVQYXRoLCByZXMubWFwLCAocmVzLCBlcnIpID0+IGVyciAmJiBjb25zb2xlLmxvZygnQ291bGQgbm90IHdyaXRlICcgKyBmaWxlUGF0aCkpCiAgICByZXR1cm4gcmVzLmNvZGUKICB9CiAgY29uc29sZS5lcnJvcihyZXMuZXJyb3IpCiAgcmV0dXJuIGNvbnRlbnRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoLmV4dG5hbWUocCkgPT09ICcuanMnID8gVWdsaWZ5SlMubWluaWZ5KGNvbnRlbnRzLnRvU3RyaW5nKCkpLmNvZGUgOiBjb250ZW50cywK</text>
+        <text encoding="base64">ICAgIGZzLndyaXRlRmlsZVN5bmMoZmlsZVBhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkZWNsYXJhdGlvbiI6IHRydWUsCg==</text>
+        <text encoding="base64">Y29uc3QgcmVsYXRpdmUgPSByZXF1aXJlKCdyZWxhdGl2ZScpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1670,19 +1676,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgVHNCdW5kbGVQbHVnaW4gPSByZXF1aXJlKCcuLi9jb21tb24vdHMtYnVuZGxlcicpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aHMgPSByZXF1aXJlKCcuLi9jb21tb24vcGF0aHMnKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>transform</last-search>
+      <last-search>aut</last-search>
       <last-offset />
-      <last-pattern>transform</last-pattern>
+      <last-pattern>aut</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1690,7 +1696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedlevel</entry>
         <entry>level</entry>
         <entry>prevlevelsele</entry>
         <entry>searchablelevel</entry>
@@ -1710,9 +1715,9 @@
         <entry>main</entry>
         <entry>wgs</entry>
         <entry>transform</entry>
+        <entry>aut</entry>
       </history-search>
       <history-cmd>
-        <entry>action IntroduceField</entry>
         <entry>action RearrangeCode</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementDown</entry>
@@ -1723,12 +1728,13 @@
         <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action ExtractMethod</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
