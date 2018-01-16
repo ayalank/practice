@@ -78,6 +78,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/types/general.d.ts" timestamp="1516118994897">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/calculator/evaluated-flip-asset.ts" timestamp="1496051285498">
         <mark key="'" line="36" column="25" />
         <mark key="[" line="26" column="70" />
@@ -351,10 +356,17 @@
         <mark key="." line="352" column="82" />
         <mark key="^" line="356" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" timestamp="1516115818632">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" timestamp="1516119548120">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ios-app/web/scripts/start.js" timestamp="1516119691907">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/landing/wow-number.tsx.ts" timestamp="1498930213709">
         <mark key="[" line="9" column="6" />
@@ -391,12 +403,12 @@
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516115172896">
-        <mark key="'" line="149" column="22" />
-        <mark key="[" line="149" column="18" />
-        <mark key="]" line="149" column="23" />
-        <mark key="." line="149" column="23" />
-        <mark key="^" line="149" column="23" />
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516119791539">
+        <mark key="'" line="220" column="10" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/PanelWithBackground.java" timestamp="1497454620803">
         <mark key="[" line="20" column="30" />
@@ -653,6 +665,13 @@
         <mark key="]" line="52" column="35" />
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/components/SelectionMenu/SelectionMenu.tsx" timestamp="1516118828858">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="5" column="53" />
       </file>
       <file name="/fragment.ts" timestamp="1513093237319">
         <mark key="[" line="0" column="0" />
@@ -1008,9 +1027,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" timestamp="1516099601915">
-        <mark key="'" line="54" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/sputnik/server/package.json" timestamp="1497177739499">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
@@ -1256,6 +1272,11 @@
       <file name="$USER_HOME$/projects/elixir/lib/naor.ex" timestamp="1499712217096">
         <mark key="[" line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/utils/viewer/tools/ClickTool.ts" timestamp="1516118965317">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/areas.ts" timestamp="1516090204634">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -1400,6 +1421,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/index.tsx" timestamp="1516119490755">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/privacy-policy.tsx" timestamp="1497109863336">
         <mark key="'" line="19" column="10" />
         <mark key="[" line="4" column="30" />
@@ -1435,6 +1462,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/actions.ts" timestamp="1516118893474">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="1" column="70" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forms/drop-down.tsx" timestamp="1497025863365">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="10" />
@@ -1450,13 +1483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="23" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="236" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="200" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="156" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="61" column="35" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="131" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="82" column="73" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="9" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1550,13 +1576,20 @@
       <jump line="149" column="22" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="41" column="45" filename="$USER_HOME$/projects/ios-app/web/src/modules/App/AppStore.ts" />
       <jump line="17" column="34" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/Model.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/Selection/components/SelectionMenu/SelectionMenu.tsx" />
+      <jump line="24" column="33" filename="$USER_HOME$/projects/ios-app/web/src/index.tsx" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" />
+      <jump line="43" column="30" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
+      <jump line="27" column="45" filename="$USER_HOME$/projects/ios-app/web/scripts/start.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/ios-app/web/scripts/start.js" />
+      <jump line="220" column="10" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgd29ybGQgfSA9IHRoaXMuc2VsZWN0ZWRQb2ludAo=</text>
+      <register name="&quot;" type="4">
+        <text>ModelClickListener</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1632,22 +1665,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>../ViewerAdapter/types/viewer</text>
+        <text>ModelClickListener</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</text>
+        <text>openbrowser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgd29ybGQgfSA9IHRoaXMuc2VsZWN0ZWRQb2ludAo=</text>
+        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ0Bhc3RyYWxpbmsvJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1679,19 +1712,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm9kZUlEIH0gZnJvbSAnLi4vLi4vU2NlbmUvVmlld2VyQ29udHJvbGxlcicK</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm9kZUlEIH0gZnJvbSAnLi4vLi4vVmlld2VyQWRhcHRlci90eXBlcy92aWV3ZXInCg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlld2VyM0RBZGFwdGVyIH0gZnJvbSAnLi4vLi4vVmlld2VyQWRhcHRlcicK</text>
+        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXJlYU5hbWUgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyL2FyZWFzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbGl6ZVZpZXdlciB9IGZyb20gJy4vdXRpbHMvdmlld2VyL2luaXRpYWxpemUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlyc3RBbGlnbm1lbnREYXRhIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci9hbGlnbm1lbnQnCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGNsaWNrVG9vbDogQ2xpY2tUb29sIHwgbnVsbCA9IG51bGwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1704,19 +1737,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWFuaWZlc3RKU09OIH0gZnJvbSAnLi4vVmlld2VyQWRhcHRlci90eXBlcy92aWV3ZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlld2VyRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMvQ2xpY2tUb29sJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVmYXVsdCBhcyBlbWJlZFZpZXdlckluLCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICcuLi9WaWV3ZXJBZGFwdGVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2xpY2tUb29sLCBNb2RlbENsaWNrTGlzdGVuZXIgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</last-search>
+      <last-search>openbrowser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</last-pattern>
+      <last-pattern>openbrowser</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1724,7 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prevlevelsele</entry>
         <entry>searchablelevel</entry>
         <entry>promisefactory</entry>
         <entry encoding="base64">XDxQcm9taXNlRmFjdG9yeVw+</entry>
@@ -1744,6 +1776,7 @@
         <entry>transform</entry>
         <entry>aut</entry>
         <entry encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</entry>
+        <entry>openbrowser</entry>
       </history-search>
       <history-cmd>
         <entry>action RearrangeCode</entry>
@@ -1762,9 +1795,9 @@
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
+        <entry>action OptimizeImports</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
