@@ -306,10 +306,11 @@
       <file name="/HTML File.txt.ft" timestamp="1513080717716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.dev.config.js" timestamp="1516036324567">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.dev.config.js" timestamp="1516103588794">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/selection.ts" timestamp="1516090230079">
         <mark key="[" line="0" column="34" />
@@ -560,12 +561,12 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516095483989">
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/package.json" timestamp="1516103613892">
         <mark key="'" line="30" column="11" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="25" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
         <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/comparable-map/comparable-list-view.tsx" timestamp="1498629632366">
         <mark key="[" line="31" column="33" />
@@ -616,6 +617,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/node_modules/copy-webpack-plugin/dist/writeFile.js" timestamp="1516103834483">
+        <mark key="'" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/projects/realazon-blog/wp-content/themes/twentyseventeen/style.css" timestamp="1498459098404">
         <mark key="'" line="0" column="0" />
@@ -1201,10 +1205,10 @@
         <mark key="^" line="16" column="76" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.prod.config.js" timestamp="1516092957788">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
+      <file name="$USER_HOME$/projects/forge-viewer-adapter/webpack/webpack.prod.config.js" timestamp="1516103598145">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/webpack/plugins.js" timestamp="1496477367549">
@@ -1412,8 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="12" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
-      <jump line="251" column="126" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="226" column="35" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="15" column="23" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
       <jump line="19" column="26" filename="$USER_HOME$/projects/chopper/src/modules/ModelNodeMapper/index.ts" />
@@ -1512,13 +1514,15 @@
       <jump line="51" column="20" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
       <jump line="52" column="25" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
       <jump line="54" column="30" filename="$USER_HOME$/projects/forge-viewer-adapter/vendor/autodesk/viewer3D.js" />
+      <jump line="39" column="44" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/copy-webpack-plugin/dist/writeFile.js" />
+      <jump line="64" column="17" filename="$USER_HOME$/projects/forge-viewer-adapter/node_modules/copy-webpack-plugin/dist/writeFile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBuZXcgQ29weVdlYnBhY2tQbHVnaW4oW3sKICAgIGZyb206ICd2ZW5kb3IvJywKICB9LCB7CiAgICBmcm9tOiAnc3JjL2Fzc2V0cy9tb2RlbC8nLAogICAgdG86ICdtb2RlbC8nCiAgfV0pLAo=</text>
+      <register name="&quot;" type="4">
+        <text>static/js/</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1594,10 +1598,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>static/js/</text>
       </register>
       <register name="/" type="4">
-        <text>wgs</text>
+        <text>transform</text>
       </register>
       <register name="0" type="4">
         <text>&quot;@astralink/forge-viewer-adapter&quot;</text>
@@ -1676,9 +1680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wgs</last-search>
+      <last-search>transform</last-search>
       <last-offset />
-      <last-pattern>wgs</last-pattern>
+      <last-pattern>transform</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1686,7 +1690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>async</entry>
         <entry>selectedlevel</entry>
         <entry>level</entry>
         <entry>prevlevelsele</entry>
@@ -1706,6 +1709,7 @@
         <entry>declare</entry>
         <entry>main</entry>
         <entry>wgs</entry>
+        <entry>transform</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceField</entry>
