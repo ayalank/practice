@@ -32,7 +32,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ii" value="import {$WHAT$} from '$FROM$';$END$" description="import from" toReformat="false" toShortenFQNames="true">
+  <template name="ii" value="import {$WHAT$} from '$FROM$'$END$" description="import from" toReformat="false" toShortenFQNames="true">
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -40,14 +40,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ia" value="import * as $what$ from '$from$';$END$" description="import all from" toReformat="false" toShortenFQNames="true">
+  <template name="ia" value="import * as $what$ from '$from$'$END$" description="import all from" toReformat="false" toShortenFQNames="true">
     <variable name="from" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iid" value="import $what$ from '$from$';$END$" description="import default from" toReformat="false" toShortenFQNames="true">
+  <template name="iid" value="import $what$ from '$from$'$END$" description="import default from" toReformat="false" toShortenFQNames="true">
     <variable name="from" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
