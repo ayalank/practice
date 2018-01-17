@@ -624,6 +624,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/tsconfig.json" timestamp="1516184280942">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/assets/css/lib/partials/colors.styl" timestamp="1498816921139">
         <mark key="[" line="70" column="28" />
         <mark key="]" line="70" column="29" />
