@@ -759,6 +759,12 @@
         <mark key="]" line="73" column="24" />
         <mark key="." line="73" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/ios-app/web/config/webpack.config.dev.js" timestamp="1516184959035">
+        <mark key="[" line="115" column="31" />
+        <mark key="]" line="115" column="52" />
+        <mark key="." line="115" column="52" />
+        <mark key="^" line="115" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/ViewerAdapter/alignment/firstAlignment.ts" timestamp="1516033044627">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1749,7 +1755,7 @@
         <text encoding="base64">aW1wb3J0IHsgQ2xpY2tUb29sLCBNb2RlbENsaWNrTGlzdGVuZXIgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1802,9 +1808,9 @@
         <entry>action MoveStatementUp</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
