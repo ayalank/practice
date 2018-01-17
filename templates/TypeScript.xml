@@ -207,4 +207,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="trt" value="try {&#10;  $END$&#10;} catch $OPT_BLOCK$ {&#10;  $CATCH$&#10;}" description="try catch" toReformat="true" toShortenFQNames="true">
+    <variable name="OPT_BLOCK" expression="" defaultValue="&quot;(e)&quot;" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
