@@ -356,6 +356,7 @@
         <mark key="." line="352" column="82" />
         <mark key="^" line="356" column="81" />
       </file>
+      <file name="/ViewerController.ts" timestamp="1516193284750" />
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" timestamp="1516119548120">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="4" column="32" />
@@ -403,11 +404,11 @@
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516119791539">
-        <mark key="'" line="220" column="10" />
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516192928630">
+        <mark key="'" line="218" column="31" />
         <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/PanelWithBackground.java" timestamp="1497454620803">
@@ -449,11 +450,11 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/Model.ts" timestamp="1516115604772">
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/Model.ts" timestamp="1516192833253">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
         <mark key="^" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/Opponent.java" timestamp="1497455698016">
@@ -726,7 +727,7 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506436053701">
+      <file name="/Dummy.txt" timestamp="1516192896177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/forms/input-text-wrapper.tsx" timestamp="1497101009131">
@@ -759,11 +760,10 @@
         <mark key="]" line="73" column="24" />
         <mark key="." line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/config/webpack.config.dev.js" timestamp="1516184959035">
-        <mark key="[" line="115" column="31" />
-        <mark key="]" line="115" column="52" />
-        <mark key="." line="115" column="52" />
-        <mark key="^" line="115" column="52" />
+      <file name="$USER_HOME$/projects/ios-app/web/config/webpack.config.dev.js" timestamp="1516191972869">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/ViewerAdapter/alignment/firstAlignment.ts" timestamp="1516033044627">
         <mark key="[" line="2" column="0" />
@@ -835,8 +835,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" timestamp="1516029301889">
-        <mark key="'" line="152" column="9" />
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" timestamp="1516192534849">
+        <mark key="'" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/projects/forge-viewer-adapter/src/adapter/levels/index.ts" timestamp="1516035814307">
         <mark key="'" line="39" column="2" />
@@ -1495,10 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="73" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="118" column="30" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="22" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="143" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="23" column="11" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1595,13 +1591,17 @@
       <jump line="27" column="45" filename="$USER_HOME$/projects/ios-app/web/scripts/start.js" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/ios-app/web/scripts/start.js" />
       <jump line="220" column="10" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
+      <jump line="218" column="31" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
+      <jump line="10" column="12" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" />
+      <jump line="46" column="15" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ModelClickListener</text>
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1677,22 +1677,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ModelClickListener</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>openbrowser</text>
+        <text>isloaded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBbIHBhdGhzLmFwcFNyYywgcGF0aHMuYXBwTm9kZU1vZHVsZXMgXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
+        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1724,19 +1724,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbGl6ZVZpZXdlciB9IGZyb20gJy4vdXRpbHMvdmlld2VyL2luaXRpYWxpemUnOwo=</text>
+        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsaWNrVG9vbDogQ2xpY2tUb29sIHwgbnVsbCA9IG51bGwK</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbGl6ZVZpZXdlciB9IGZyb20gJy4vdXRpbHMvdmlld2VyL2luaXRpYWxpemUnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1749,19 +1749,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlld2VyRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMvQ2xpY2tUb29sJwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGNsaWNrVG9vbDogQ2xpY2tUb29sIHwgbnVsbCA9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2xpY2tUb29sLCBNb2RlbENsaWNrTGlzdGVuZXIgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlld2VyRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMvQ2xpY2tUb29sJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>openbrowser</last-search>
+      <last-search>isloaded</last-search>
       <last-offset />
-      <last-pattern>openbrowser</last-pattern>
+      <last-pattern>isloaded</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1769,7 +1769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>searchablelevel</entry>
         <entry>promisefactory</entry>
         <entry encoding="base64">XDxQcm9taXNlRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxwcm9taXNlRmFjdG9yeVw+</entry>
@@ -1789,6 +1788,7 @@
         <entry>aut</entry>
         <entry encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</entry>
         <entry>openbrowser</entry>
+        <entry>isloaded</entry>
       </history-search>
       <history-cmd>
         <entry>action RearrangeCode</entry>
@@ -1807,8 +1807,8 @@
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action OptimizeImports</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
