@@ -404,11 +404,11 @@
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516195486968">
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516197303089">
         <mark key="'" line="218" column="31" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
         <mark key="^" line="150" column="19" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/PanelWithBackground.java" timestamp="1497454620803">
@@ -829,7 +829,7 @@
         <mark key="." line="131" column="17" />
         <mark key="^" line="131" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1499076836477">
+      <file name="/fragment.java" timestamp="1516197513923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1601,7 +1601,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coZSkKICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1686,13 +1686,13 @@
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coZSkKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1724,19 +1724,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBbIHBhdGhzLmFwcFNyYywgcGF0aHMuYXBwTm9kZU1vZHVsZXMgXSwK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBbIHBhdGhzLmFwcFNyYywgcGF0aHMuYXBwTm9kZU1vZHVsZXMgXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
+        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1749,10 +1749,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbGl6ZVZpZXdlciB9IGZyb20gJy4vdXRpbHMvdmlld2VyL2luaXRpYWxpemUnOwo=</text>
+        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
@@ -1806,10 +1806,10 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action GotoFile</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
