@@ -356,7 +356,7 @@
         <mark key="." line="352" column="82" />
         <mark key="^" line="356" column="81" />
       </file>
-      <file name="/ViewerController.ts" timestamp="1516193284750" />
+      <file name="/ViewerController.ts" timestamp="1516194129901" />
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/Selection/store/SelectionStore.ts" timestamp="1516119548120">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="4" column="32" />
@@ -404,7 +404,7 @@
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516192928630">
+      <file name="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" timestamp="1516194489356">
         <mark key="'" line="218" column="31" />
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
@@ -1755,7 +1755,7 @@
         <text encoding="base64">aW1wb3J0IHsgVmlld2VyRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy92aWV3ZXIvdG9vbHMvQ2xpY2tUb29sJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1795,7 +1795,6 @@
         <entry>action EditorSplitLine</entry>
         <entry>actionlist optimize</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDuplicateLines</entry>
@@ -1811,6 +1810,7 @@
         <entry>action OptimizeImports</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
