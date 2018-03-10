@@ -32,7 +32,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ii" value="import {$WHAT$} from '$FROM$';$END$" description="import from" toReformat="false" toShortenFQNames="true">
+  <template name="ii" value="import {$WHAT$} from '$FROM$'$END$" description="import from" toReformat="false" toShortenFQNames="true">
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -40,14 +40,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ia" value="import * as $what$ from '$from$';$END$" description="import all from" toReformat="false" toShortenFQNames="true">
+  <template name="ia" value="import * as $what$ from '$from$'$END$" description="import all from" toReformat="false" toShortenFQNames="true">
     <variable name="from" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iid" value="import $what$ from '$from$';$END$" description="import default from" toReformat="false" toShortenFQNames="true">
+  <template name="iid" value="import $what$ from '$from$'$END$" description="import default from" toReformat="false" toShortenFQNames="true">
     <variable name="from" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -203,6 +203,13 @@
     </context>
   </template>
   <template name="so" value="...$END$ " description="Spread object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="trt" value="try {&#10;  $END$&#10;} catch $OPT_BLOCK$ {&#10;  $CATCH$&#10;}" description="try catch" toReformat="true" toShortenFQNames="true">
+    <variable name="OPT_BLOCK" expression="" defaultValue="&quot;(e)&quot;" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
