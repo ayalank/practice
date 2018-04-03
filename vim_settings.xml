@@ -397,8 +397,10 @@
         <mark key="^" line="48" column="99" />
         <mark key="." line="48" column="99" />
       </file>
-      <file name="$USER_HOME$/projects/testing-kotlin/src/Main.kt" timestamp="1522785463160">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/testing-kotlin/src/Main.kt" timestamp="1522786665051">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ios-app/web/src/modules/ViewerAdapter/levels/index.ts" timestamp="1516019462580">
         <mark key="[" line="71" column="12" />
@@ -682,6 +684,9 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/testing-kotlin/src/com.rsk.Person.kt" timestamp="1522786119471">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.ts" timestamp="1513093237319">
         <mark key="[" line="0" column="0" />
       </file>
@@ -831,7 +836,7 @@
         <mark key="." line="131" column="17" />
         <mark key="^" line="131" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1516197513923">
+      <file name="/fragment.java" timestamp="1522786611644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -869,6 +874,12 @@
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
         <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/testing-kotlin/src/main.kt" timestamp="1522787754559">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/make-offer-form.tsx" timestamp="1496654021937">
         <mark key="'" line="99" column="0" />
@@ -1095,6 +1106,9 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/testing-kotlin/src/Person.kt" timestamp="1522786084458">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/bp-scraper/com.realazon.main/build.sbt" timestamp="1499682071774">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="62" />
@@ -1249,6 +1263,7 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/testing-kotlin/out/production/testing-kotlin/Question.class" timestamp="1522787512707" />
       <file name="$USER_HOME$/projects/4inrow/src/main/Sequence.java" timestamp="1497468010877">
         <mark key="'" line="13" column="20" />
         <mark key="[" line="13" column="11" />
@@ -1346,6 +1361,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="6" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/testing-kotlin/src/com/rsk/Person.kt" timestamp="1522786534473">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/property-search-box.tsx" timestamp="1487066754418">
         <mark key="'" line="56" column="11" />
@@ -1603,7 +1624,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBhbm90aGVyTWV0aG9kID0gYW5vdGhlck1ldGhvZCgpCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1679,7 +1700,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>isloaded</text>
@@ -1688,13 +1709,13 @@
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBhbm90aGVyTWV0aG9kID0gYW5vdGhlck1ldGhvZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBxLkFuc3dlciA9ICJTb21ldGhpbmcgRWxzZSIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1726,19 +1747,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMudmlld2VyLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICB2YXIgQW5zd2VyOlN0cmluZyA9ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBbIHBhdGhzLmFwcFNyYywgcGF0aHMuYXBwTm9kZU1vZHVsZXMgXSwK</text>
+        <text encoding="base64">ICBrZXZpbi5OYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgb3BlbkJyb3dzZXIgPSByZXF1aXJlKCdyZWFjdC1kZXYtdXRpbHMvb3BlbkJyb3dzZXInKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZ1biBzb21lUHJpdmF0ZVN0dWZmKCk6IFVuaXQgewogICAgCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BlbkJyb3dzZXIodXJscy5sb2NhbFVybEZvckJyb3dzZXIpOwo=</text>
+        <text encoding="base64">ICBwcmludGxuKCJOYW1lIGlzICR7a2V2aW4uTmFtZX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kZWxDbGlja0V2ZW50IH0gZnJvbSAiLi4vLi4vLi4vdXRpbHMvdmlld2VyL3Rvb2xzL0NsaWNrVG9vbCI7Cg==</text>
+        <text encoding="base64">ICBrZXZpbi5OYW1lID0gIlN0ZXZlIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1751,13 +1772,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZVZpZXdlcigoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKCJOYW1lIGlzICR7a2V2aW4uTmFtZX0iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1793,11 +1814,8 @@
         <entry>isloaded</entry>
       </history-search>
       <history-cmd>
-        <entry>action RearrangeCode</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>actionlist optimize</entry>
         <entry encoding="base64">bm1hcCBNIDphY3Rpb24gT3B0aW1pemVJbXBvcnRzPENSPg==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action IntroduceVariable</entry>
@@ -1809,10 +1827,13 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action ChangesView.Commit</entry>
+        <entry>action GotoFile</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
