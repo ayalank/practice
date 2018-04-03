@@ -875,11 +875,11 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/testing-kotlin/src/main.kt" timestamp="1522787754559">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/projects/testing-kotlin/src/main.kt" timestamp="1522788994913">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/make-offer-form.tsx" timestamp="1496654021937">
         <mark key="'" line="99" column="0" />
@@ -1518,8 +1518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="14" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="143" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="23" column="11" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="19" column="11" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="88" column="60" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
@@ -1618,13 +1616,15 @@
       <jump line="218" column="31" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="10" column="12" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" />
       <jump line="46" column="15" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/SceneStore.ts" />
+      <jump line="9" column="26" filename="$USER_HOME$/projects/testing-kotlin/src/main.kt" />
+      <jump line="7" column="28" filename="$USER_HOME$/projects/testing-kotlin/src/main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbm90aGVyTWV0aG9kID0gYW5vdGhlck1ldGhvZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1700,7 +1700,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;FileName.txt&quot;</text>
       </register>
       <register name="/" type="4">
         <text>isloaded</text>
@@ -1709,13 +1709,13 @@
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbm90aGVyTWV0aG9kID0gYW5vdGhlck1ldGhvZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBxLkFuc3dlciA9ICJTb21ldGhpbmcgRWxzZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1747,19 +1747,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgQW5zd2VyOlN0cmluZyA9ICIiCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBrZXZpbi5OYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBzb21lUHJpdmF0ZVN0dWZmKCk6IFVuaXQgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ZnVuIGRpc3BsYXkoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludGxuKCJOYW1lIGlzICR7a2V2aW4uTmFtZX0iKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrZXZpbi5OYW1lID0gIlN0ZXZlIgo=</text>
+        <text encoding="base64">ICBhZGRyLmZyYWdtZW50Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1772,10 +1772,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIGNvbm5lY3QoYWRkcjogVVJJKSB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcmludGxuKCJOYW1lIGlzICR7a2V2aW4uTmFtZX0iKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB2YXIgcmVhZGVyID0gRmlsZVJlYWRlcigiRmlsZU5hbWUudHh0IikKICB0cnkgewogICAgcmVhZGVyLnJlYWQoKQogIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CgogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1822,7 +1822,6 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action RenameElement</entry>
-        <entry>action EditorDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action OptimizeImports</entry>
@@ -1831,8 +1830,9 @@
         <entry>action FileStructurePopup</entry>
         <entry>action ChangesView.Commit</entry>
         <entry>action GotoFile</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>action AceAction</entry>
+        <entry>action EditorDown</entry>
+        <entry>action MoveStatementDown</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
