@@ -881,11 +881,8 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/testing-kotlin/src/main.kt" timestamp="1522875429277">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/projects/testing-kotlin/src/main.kt" timestamp="1522876472054">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/make-offer-form.tsx" timestamp="1496654021937">
         <mark key="'" line="99" column="0" />
@@ -1623,7 +1620,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHsgOjpwcmludGxuIH0=</text>
+        <text>a?.toString()</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1699,7 +1696,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgOjpwcmludGxuIH0=</text>
+        <text>a?.toString()</text>
       </register>
       <register name="/" type="4">
         <text>isloaded</text>
@@ -1708,13 +1705,13 @@
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgYSA9IDEuLjEwCg==</text>
+        <text encoding="base64">ICBhLmZvckVhY2goOjpwcmludGxuKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhLmZpbHRlciB7ICB9Cg==</text>
+        <text encoding="base64">ICBhLmNvbnRhaW5zKDUpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1746,19 +1743,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U29tZXRoaW5nLm5hbWUuZmlsdGVye2l0fQo=</text>
+        <text encoding="base64">ICB2YWwgYSA9IDEuLjEwIHN0ZXAgMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBTdHVkZW50KG5hbWU6IFN0cmluZykgewogICAgaW5maXggZnVuIGFkZChhbm90aGVyU3R1ZGVudDogU3R1ZGVudCk6IFN0dWRlbnQgewogICAgICByZXR1cm4gYW5vdGhlclN0dWRlbnQKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICB2YWwgYSA9IDEuLjEwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBhLmZpbHRlciB7ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U29tZXRoaW5nLm5hbWUuZmlsdGVye2l0fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3BlbiBjbGFzcyBQZXJzb24obmFtZTogU3RyaW5nLCBhZ2U6IEludCA9IDApIHsK</text>
+        <text encoding="base64">ICBjbGFzcyBTdHVkZW50KG5hbWU6IFN0cmluZykgewogICAgaW5maXggZnVuIGFkZChhbm90aGVyU3R1ZGVudDogU3R1ZGVudCk6IFN0dWRlbnQgewogICAgICByZXR1cm4gYW5vdGhlclN0dWRlbnQKICAgIH0KICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1771,10 +1768,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIGtldmluID0gUGVyc29uKCJuYW1lIikK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
