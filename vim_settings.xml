@@ -72,12 +72,6 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513247470617">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="16" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/forge-viewer-adapter/.gitignore" timestamp="1516034301827">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="1" column="5" />
@@ -287,6 +281,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513247470617">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/core/lib/react/root-node.ts" timestamp="1484048045806">
         <mark key="'" line="2" column="38" />
         <mark key="[" line="23" column="34" />
@@ -378,12 +378,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1513094368119">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/gallery/asset-gallery.tsx" timestamp="1498415256954">
         <mark key="[" line="37" column="78" />
@@ -1068,6 +1062,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1513094368119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sputnik/src/pages/reports.tsx" timestamp="1487496062760">
         <mark key="'" line="30" column="11" />
         <mark key="[" line="9" column="35" />
@@ -1197,6 +1197,12 @@
         <mark key="]" line="103" column="55" />
         <mark key="." line="103" column="55" />
         <mark key="^" line="103" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/link-collector/src/App.vue" timestamp="1530947791061">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="61" />
+        <mark key="^" line="3" column="61" />
+        <mark key="." line="3" column="61" />
       </file>
       <file name="$USER_HOME$/projects/sputnik/src/components/asset-top-strip.tsx" timestamp="1496649648663">
         <mark key="'" line="150" column="67" />
@@ -1385,6 +1391,11 @@
         <mark key="." line="24" column="30" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/link-collector/src/components/HelloWorld.vue" timestamp="1530947728672">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/ReadFromServerThread.java" timestamp="1497471307410">
         <mark key="[" line="27" column="53" />
         <mark key="]" line="27" column="53" />
@@ -1514,9 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="60" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="18" column="17" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
-      <jump line="56" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="87" column="4" filename="$USER_HOME$/projects/chopper/src/modules/Scene/ViewerController.ts" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
       <jump line="198" column="12" filename="$USER_HOME$/projects/ios-app/web/src/modules/Scene/ViewerController.ts" />
@@ -1614,13 +1622,16 @@
       <jump line="7" column="28" filename="$USER_HOME$/projects/testing-kotlin/src/main.kt" />
       <jump line="0" column="18" filename="$USER_HOME$/projects/testing-kotlin/src/main.kt" />
       <jump line="1" column="2" filename="$USER_HOME$/projects/testing-kotlin/src/main.kt" />
+      <jump line="41" column="16" filename="$USER_HOME$/projects/link-collector/src/components/HelloWorld.vue" />
+      <jump line="2" column="11" filename="$USER_HOME$/projects/link-collector/src/components/HelloWorld.vue" />
+      <jump line="37" column="18" filename="$USER_HOME$/projects/link-collector/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>a?.toString()</text>
+        <text>:align=&quot;&quot;</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1696,10 +1707,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>a?.toString()</text>
+        <text>:align=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>isloaded</text>
+        <text>msg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgTm9kZUlELCBWaWV3ZXIzREFkYXB0ZXIgfSBmcm9tICdAYXN0cmFsaW5rL2ZvcmdlLXZpZXdlci1hZGFwdGVyJwo=</text>
@@ -1774,13 +1785,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>isloaded</last-search>
+      <last-search>msg</last-search>
       <last-offset />
-      <last-pattern>isloaded</last-pattern>
+      <last-pattern>msg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -1788,7 +1799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>promisefactory</entry>
         <entry encoding="base64">XDxQcm9taXNlRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxwcm9taXNlRmFjdG9yeVw+</entry>
         <entry>viewer3dadapter</entry>
@@ -1808,6 +1818,7 @@
         <entry encoding="base64">XDxWaWV3ZXIzREFkYXB0ZXJcPg==</entry>
         <entry>openbrowser</entry>
         <entry>isloaded</entry>
+        <entry>msg</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist optimize</entry>
@@ -1819,7 +1830,6 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
@@ -1830,6 +1840,7 @@
         <entry>action ChangesView.Commit</entry>
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
