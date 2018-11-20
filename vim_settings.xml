@@ -1392,10 +1392,9 @@
         <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/projects/link-collector/src/components/HelloWorld.vue" timestamp="1530947728672">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/projects/4inrow/src/main/ReadFromServerThread.java" timestamp="1497471307410">
         <mark key="[" line="27" column="53" />
